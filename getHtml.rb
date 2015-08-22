@@ -43,15 +43,15 @@ DatasetStruct = Struct.new(:dataId, :url, :dataDesc) do
 end
 
 JSON_FILE_CONST = "dataidx.json" 
-pageNumber = 67
+pageNumber = 1
 iBreak = 9
 dataSets = Array.new
 
 while iBreak > 0
     xBreak = 5
-    puts "Page number:"+pageNumber.to_s
+#    puts "Page number:"+pageNumber.to_s
     page = getPage(pageNumber.to_s)
-    puts page.css("title").text
+#    puts page.css("title").text
     dataRows = getItemScope(page)
     if dataRows.length == 0
         iBreak = 0
@@ -77,7 +77,7 @@ while iBreak > 0
     end
 
 end
-puts "Datasets:" + dataSets.length.to_s
+# puts "Datasets:" + dataSets.length.to_s
 arraySep = ", "+"\n"
 aCnt = 0
 writeJSON(JSON_FILE_CONST, "["+ "\n", 'w')
@@ -91,8 +91,3 @@ dataSets.each do |aRow|
     writeJSON(JSON_FILE_CONST, JSON.pretty_generate(aRow)+arraySep, 'a')
 end
 writeJSON(JSON_FILE_CONST, "]", 'a')
-puts xBreak
-
-# page = Nokogiri::HTML(open("https://data.ct.gov/browse"))   
-# puts page.class   # => Nokogiri::HTML::Document
-    puts "something"
