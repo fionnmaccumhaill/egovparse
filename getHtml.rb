@@ -49,9 +49,7 @@ dataSets = Array.new
 
 while iBreak > 0
     xBreak = 5
-#    puts "Page number:"+pageNumber.to_s
     page = getPage(pageNumber.to_s)
-#    puts page.css("title").text
     dataRows = getItemScope(page)
     if dataRows.length == 0
         iBreak = 0
@@ -82,8 +80,6 @@ arraySep = ", "+"\n"
 aCnt = 0
 writeJSON(JSON_FILE_CONST, "["+ "\n", 'w')
 dataSets.each do |aRow|
-#    puts aRow.dataId+" "+aRow.url
-#    puts JSON.pretty_generate(aRow)
     aCnt += 1
     if dataSets.length <= aCnt 
         arraySep = " "+"\n" 
