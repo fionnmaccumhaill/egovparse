@@ -19,10 +19,10 @@ contains the Ruby script and the JSON file with the information about the
 datasets. Each row in the JSON file contains the information about one dataset.
 The format of each row is:
 
-"dataId":   dataId   #the dataId for the access to the file
-"url":      url      #the link to the page on the CT Open Data website for this dataset
-"dataDesc": dataDesc #a description of the dataset. This is a string which can
-                     #be very long.
+"dataId":   dataId   - the dataId for the access to the file
+"url":      url      - the link to the page on the CT Open Data website for this dataset
+"dataDesc": dataDesc  - a description of the dataset. This is a string which can
+                        be very long.
                      
 Here is an example row from the file:
 
