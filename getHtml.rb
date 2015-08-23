@@ -75,7 +75,6 @@ while iBreak > 0
     end
 
 end
-# puts "Datasets:" + dataSets.length.to_s
 arraySep = ", "+"\n"
 aCnt = 0
 writeJSON(JSON_FILE_CONST, "["+ "\n", 'w')
