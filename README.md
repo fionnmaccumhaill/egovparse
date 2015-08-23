@@ -35,6 +35,7 @@ Here is an example row from the file:
 To access the dataset use the following url:
 
 https://data.ct.gov/resource/dataId.json
+
 Where dataId is the dataId from the JSON file. You can also substitute
    .csv for .json in the url.
    I have not worked out the details of pulling non-text datasets from the site
