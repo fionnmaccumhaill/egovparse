@@ -4,30 +4,28 @@ require 'open-uri'
 require 'json'
 require 'json/add/core'
 
+# Read the referenced file from the CT Open Data website and
+#    save to the local directory
 def getFile(aFileIdx)
-    puts aFileIdx
-    # https://data.ct.gov/resource/dataId.json
     open(aFileIdx+'.json', 'wb') do |file|
         file << open('https://data.ct.gov/resource/'+aFileIdx+'.json').read
     end
     return ''
 end
 
+# Load the index file into a json object
 def loadFileIdx(aFileName)
     jf = ''
     File.open( aFileName, "r" ) do |f|
         jf = JSON.load( f )
     end
-#    puts jf
     return jf
 end
 
 JSON_FILE_CONST = "dataidx.json" 
-jfIdx = ARGV[0].to_i
+jfIdx = ARGV[0].to_i     # the first arg is index of the json array
+                         #    created with ctdata_create_index
 
 jsonIdx = loadFileIdx(JSON_FILE_CONST)
-puts 'after loadFileIdx'
-# puts("length:"+jsonIdxArray.length.to_S)
-puts jsonIdx.length
-puts jsonIdx[jfIdx]["url"]+" : "+jsonIdx[jfIdx]["dataId"]
+
 getFile(jsonIdx[jfIdx]["dataId"])
