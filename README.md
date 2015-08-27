@@ -43,10 +43,4 @@ Where dataId is the dataId from the JSON file. You can also substitute
    I have not worked out the details of pulling non-text datasets from the site
    but I will update the README when I have done so.
 
-The getHtml.rb Ruby script will create a file called dataidx.json which will be
-updated periodically by me. If you wish to create your own file run the Ruby
-script. You are going to need the nokogiri and JSON gems installed before you
-run the script.Be aware this is one of the first Ruby scripts I have ever written
-so there might be bugs and other bad programming techniques scattered throughout
-the code. At present there are no useful comments in the code and the variable
-names need to be improved. 
+The ctdata_create_index.rb Ruby script will create a file called dataidx.json which will be updated periodically by me. If you wish to create your own file run the Ruby script. You are going to need the nokogiri and JSON gems installed before you run the script. Be aware this is one of the first Ruby scripts I have ever written so there might be bugs and other bad programming techniques scattered throughout the code. At present there are no useful comments in the code and the variable names need to be improved. 
