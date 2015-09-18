@@ -1,4 +1,4 @@
-*** Warning ^^^
+*** Warning ***
 This project is undergoing some reorganization at the present time.
 With any luck I will be done with the reorg and back to coding by the weekend. If you are looking for the dataidx.json file the most recent copy exists in the datafiles directory.
 
