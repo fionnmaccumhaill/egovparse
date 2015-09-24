@@ -47,10 +47,9 @@ module CTDataIndexModule
             to_map.to_json(*a)
         end
     end
-    JSON_FILE_CONST = "dataidx.json"
-    JSON_DIR_CONST = "datafiles/"
-
-    def createIdx()
+    
+    def createIdx(aIndexFile)
+        puts "index file:"+aIndexFile
         # clean up the indentation once this is tested out    
         pageNumber = 1
         iBreak = 9
@@ -85,18 +84,18 @@ module CTDataIndexModule
         end
         arraySep = ", "+"\n"
         aCnt = 0
-        puts "Before writing the first bracket"
-        writeJSON(JSON_DIR_CONST+JSON_FILE_CONST, "["+ "\n", 'w')
-        puts "After writing the first bracket"
+#        puts "Before writing the first bracket"
+        writeJSON(aIndexFile, "["+ "\n", 'w')
+#        puts "After writing the first bracket"
         dataSets.each do |aRow|
             aCnt += 1
             if dataSets.length <= aCnt 
                 arraySep = " "+"\n" 
             end
-            writeJSON(JSON_DIR_CONST+JSON_FILE_CONST,         JSON.pretty_generate(aRow)+arraySep, 'a')
+            writeJSON(aIndexFile, JSON.pretty_generate(aRow)+arraySep, 'a')
         end
-        puts "After writing file contents"
-        writeJSON(JSON_DIR_CONST+JSON_FILE_CONST, "]"+ "\n", 'a')
+#        puts "After writing file contents"
+        writeJSON(aIndexFile, "]"+ "\n", 'a')
     end
 
 end
