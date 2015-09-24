@@ -9,36 +9,72 @@ require './lib/CTDataRetrieveModule'
 JSON_FILE_CONST = "dataidx.json"
 JSON_DIR_CONST = "datafiles/"
 
-def createIndex()
+def createIndex(aIndexFile)
     tm = Object.new
     tm.extend(CTDataIndexModule)
     tm.echo("creating index")
-    tm.createIdx()
+    tm.createIdx(aIndexFile)
 end
 
-def retrieveData()
+def retrieveAllDatasets()
     tm = Object.new
     tm.extend(CTDataRetrieveModule)
-    tm.echo("retriveing data")
-    tm.echo("something something something else")
     tm.retrieve(JSON_DIR_CONST+JSON_FILE_CONST, JSON_DIR_CONST)
+end
+
+def retrieveDataset(aDatasetIndex)
+    tm = Object.new
+    tm.extend(CTDataRetrieveModule)
+    tm.retrieveDataset(aDatasetIndex, JSON_DIR_CONST)
+end
+
+def cleanup(aDataDirectory)
+    Dir.foreach(aDataDirectory) do |item|
+        next if item == '.' or item == '..'
+  # do work on real items
+        fsize = File.stat(aDataDirectory+item).size
+        if fsize == 0
+         #   puts item + " " + fsize.to_s
+            ds = item.split(".").first
+            retrieveDataset(ds)
+        end
+    end
 end
 
 # Ruby application code.
 # This code is not ready to run and is just a placeholder at present.
 
+if ARGV.empty?
+    # fix the usage display
+    puts "Usage is: ruby egovparse.rb [index] indexfile"
+    puts "          ruby egovparse.rb [retrieve] dataindex "
+    puts "          ruby egovparse.rb [retrieve] "
+    puts "          ruby egovparse.rb [cleanup] "
+    exit 1
+end
+
 puts "args:"+ARGV.length.to_s
-appName=ARGV[0]
-pathName=ARGV[1]
-puts "App Name:"+appName.to_s+" path:"+pathName.to_s
-puts "last char:"+pathName[-1, 1]
+aCommand=ARGV.shift
+puts "command:"+aCommand
+# pathName=ARGV[1]
+# puts "App Name:"+appName.to_s+" path:"+pathName.to_s
+# puts "last char:"+pathName[-1, 1]
 
-if ARGV[0] == "index"
-    createIndex()
+if aCommand == "index"
+    indexFile = ARGV.shift || JSON_DIR_CONST+JSON_FILE_CONST
+    puts "index file:"+indexFile
+    createIndex(indexFile)
 end
 
-if ARGV[0] == "retrieve"
-    retrieveData()
+if aCommand == "retrieve"
+    if ARGV.length == 0
+        retrieveAllDatasets()
+    else
+        retrieveDataset(ARGV[0])
+    end
+    # retrieveData()
 end
 
-puts "done"
+if aCommand == "cleanup"
+    cleanup(JSON_DIR_CONST)
+end
