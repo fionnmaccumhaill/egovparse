@@ -53,16 +53,16 @@ if ARGV.empty?
     exit 1
 end
 
-puts "args:"+ARGV.length.to_s
+# puts "args:"+ARGV.length.to_s
 aCommand=ARGV.shift
-puts "command:"+aCommand
+# puts "command:"+aCommand
 # pathName=ARGV[1]
 # puts "App Name:"+appName.to_s+" path:"+pathName.to_s
 # puts "last char:"+pathName[-1, 1]
 
 if aCommand == "index"
     indexFile = ARGV.shift || JSON_DIR_CONST+JSON_FILE_CONST
-    puts "index file:"+indexFile
+  #  puts "index file:"+indexFile
     createIndex(indexFile)
 end
 
