@@ -49,8 +49,6 @@ module CTDataIndexModule
     end
     
     def createIdx(aIndexFile)
-        puts "index file:"+aIndexFile
-        # clean up the indentation once this is tested out    
         pageNumber = 1
         iBreak = 9
         dataSets = Array.new

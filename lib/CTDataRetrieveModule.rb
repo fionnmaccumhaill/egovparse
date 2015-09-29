@@ -20,23 +20,19 @@ module CTDataRetrieveModule
     # Read the referenced file from the CT Open Data website and
     #    save to a local directory
     def getFile(aFileIdx, aDirectory)
-        puts "file index:"+aFileIdx
-        puts "aDirecotry:"+aDirectory
         dsURL='https://data.ct.gov/resource/'+aFileIdx+'.json'
         altDSURL='https://data.ct.gov/api/views/'+aFileIdx
        # puts dsURL
         retryCnt = 0
         currentURL = dsURL
         begin
-            puts "using:"+currentURL
             open(aDirectory+aFileIdx+'.json', 'wb') do |file|
                 file << open(currentURL).read
             end
-            puts "after first url read"
         rescue
-            puts "error reading index:"+aFileIdx
+  #          puts "error reading index:"+aFileIdx
             if retryCnt < 1
-                puts "retry"
+   #             puts "retry"
                 currentURL = altDSURL
                 retryCnt += 1
                 retry
@@ -60,13 +56,10 @@ module CTDataRetrieveModule
     # aOutputDirectory -
     # Retrieve all the files in the 
     def retrieve(aIndexFile, aOutputDirectory)
-        puts "retrieving all datasets"
-        puts "idx file:"+aIndexFile
-        puts "output dir:"+aOutputDirectory
         jsonIdx = loadFileIdx(aIndexFile)
 #       puts "length of index:"+jsonIdx.length.to_s
-        for jfIdx in 401..jsonIdx.length
-   #         getFile(jsonIdx[jfIdx]["dataId"], aOutputDirectory)
+        for jfIdx in 0..jsonIdx.length
+            getFile(jsonIdx[jfIdx]["dataId"], aOutputDirectory)
         end
     end
     
@@ -77,8 +70,6 @@ module CTDataRetrieveModule
     # Retrieve a single file from the CT Open Data website
     
     def retrieveDataset(aDSidx, aOutputDirectory)
-        puts "retrieving a dataset:"+aDSidx
-        puts "output directory:"+aOutputDirectory
         getFile(aDSidx, aOutputDirectory)
     end
 
