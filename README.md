@@ -1,7 +1,3 @@
-*** Warning ***
-This project is undergoing some reorganization at the present time.
-With any luck I will be done with the reorg and back to coding by the weekend. If you are looking for the dataidx.json file the most recent copy exists in the datafiles directory.
-
 The State of Connecticut provides open datasets at:
 
 https://data.ct.gov/browse
@@ -11,11 +7,7 @@ of Department of Revenue Services tax credits claimed. There are csv files,
 maps, charts and calendars. 
 
 You can use the CT Open Data website to search for the data you want. However,
-I could not find a file with an index to all the available datasets which would
-be handy to programmatically pull the datasets. I decided a JSON file with a
-list of all datasets would be useful so I wrote a small Ruby script to screen
-scrape the CT Open Data website and pull the information on the 600+ datasets
-that are currently available. This repository:
+I could not find a file with an index to all the available datasets which would be handy to programmatically search or pull the datasets. I decided a JSON file with a list of all datasets would be useful so I wrote a small Ruby script to screen scrape the CT Open Data website and pull the information on the 500+ datasets that are currently available. This repository:
 
 https://github.com/fionnmaccumhaill/egovparse
 
@@ -42,9 +34,14 @@ To access the dataset use the following url:
 
 https://data.ct.gov/resource/dataId.json
 
-Where dataId is the dataId from the JSON file. You can also substitute
-   .csv for .json in the url.
-   I have not worked out the details of pulling non-text datasets from the site
-   but I will update the README when I have done so.
+Where dataId is the dataId from the JSON file. You can also substitute .csv for .json in the url.
 
-The ctdata_create_index.rb Ruby script will create a file called dataidx.json which will be updated periodically by me. If you wish to create your own file run the Ruby script. You are going to need the nokogiri and JSON gems installed before you run the script. Be aware this is one of the first Ruby scripts I have ever written so there might be bugs and other bad programming techniques scattered throughout the code. At present there are no useful comments in the code and the variable names need to be improved. 
+The non-text datasets, such as maps, are more problematic. Some of the map datasets will give you a JSON file with coordinates. Most seem to give you nothing. 
+
+The Ruby script that controls the creation of the index and pulling the datasets from the data.ct.gov is in the egovparse.rb script.
+
+The Ruby code that does the index creation and pulling the data is in the lib directory of the repository.
+
+The script will create a file called dataidx.json and will put it in the datafiles directory. I will upload the index periodically in case you do not wish to create it yourself. The script to create the index runs for several minutes on my MacBook Pro so be patient. 
+
+The egovparse.rb script also allows you to pull all or any of the datasets. Check the code for the format. If you decide to pull all of the datasets yourself be aware that, at present time, there are 500+ datasets and they take up ~300MB. 
