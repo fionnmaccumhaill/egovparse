@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'fileutils'
 
-puts "starting" 
+# puts "starting" 
 
 require './lib/CTDataIndexModule'
 require './lib/CTDataRetrieveModule'
@@ -14,6 +14,13 @@ def createIndex(aIndexFile)
     tm.extend(CTDataIndexModule)
     tm.echo("creating index")
     tm.createIdx(aIndexFile)
+end
+
+def showStats(aIndexFile)
+    tm = Object.new
+    tm.extend(CTDataIndexModule)
+    tm.echo("creating index")
+    tm.showIndexStats(aIndexFile)
 end
 
 def retrieveAllDatasets()
@@ -47,6 +54,7 @@ end
 if ARGV.empty?
     # fix the usage display
     puts "Usage is: ruby egovparse.rb [index] indexfile"
+    puts "          ruby egovparse.rb [stats] indexfile"
     puts "          ruby egovparse.rb [retrieve] dataindex "
     puts "          ruby egovparse.rb [retrieve] "
     puts "          ruby egovparse.rb [cleanup] "
@@ -64,6 +72,12 @@ if aCommand == "index"
     indexFile = ARGV.shift || JSON_DIR_CONST+JSON_FILE_CONST
   #  puts "index file:"+indexFile
     createIndex(indexFile)
+end
+
+if aCommand == "stats"
+    indexFile = ARGV.shift || JSON_DIR_CONST+JSON_FILE_CONST
+  #  puts "index file:"+indexFile
+    showStats(indexFile)
 end
 
 if aCommand == "retrieve"
