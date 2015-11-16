@@ -48,6 +48,14 @@ module CTDataIndexModule
         end
     end
     
+    def showIndexStats(aIndexFile)
+        jf = ''
+        File.open( aIndexFile, "r" ) do |f|
+            jf = JSON.load( f )
+        end
+        puts "length of index:"+jf.length.to_s
+    end
+    
     def createIdx(aIndexFile)
         pageNumber = 1
         iBreak = 9
