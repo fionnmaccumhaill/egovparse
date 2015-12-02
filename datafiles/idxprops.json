@@ -129,17 +129,6 @@
     "y",
     "x"
   ],
-  "9k2y-kqxn": [
-    "phone",
-    "student_open_date",
-    "organization_code",
-    "zipcode",
-    "organization_type",
-    "interdistrict_magnet",
-    "district_name",
-    "name",
-    "location_1"
-  ],
   "xnw3-nytd": [
     "loan_amount",
     "grant_amount",
@@ -168,6 +157,17 @@
     "company",
     "funding_source",
     "job_obligation_status",
+    "location_1"
+  ],
+  "9k2y-kqxn": [
+    "phone",
+    "student_open_date",
+    "organization_code",
+    "zipcode",
+    "organization_type",
+    "interdistrict_magnet",
+    "district_name",
+    "name",
     "location_1"
   ],
   "4fea-hsfc": [
@@ -311,9 +311,6 @@
     "recovery",
     "status",
     "subreason"
-  ],
-  "xdcq-7svw": [
-
   ],
   "e7pk-v6dc": [
     "aggravated_assault_rate",
@@ -490,6 +487,13 @@
     "agency_name",
     "project_description"
   ],
+  "wpv6-bgy7": [
+    "grand_list_year",
+    "town_code",
+    "municipality",
+    "service_district_code",
+    "millrate"
+  ],
   "baka-5j97": [
     "column2",
     "contraband_indicator",
@@ -523,13 +527,6 @@
   ],
   "hs2a-geze": [
 
-  ],
-  "wpv6-bgy7": [
-    "grand_list_year",
-    "town_code",
-    "municipality",
-    "service_district_code",
-    "millrate"
   ],
   "3bmw-7hhc": [
     "black_or_african_american",
@@ -667,6 +664,10 @@
     "total_capital_funds_requested",
     "bond_commission_approval"
   ],
+  "vjbt-sk9a": [
+    "sum_2015_total",
+    "town"
+  ],
   "6sqd-m2ur": [
     "date",
     "tolland_windham_high",
@@ -715,10 +716,6 @@
     "location_1",
     "gross_square_feet"
   ],
-  "vjbt-sk9a": [
-    "sum_2015_total",
-    "town"
-  ],
   "xf58-9cbu": [
     "shelter",
     "expbus",
@@ -733,6 +730,21 @@
     "comments",
     "hcap_spaces",
     "size"
+  ],
+  "fzp6-x2p2": [
+    "total",
+    "school_name",
+    "male",
+    "white",
+    "two_or_more_races",
+    "hispanic",
+    "american_indian",
+    "institution_code",
+    "district_code",
+    "district_name",
+    "female",
+    "pacific_islander",
+    "school_code"
   ],
   "r8ci-yhcn": [
     "part_of_which_facility",
@@ -756,21 +768,6 @@
     "town",
     "location_1",
     "gross_square_feet"
-  ],
-  "fzp6-x2p2": [
-    "total",
-    "school_name",
-    "male",
-    "white",
-    "two_or_more_races",
-    "hispanic",
-    "american_indian",
-    "institution_code",
-    "district_code",
-    "district_name",
-    "female",
-    "pacific_islander",
-    "school_code"
   ],
   "6jbs-sz9a": [
     "saleprice",
@@ -801,6 +798,21 @@
     "st",
     "location_1",
     "first"
+  ],
+  "q37v-bj6t": [
+    "shelter",
+    "expbus",
+    "location",
+    "paved",
+    "route",
+    "locbus",
+    "avg_occupancy",
+    "town",
+    "location_1",
+    "lighted",
+    "comments",
+    "hcap_spaces",
+    "size"
   ],
   "t7dz-qwpn": [
     "spi_overall_2013",
@@ -860,21 +872,6 @@
     "emp_projections_2020",
     "percent_change"
   ],
-  "q37v-bj6t": [
-    "shelter",
-    "expbus",
-    "location",
-    "paved",
-    "route",
-    "locbus",
-    "avg_occupancy",
-    "town",
-    "location_1",
-    "lighted",
-    "comments",
-    "hcap_spaces",
-    "size"
-  ],
   "dvbh-gnkq": [
 
   ],
@@ -905,6 +902,14 @@
     "all_ages",
     "_10_to_14_years_old"
   ],
+  "9ttv-epup": [
+    "category",
+    "other",
+    "schoolname",
+    "districtname",
+    "still_enrolled",
+    "_4_year_graduation_rate"
+  ],
   "3tvg-dry3": [
     "tfa_regular_cases",
     "tfa_regular_recip",
@@ -922,14 +927,6 @@
     "tfa_total_recip",
     "state_supplement_total",
     "tfa_unemployed_parent_cases"
-  ],
-  "9ttv-epup": [
-    "category",
-    "other",
-    "schoolname",
-    "districtname",
-    "still_enrolled",
-    "_4_year_graduation_rate"
   ],
   "4b3c-3g3a": [
     "fund_type",
@@ -958,6 +955,26 @@
     "payment_id",
     "invoice_id",
     "payment_method"
+  ],
+  "ihra-gwrn": [
+    "total_tax_credits_issued",
+    "total_number_of_investments",
+    "project_municipality",
+    "applicant_recipient",
+    "applicant_city",
+    "location1",
+    "contract_date_allocation_date",
+    "applicant_address",
+    "statutory_reference",
+    "total_tax_credit_allocation",
+    "program_name",
+    "applicant_state",
+    "project_address",
+    "total_qualified_expenditures",
+    "applicant_zip_code",
+    "tax_credits_issued_2013",
+    "tax_credits_issued_2015",
+    "tax_credits_issued_2014"
   ],
   "bb6g-79yj": [
     "total",
@@ -989,26 +1006,6 @@
     "salesratio",
     "serialnbr"
   ],
-  "ihra-gwrn": [
-    "total_tax_credits_issued",
-    "total_number_of_investments",
-    "project_municipality",
-    "applicant_recipient",
-    "applicant_city",
-    "location1",
-    "contract_date_allocation_date",
-    "applicant_address",
-    "statutory_reference",
-    "total_tax_credit_allocation",
-    "program_name",
-    "applicant_state",
-    "project_address",
-    "total_qualified_expenditures",
-    "applicant_zip_code",
-    "tax_credits_issued_2013",
-    "tax_credits_issued_2015",
-    "tax_credits_issued_2014"
-  ],
   "4nwy-gtnv": [
     "administering_agency",
     "grant_amount",
@@ -1019,9 +1016,6 @@
     "year"
   ],
   "5upe-dp4n": [
-
-  ],
-  "v75z-3e8f": [
 
   ],
   "8udc-aepg": [
@@ -1038,6 +1032,9 @@
     "salesratio",
     "residentialunits",
     "listyear"
+  ],
+  "v75z-3e8f": [
+
   ],
   "3z9z-e275": [
     "phone",
@@ -1056,9 +1053,6 @@
     "interdistrict_magnet",
     "name",
     "location_1"
-  ],
-  "8bzn-e4av": [
-
   ],
   "bimu-2gpn": [
     "hospitalization_crude_rate_per_10_000",
@@ -1174,11 +1168,28 @@
     "dpi_math_2013",
     "frl_dpi_overall_status"
   ],
+  "462s-gvki": [
+    "office",
+    "zip_code",
+    "location",
+    "location_1",
+    "type",
+    "url"
+  ],
   "cx54-imuf": [
     "status_of_ihz"
   ],
   "57m7-8hcy": [
 
+  ],
+  "ufj7-82t7": [
+    "total",
+    "special_education_2",
+    "special_education_1",
+    "english_language_learner_1",
+    "district_name",
+    "eligible_for_free_or_reduced_price_lunch_2",
+    "eligible_for_free_or_reduced_price_lunch_1"
   ],
   "kbxi-4ia7": [
     "school",
@@ -1193,14 +1204,6 @@
     "district",
     "district_number",
     "test_takers_2012"
-  ],
-  "462s-gvki": [
-    "office",
-    "zip_code",
-    "location",
-    "location_1",
-    "type",
-    "url"
   ],
   "ni9a-2r7j": [
     "sum_dcf_highmeadows",
@@ -1268,14 +1271,15 @@
     "personnel_other",
     "personnel_suppression"
   ],
-  "ufj7-82t7": [
-    "total",
-    "special_education_2",
-    "special_education_1",
-    "english_language_learner_1",
-    "district_name",
-    "eligible_for_free_or_reduced_price_lunch_2",
-    "eligible_for_free_or_reduced_price_lunch_1"
+  "xvk4-mcyd": [
+    "phone",
+    "student_open_date",
+    "organization_code",
+    "zipcode",
+    "organization_type",
+    "interdistrict_magnet",
+    "name",
+    "location_1"
   ],
   "aipy-qbpj": [
     "date",
@@ -1304,16 +1308,6 @@
     "middlesex_high",
     "statewide_high"
   ],
-  "xvk4-mcyd": [
-    "phone",
-    "student_open_date",
-    "organization_code",
-    "zipcode",
-    "organization_type",
-    "interdistrict_magnet",
-    "name",
-    "location_1"
-  ],
   "nyid-9wnx": [
     "total_credits_claimed",
     "count2",
@@ -1322,12 +1316,6 @@
     "insurance_premiums_taxes",
     "total_count",
     "type_of_credit"
-  ],
-  "tghy-ygnr": [
-    "sum_sentenced_status_count",
-    "sum_total_facility_population_count",
-    "sum_accused_other_status_count",
-    "date"
   ],
   "cjb2-fkhn": [
     "transportation_fund",
@@ -1338,6 +1326,12 @@
     "agency_title",
     "federal_funds",
     "nonapropriated_funds"
+  ],
+  "tghy-ygnr": [
+    "sum_sentenced_status_count",
+    "sum_total_facility_population_count",
+    "sum_accused_other_status_count",
+    "date"
   ],
   "uh3c-4r63": [
     "countyfp10",
@@ -1437,6 +1431,27 @@
     "sum_accused_other_status_count",
     "date"
   ],
+  "7wmu-r63a": [
+    "region",
+    "office",
+    "independent_living",
+    "dcf_solnit",
+    "dcf_highmeadows",
+    "data_as_of",
+    "residential",
+    "outofstate",
+    "demographic",
+    "special_study",
+    "dcf_cjts",
+    "group_home",
+    "relative_care",
+    "medical",
+    "shelter",
+    "month_in_care",
+    "pdc_safe_home",
+    "foster_care",
+    "therapeutic_foster_care"
+  ],
   "j9dq-in2k": [
     "_1988_89",
     "_2004_05",
@@ -1470,6 +1485,14 @@
     "_2005_06",
     "town"
   ],
+  "sus6-q2ti": [
+    "category",
+    "other",
+    "district_name",
+    "still_enrolled",
+    "certificate_of_attendance",
+    "_4_year_rates"
+  ],
   "nzpk-n5gc": [
     "phone",
     "student_open_date",
@@ -1479,35 +1502,6 @@
     "interdistrict_magnet",
     "name",
     "location_1"
-  ],
-  "sus6-q2ti": [
-    "category",
-    "other",
-    "district_name",
-    "still_enrolled",
-    "certificate_of_attendance",
-    "_4_year_rates"
-  ],
-  "7wmu-r63a": [
-    "region",
-    "office",
-    "independent_living",
-    "dcf_solnit",
-    "dcf_highmeadows",
-    "data_as_of",
-    "residential",
-    "outofstate",
-    "demographic",
-    "special_study",
-    "dcf_cjts",
-    "group_home",
-    "relative_care",
-    "medical",
-    "shelter",
-    "month_in_care",
-    "pdc_safe_home",
-    "foster_care",
-    "therapeutic_foster_care"
   ],
   "hma6-9xbg": [
     "category",
@@ -1520,9 +1514,6 @@
     "phone1",
     "business"
   ],
-  "rnv4-pp5b": [
-
-  ],
   "d75v-c5rd": [
     "office",
     "zip_code",
@@ -1530,17 +1521,6 @@
     "location_1",
     "type",
     "url"
-  ],
-  "kbx6-3an2": [
-    "fax",
-    "last",
-    "email",
-    "tel",
-    "town_city",
-    "agency",
-    "st",
-    "location_1",
-    "first"
   ],
   "stm9-38x4": [
     "_2006",
@@ -1568,6 +1548,17 @@
     "towns",
     "_2011",
     "_2002"
+  ],
+  "kbx6-3an2": [
+    "fax",
+    "last",
+    "email",
+    "tel",
+    "town_city",
+    "agency",
+    "st",
+    "location_1",
+    "first"
   ],
   "khxa-vid2": [
     "leaseid",
@@ -1694,8 +1685,11 @@
     "affiliated_health_system_hospital_or_non_affiliated",
     "cash_flow_to_total_debt_ratio"
   ],
-  "c9nz-yr3i": [
-
+  "q8eg-b88c": [
+    "station_name",
+    "phone",
+    "station_type",
+    "location_1"
   ],
   "phi9-kmgy": [
     "project_zip_code",
@@ -1716,12 +1710,6 @@
     "applicant_municipality",
     "remediated_acreage"
   ],
-  "q8eg-b88c": [
-    "station_name",
-    "phone",
-    "station_type",
-    "location_1"
-  ],
   "dsrn-u9nm": [
     "region",
     "city_town",
@@ -1735,16 +1723,6 @@
     "st",
     "location_1"
   ],
-  "pqw2-84sz": [
-    "ct_agi",
-    "fed_agi_sum",
-    "number_of_eitc_credits_claimed",
-    "federal_eitc_claimed",
-    "town",
-    "by_town",
-    "amount_of_eitc_claimed",
-    "ct_income_tax"
-  ],
   "4nnp-pivp": [
     "tfa_paid_cases_unduplicated"
   ],
@@ -1756,6 +1734,21 @@
     "group",
     "_2009"
   ],
+  "pqw2-84sz": [
+    "ct_agi",
+    "fed_agi_sum",
+    "number_of_eitc_credits_claimed",
+    "federal_eitc_claimed",
+    "town",
+    "by_town",
+    "amount_of_eitc_claimed",
+    "ct_income_tax"
+  ],
+  "2zji-5rpa": [
+    "id",
+    "recycling",
+    "street_name"
+  ],
   "tga8-h5sq": [
     "category",
     "other",
@@ -1763,13 +1756,14 @@
     "still_enrolled",
     "_4_year_graduation_rate"
   ],
-  "2zji-5rpa": [
-    "id",
-    "recycling",
-    "street_name"
-  ],
   "b6vp-9fht": [
 
+  ],
+  "dhpd-c9cf": [
+    "geocode_label",
+    "poi_site_id",
+    "location_1",
+    "site_name"
   ],
   "6pv4-wi89": [
     "station",
@@ -1783,11 +1777,14 @@
     "beginning_mile_point",
     "adt"
   ],
-  "dhpd-c9cf": [
-    "geocode_label",
-    "poi_site_id",
-    "location_1",
-    "site_name"
+  "i2kw-ntg2": [
+    "tax_due_at_6_35",
+    "total_tax_due_excluding_tax_at_9_35_rate",
+    "tax_due_at_6",
+    "tax_due_at_7",
+    "municipality",
+    "number_of_taxpayers",
+    "total_retail_sales_of_goods"
   ],
   "vwq7-k4tx": [
     "sum_male_count",
@@ -1825,8 +1822,25 @@
     "land_use_ratio",
     "cip_net"
   ],
-  "9y6m-fkd4": [
-
+  "2ar3-hwqi": [
+    "businessname",
+    "zip",
+    "credentialnumber",
+    "recordrefreshedon",
+    "statusreason",
+    "status",
+    "expirationdate",
+    "state",
+    "type",
+    "credentialtype",
+    "credential",
+    "city",
+    "credentialid",
+    "address",
+    "name",
+    "active",
+    "fullcredentialcode",
+    "effectivedate"
   ],
   "pmcx-axfv": [
     "saleprice",
@@ -1840,15 +1854,6 @@
     "residentialunits",
     "serialnbr",
     "listyear"
-  ],
-  "i2kw-ntg2": [
-    "tax_due_at_6_35",
-    "total_tax_due_excluding_tax_at_9_35_rate",
-    "tax_due_at_6",
-    "tax_due_at_7",
-    "municipality",
-    "number_of_taxpayers",
-    "total_retail_sales_of_goods"
   ],
   "79j5-fceg": [
     "free_play_coupons_redeemed_at_slot_machines_3",
@@ -1870,25 +1875,11 @@
     "number_of_taxpayers",
     "total_retail_sales_of_goods"
   ],
-  "2ar3-hwqi": [
-    "businessname",
-    "zip",
-    "credentialnumber",
-    "recordrefreshedon",
-    "statusreason",
-    "status",
-    "expirationdate",
-    "state",
-    "type",
-    "credentialtype",
-    "credential",
-    "city",
-    "credentialid",
-    "address",
-    "name",
-    "active",
-    "fullcredentialcode",
-    "effectivedate"
+  "4s7n-ckr3": [
+    "indicator",
+    "measure",
+    "value",
+    "year"
   ],
   "apne-w8c6": [
     "business_name",
@@ -1896,20 +1887,6 @@
     "zip_code",
     "location_1",
     "business_address"
-  ],
-  "4s7n-ckr3": [
-    "indicator",
-    "measure",
-    "value",
-    "year"
-  ],
-  "6wzs-epmz": [
-    "office",
-    "zip_code",
-    "location",
-    "location_1",
-    "type",
-    "url"
   ],
   "7ikh-6uvh": [
     "total",
@@ -1922,6 +1899,25 @@
     "eligible_for_free_or_reduced_price_lunch_1",
     "dist"
   ],
+  "43fc-9893": [
+    "fiscal_year",
+    "fund_type",
+    "recommended_amount",
+    "program",
+    "department",
+    "service",
+    "ledger_type",
+    "fund",
+    "actual_amount"
+  ],
+  "6wzs-epmz": [
+    "office",
+    "zip_code",
+    "location",
+    "location_1",
+    "type",
+    "url"
+  ],
   "etgx-qn7r": [
     "weighted_average_of_machines",
     "handle",
@@ -1933,6 +1929,21 @@
     "win",
     "fiscal_year_month",
     "payout"
+  ],
+  "vr9v-n6m6": [
+    "amount_fy2011",
+    "amount_fy2012",
+    "amount_fy2013",
+    "amount_fy2014",
+    "amount_fy2006",
+    "amount_fy2007",
+    "amount_fy2004",
+    "vendor",
+    "amount_fy2005",
+    "amount_fy2009",
+    "amount_fy2008",
+    "amount_fy2010",
+    "vendor_name_1"
   ],
   "3ws5-dy44": [
     "zip",
@@ -1955,17 +1966,6 @@
     "fullcredentialcode",
     "effectivedate"
   ],
-  "43fc-9893": [
-    "fiscal_year",
-    "fund_type",
-    "recommended_amount",
-    "program",
-    "department",
-    "service",
-    "ledger_type",
-    "fund",
-    "actual_amount"
-  ],
   "iwn2-hn3h": [
     "end_mile_pt",
     "begin_mile_pt",
@@ -1975,8 +1975,37 @@
     "town",
     "adt"
   ],
+  "biy3-c45y": [
+    "students",
+    "schoolname",
+    "districtname",
+    "language"
+  ],
   "fxjv-82m6": [
 
+  ],
+  "bj6v-3hfz": [
+    "dpi_read_status",
+    "dpi_science_status",
+    "dpi_write_2013",
+    "black_dpi_overall_status",
+    "hispanic_dpi_overall_2013",
+    "swd_dpi_overall_status",
+    "dpi_overall_status",
+    "dpi_write_status",
+    "hispanic_dpi_overall_status",
+    "high_needs_dpi_overall_2013",
+    "dpi_overall_2013",
+    "black_dpi_overall_2013",
+    "dpi_math_target_status",
+    "high_needs_dpi_overall_status",
+    "district_name",
+    "dpi_read_2013",
+    "dpi_science_2013",
+    "frl_dpi_overall_2013",
+    "district",
+    "dpi_math_2013",
+    "frl_dpi_overall_status"
   ],
   "pef7-bzkf": [
     "robbery_firearm_offenses",
@@ -2165,50 +2194,12 @@
     "burglary_residence_day_offenses",
     "larceny_shoplifting_offenses"
   ],
-  "vr9v-n6m6": [
-    "amount_fy2011",
-    "amount_fy2012",
-    "amount_fy2013",
-    "amount_fy2014",
-    "amount_fy2006",
-    "amount_fy2007",
-    "amount_fy2004",
-    "vendor",
-    "amount_fy2005",
-    "amount_fy2009",
-    "amount_fy2008",
-    "amount_fy2010",
-    "vendor_name_1"
-  ],
   "q87b-hwt8": [
     "shape_area",
     "id",
     "gridcode",
     "shape",
     "objectid"
-  ],
-  "bj6v-3hfz": [
-    "dpi_read_status",
-    "dpi_science_status",
-    "dpi_write_2013",
-    "black_dpi_overall_status",
-    "hispanic_dpi_overall_2013",
-    "swd_dpi_overall_status",
-    "dpi_overall_status",
-    "dpi_write_status",
-    "hispanic_dpi_overall_status",
-    "high_needs_dpi_overall_2013",
-    "dpi_overall_2013",
-    "black_dpi_overall_2013",
-    "dpi_math_target_status",
-    "high_needs_dpi_overall_status",
-    "district_name",
-    "dpi_read_2013",
-    "dpi_science_2013",
-    "frl_dpi_overall_2013",
-    "district",
-    "dpi_math_2013",
-    "frl_dpi_overall_status"
   ],
   "6nkb-2jmc": [
     "summary",
@@ -2420,12 +2411,6 @@
     "number_of_returns",
     "ct_income_tax"
   ],
-  "biy3-c45y": [
-    "students",
-    "schoolname",
-    "districtname",
-    "language"
-  ],
   "d29y-xpc2": [
     "total_amount_of_credits_claimed",
     "total_number_of_credits",
@@ -2450,6 +2435,9 @@
     "date",
     "total_count"
   ],
+  "xzpw-v9uv": [
+
+  ],
   "5apm-ydu2": [
 
   ],
@@ -2457,7 +2445,7 @@
     "count_project_health",
     "agency_name"
   ],
-  "xzpw-v9uv": [
+  "6i83-qekd": [
 
   ],
   "scnc-rath": [
@@ -2467,9 +2455,6 @@
     "location_1",
     "type",
     "url"
-  ],
-  "6i83-qekd": [
-
   ],
   "axrk-twst": [
     "arrival_date",
@@ -2589,23 +2574,6 @@
     "never_married",
     "_45_54"
   ],
-  "nua2-26ye": [
-    "jul_13",
-    "nov_13",
-    "oct_13",
-    "jun_13",
-    "mar_13",
-    "may_13",
-    "aug_13",
-    "feb_13",
-    "county",
-    "ytd",
-    "apr_13",
-    "sep_13",
-    "town",
-    "labor_market_area",
-    "jan_13"
-  ],
   "4g5q-njpq": [
     "region",
     "office_name",
@@ -2627,6 +2595,23 @@
     "foster_care",
     "therapeutic_foster_care"
   ],
+  "nua2-26ye": [
+    "jul_13",
+    "nov_13",
+    "oct_13",
+    "jun_13",
+    "mar_13",
+    "may_13",
+    "aug_13",
+    "feb_13",
+    "county",
+    "ytd",
+    "apr_13",
+    "sep_13",
+    "town",
+    "labor_market_area",
+    "jan_13"
+  ],
   "bd2s-5fne": [
     "research_development",
     "job_expansion",
@@ -2639,6 +2624,13 @@
     "naics_industry_group",
     "fixed_cap_investment",
     "naics_code"
+  ],
+  "igy9-udjm": [
+    "total_housing_units",
+    "occupied_housing_units",
+    "vacant_housing_units",
+    "municipality",
+    "population"
   ],
   "fxib-2xng": [
     "zip",
@@ -2666,34 +2658,11 @@
     "year",
     "percent_of_adults_currently_smoking_cigarettes"
   ],
-  "igy9-udjm": [
-    "total_housing_units",
-    "occupied_housing_units",
-    "vacant_housing_units",
-    "municipality",
-    "population"
-  ],
   "ygv8-nqdq": [
     "business_name",
     "rgd",
     "generator",
     "location_1"
-  ],
-  "b4gp-mnpj": [
-    "october_2014",
-    "february_2015",
-    "march_2015",
-    "december_2014",
-    "august_2014",
-    "april_2015",
-    "september_2014",
-    "may_2015",
-    "june_2015",
-    "november_2014",
-    "ytd_totalmedical_expenditures",
-    "july_2014",
-    "january_2015",
-    "provider_code"
   ],
   "igdz-aexs": [
     "town_code",
@@ -2712,6 +2681,22 @@
     "_2011",
     "_2002",
     "town"
+  ],
+  "b4gp-mnpj": [
+    "october_2014",
+    "february_2015",
+    "march_2015",
+    "december_2014",
+    "august_2014",
+    "april_2015",
+    "september_2014",
+    "may_2015",
+    "june_2015",
+    "november_2014",
+    "ytd_totalmedical_expenditures",
+    "july_2014",
+    "january_2015",
+    "provider_code"
   ],
   "jm96-wz8f": [
     "ct_agi",
@@ -2777,6 +2762,17 @@
     "click_on_the_link",
     "online_self_services_at_dmv"
   ],
+  "x768-ejfj": [
+    "fiscal_year",
+    "fund_type",
+    "description",
+    "program_descr",
+    "ledger_type",
+    "revenue_category",
+    "account_descr",
+    "actual_amount",
+    "fund_descr"
+  ],
   "9hy9-9eeb": [
     "percent_meeting_benchmark_2012",
     "participation_rate_estimate_2013",
@@ -2789,17 +2785,6 @@
     "district",
     "district_number",
     "test_takers_2012"
-  ],
-  "x768-ejfj": [
-    "fiscal_year",
-    "fund_type",
-    "description",
-    "program_descr",
-    "ledger_type",
-    "revenue_category",
-    "account_descr",
-    "actual_amount",
-    "fund_descr"
   ],
   "ng6e-qu5t": [
     "basketball",
@@ -2814,16 +2799,6 @@
     "ball_field",
     "pavillion",
     "location_1"
-  ],
-  "tz77-hbkh": [
-    "agency_name",
-    "count_project_name"
-  ],
-  "35yf-wvfp": [
-    "total_reading_goal_range",
-    "total_mathematics_goal_range",
-    "year",
-    "group"
   ],
   "y35x-5kpk": [
     "spi_overall_2013",
@@ -2849,6 +2824,21 @@
     "high_needs_spi_overall_2013",
     "high_needs_spi_overall_status"
   ],
+  "tz77-hbkh": [
+    "agency_name",
+    "count_project_name"
+  ],
+  "35yf-wvfp": [
+    "total_reading_goal_range",
+    "total_mathematics_goal_range",
+    "year",
+    "group"
+  ],
+  "vnar-mt35": [
+    "_2010_population",
+    "town_num",
+    "town"
+  ],
   "gxez-g6ke": [
     "total_tax_credits_issued",
     "total_jobs_created",
@@ -2867,15 +2857,6 @@
     "total_military_jobs_created",
     "tax_credits_issued_2012"
   ],
-  "3cp6-wgsk": [
-    "project_health",
-    "count_agency_name"
-  ],
-  "vnar-mt35": [
-    "_2010_population",
-    "town_num",
-    "town"
-  ],
   "h78t-88kx": [
     "fax",
     "last",
@@ -2887,27 +2868,9 @@
     "location_1",
     "first"
   ],
-  "s6bt-vjqs": [
-    "tfa_regular_cases",
-    "town_code",
-    "snap_cases",
-    "snap_recipients",
-    "saga_cash_cases",
-    "town_name",
-    "tfa_regular_recipients",
-    "saga_cash_recipients",
-    "medicaid_lip_recipients",
-    "msp_slmb_almb_cases_recipients",
-    "tfa_total_cases",
-    "state_supplement_disabled",
-    "aca_cases",
-    "medicaid_lip_cases",
-    "total_medicaid_cases",
-    "tfa_total_recipients",
-    "aca_recipients",
-    "total_medicaid_recipients",
-    "state_supplement_total",
-    "msp_qmb_cases_recipients"
+  "3cp6-wgsk": [
+    "project_health",
+    "count_agency_name"
   ],
   "iecm-8ftj": [
     "zip",
@@ -2919,39 +2882,6 @@
     "zipp4",
     "telephone",
     "city"
-  ],
-  "fmif-f7c6": [
-    "overall_dpi_write_2010",
-    "overall_dpi_write_2012",
-    "overall_dpi_write_2011",
-    "black_dpi_overall_2010",
-    "black_dpi_overall_2011",
-    "black_dpi_overall_2012",
-    "swd_dpi_overall_2012",
-    "swd_dpi_overall_2010",
-    "overall_dpi_math_2010",
-    "overall_dpi_math_2011",
-    "overall_dpi_math_2012",
-    "district",
-    "hispanic_dpi_overall_2012",
-    "hispanic_dpi_overall_2011",
-    "hispanic_dpi_overall_2010",
-    "high_needs_dpi_overall_2012",
-    "high_needs_dpi_overall_2011",
-    "high_needs_dpi_overall_2010",
-    "overall_dpi_science_2012",
-    "overall_dpi_science_2011",
-    "overall_dpi_science_2010",
-    "overall_dpi_overall_2010",
-    "overall_dpi_overall_2012",
-    "district_name",
-    "frl_dpi_overall_2010",
-    "overall_dpi_overall_2011",
-    "frl_dpi_overall_2011",
-    "frl_dpi_overall_2012",
-    "overall_dpi_read_2010",
-    "overall_dpi_read_2011",
-    "overall_dpi_read_2012"
   ],
   "xqib-2aa7": [
     "_2020_male_25_29",
@@ -3079,11 +3009,81 @@
     "_2020_male_total",
     "_2015_female_65_69"
   ],
+  "s6bt-vjqs": [
+    "tfa_regular_cases",
+    "town_code",
+    "snap_cases",
+    "snap_recipients",
+    "saga_cash_cases",
+    "town_name",
+    "tfa_regular_recipients",
+    "saga_cash_recipients",
+    "medicaid_lip_recipients",
+    "msp_slmb_almb_cases_recipients",
+    "tfa_total_cases",
+    "state_supplement_disabled",
+    "aca_cases",
+    "medicaid_lip_cases",
+    "total_medicaid_cases",
+    "tfa_total_recipients",
+    "aca_recipients",
+    "total_medicaid_recipients",
+    "state_supplement_total",
+    "msp_qmb_cases_recipients"
+  ],
   "tn3c-hj52": [
     "geocode_label",
     "poi_site_id",
     "location_1",
     "site_name"
+  ],
+  "fmif-f7c6": [
+    "overall_dpi_write_2010",
+    "overall_dpi_write_2012",
+    "overall_dpi_write_2011",
+    "black_dpi_overall_2010",
+    "black_dpi_overall_2011",
+    "black_dpi_overall_2012",
+    "swd_dpi_overall_2012",
+    "swd_dpi_overall_2010",
+    "overall_dpi_math_2010",
+    "overall_dpi_math_2011",
+    "overall_dpi_math_2012",
+    "district",
+    "hispanic_dpi_overall_2012",
+    "hispanic_dpi_overall_2011",
+    "hispanic_dpi_overall_2010",
+    "high_needs_dpi_overall_2012",
+    "high_needs_dpi_overall_2011",
+    "high_needs_dpi_overall_2010",
+    "overall_dpi_science_2012",
+    "overall_dpi_science_2011",
+    "overall_dpi_science_2010",
+    "overall_dpi_overall_2010",
+    "overall_dpi_overall_2012",
+    "district_name",
+    "frl_dpi_overall_2010",
+    "overall_dpi_overall_2011",
+    "frl_dpi_overall_2011",
+    "frl_dpi_overall_2012",
+    "overall_dpi_read_2010",
+    "overall_dpi_read_2011",
+    "overall_dpi_read_2012"
+  ],
+  "ax65-fnv9": [
+    "amount_fy2011",
+    "amount_fy2012",
+    "amount_fy2013",
+    "amount_fy2014",
+    "amount_fy2006",
+    "amount_fy2007",
+    "amount_fy2004",
+    "vendor",
+    "amount_fy2005",
+    "amount_fy2009",
+    "amount_fy2008",
+    "amount_fy2010",
+    "vendor_name_1"
   ],
   "se4f-ibem": [
     "total_tax_credits_issued",
@@ -3104,26 +3104,51 @@
     "tax_credits_issued_2013",
     "tax_credits_issued_2014"
   ],
-  "ax65-fnv9": [
-    "amount_fy2011",
-    "amount_fy2012",
-    "amount_fy2013",
-    "amount_fy2014",
-    "amount_fy2006",
-    "amount_fy2007",
-    "amount_fy2004",
-    "vendor",
-    "amount_fy2005",
-    "amount_fy2009",
-    "amount_fy2008",
-    "amount_fy2010",
-    "vendor_name_1"
+  "v5yu-6pfa": [
+    "businessname",
+    "zip",
+    "credentialnumber",
+    "recordrefreshedon",
+    "statusreason",
+    "status",
+    "expirationdate",
+    "dba",
+    "state",
+    "type",
+    "credentialtype",
+    "credential",
+    "city",
+    "credentialid",
+    "address",
+    "name",
+    "active",
+    "fullcredentialcode",
+    "effectivedate"
   ],
   "7spe-y498": [
     "business_name",
     "rgd",
     "generator",
     "location_1"
+  ],
+  "rjta-crmn": [
+    "fairfield_county_tax_due",
+    "fairfield_county_receipts",
+    "tolland_county_receipts",
+    "windham_county_receipts",
+    "tolland_county_tax_due",
+    "hartford_county_receipts",
+    "hartford_county_tax_due",
+    "new_london_county_receipts",
+    "litchfield_county_receipts",
+    "middlesex_county_tax_due",
+    "litchfield_county_tax_due",
+    "new_london_county_tax_due",
+    "windham_county_tax_due",
+    "new_haven_county_tax_due",
+    "middlesex_county_receipts",
+    "period_ending",
+    "new_haven_county_receipts"
   ],
   "9cnu-4c7f": [
     "robbery_firearm_offenses",
@@ -3274,14 +3299,6 @@
     "burglary_residence_day_offenses",
     "larceny_shoplifting_offenses"
   ],
-  "afba-qnxy": [
-    "percentage_of_kindergartener_students_with_pre_kindergarten_experience_2012_13",
-    "percentage_of_kindergarten_students_with_pre_kindergarten_experience_2010_11",
-    "percentage_of_kindergarten_students_with_pre_kindergarten_experience_2011_12",
-    "district_name",
-    "percentage_of_kindergarten_students_with_pre_kindergarten_experience_2009_10",
-    "district_number"
-  ],
   "u3kj-kc89": [
     "_2012",
     "_2013",
@@ -3296,26 +3313,23 @@
     "_2008",
     "_2007"
   ],
-  "rjta-crmn": [
-    "fairfield_county_tax_due",
-    "fairfield_county_receipts",
-    "tolland_county_receipts",
-    "windham_county_receipts",
-    "tolland_county_tax_due",
-    "hartford_county_receipts",
-    "hartford_county_tax_due",
-    "new_london_county_receipts",
-    "litchfield_county_receipts",
-    "middlesex_county_tax_due",
-    "litchfield_county_tax_due",
-    "new_london_county_tax_due",
-    "windham_county_tax_due",
-    "new_haven_county_tax_due",
-    "middlesex_county_receipts",
-    "period_ending",
-    "new_haven_county_receipts"
+  "afba-qnxy": [
+    "percentage_of_kindergartener_students_with_pre_kindergarten_experience_2012_13",
+    "percentage_of_kindergarten_students_with_pre_kindergarten_experience_2010_11",
+    "percentage_of_kindergarten_students_with_pre_kindergarten_experience_2011_12",
+    "district_name",
+    "percentage_of_kindergarten_students_with_pre_kindergarten_experience_2009_10",
+    "district_number"
   ],
-  "v5yu-6pfa": [
+  "399t-fqcf": [
+    "total",
+    "special_education_2",
+    "special_education_1",
+    "district_name",
+    "eligible_for_free_or_reduced_price_lunch_2",
+    "eligible_for_free_or_reduced_price_lunch_1"
+  ],
+  "6ptp-ec8m": [
     "businessname",
     "zip",
     "credentialnumber",
@@ -3331,27 +3345,24 @@
     "city",
     "credentialid",
     "address",
+    "issuedate",
     "name",
     "active",
     "fullcredentialcode",
     "effectivedate"
   ],
-  "399t-fqcf": [
-    "total",
-    "special_education_2",
-    "special_education_1",
-    "district_name",
-    "eligible_for_free_or_reduced_price_lunch_2",
-    "eligible_for_free_or_reduced_price_lunch_1"
+  "rkm7-uwkb": [
+    "naics_industry_code",
+    "taxpayer_count",
+    "total_tax_due_at_7",
+    "retail_sales_of_goods",
+    "town_index",
+    "periods_ending",
+    "municipality",
+    "calendar_year",
+    "total_tax_due_at_6_35"
   ],
   "39xr-tv7m": [
-
-  ],
-  "4pjk-278y": [
-    "served_2014",
-    "program"
-  ],
-  "nki6-723a": [
 
   ],
   "k2zz-z5mw": [
@@ -3365,8 +3376,9 @@
     "telephone",
     "city"
   ],
-  "w7gh-9eke": [
-
+  "4pjk-278y": [
+    "served_2014",
+    "program"
   ],
   "je6w-uatv": [
     "hospitalization_crude_rate_per_10_000",
@@ -3376,63 +3388,6 @@
     "town",
     "number_of_hospitalization",
     "number_of_ed_visits"
-  ],
-  "pkrg-nvca": [
-    "civilian_male",
-    "sworn_male",
-    "total_personnel",
-    "civilian_female",
-    "department",
-    "year",
-    "employee_rate_per_1_000_pop",
-    "sworn_female",
-    "pop_of_jurisdaiction"
-  ],
-  "ebm6-9a96": [
-
-  ],
-  "rkm7-uwkb": [
-    "naics_industry_code",
-    "taxpayer_count",
-    "total_tax_due_at_7",
-    "retail_sales_of_goods",
-    "town_index",
-    "periods_ending",
-    "municipality",
-    "calendar_year",
-    "total_tax_due_at_6_35"
-  ],
-  "rgw6-bpst": [
-    "home_state",
-    "middle_initial",
-    "committee_codes",
-    "party",
-    "district_number",
-    "home_zip_code",
-    "first_name",
-    "title",
-    "home_city",
-    "office_code",
-    "senator_representative",
-    "gender",
-    "designator_code",
-    "district",
-    "room_number",
-    "committees_vice_chaired",
-    "home_street_address",
-    "capitol_street_address",
-    "ranking_member",
-    "capitol_city",
-    "url",
-    "capitol_phone",
-    "prison",
-    "email",
-    "commonly_used_name",
-    "last_name",
-    "home_phone",
-    "committees_chaired",
-    "committee_member1",
-    "room"
   ],
   "p54z-i4ch": [
     "updatetime",
@@ -3468,30 +3423,25 @@
     "y",
     "x"
   ],
+  "pkrg-nvca": [
+    "civilian_male",
+    "sworn_male",
+    "total_personnel",
+    "civilian_female",
+    "department",
+    "year",
+    "employee_rate_per_1_000_pop",
+    "sworn_female",
+    "pop_of_jurisdaiction"
+  ],
+  "2se9-jnuq": [
+    "town_code",
+    "next_reval_year",
+    "town"
+  ],
   "spwv-a9en": [
     "town",
     "sum_2020_total"
-  ],
-  "qcgq-9p42": [
-    "zip_code",
-    "contract",
-    "committee_recommended_amount",
-    "mailing_address",
-    "name_of_project",
-    "location_1",
-    "project_type",
-    "name_of_organization"
-  ],
-  "mxyp-xzm3": [
-    "category",
-    "zipcode",
-    "item",
-    "farmer_id",
-    "l",
-    "farm_name",
-    "location_1",
-    "phone1",
-    "business"
   ],
   "ptv7-bipz": [
     "saleprice",
@@ -3507,32 +3457,65 @@
     "listyear",
     "additionalremarks"
   ],
-  "2se9-jnuq": [
-    "town_code",
-    "next_reval_year",
-    "town"
+  "rgw6-bpst": [
+    "home_state",
+    "middle_initial",
+    "committee_codes",
+    "party",
+    "district_number",
+    "home_zip_code",
+    "first_name",
+    "title",
+    "home_city",
+    "office_code",
+    "senator_representative",
+    "gender",
+    "designator_code",
+    "district",
+    "room_number",
+    "committees_vice_chaired",
+    "home_street_address",
+    "capitol_street_address",
+    "ranking_member",
+    "capitol_city",
+    "url",
+    "capitol_phone",
+    "prison",
+    "email",
+    "commonly_used_name",
+    "last_name",
+    "home_phone",
+    "committees_chaired",
+    "committee_member1",
+    "room"
   ],
-  "6ptp-ec8m": [
-    "businessname",
-    "zip",
-    "credentialnumber",
-    "recordrefreshedon",
-    "statusreason",
-    "status",
-    "expirationdate",
-    "dba",
-    "state",
-    "type",
-    "credentialtype",
-    "credential",
-    "city",
-    "credentialid",
-    "address",
-    "issuedate",
-    "name",
-    "active",
-    "fullcredentialcode",
-    "effectivedate"
+  "mxyp-xzm3": [
+    "category",
+    "zipcode",
+    "item",
+    "farmer_id",
+    "l",
+    "farm_name",
+    "location_1",
+    "phone1",
+    "business"
+  ],
+  "qcgq-9p42": [
+    "zip_code",
+    "contract",
+    "committee_recommended_amount",
+    "mailing_address",
+    "name_of_project",
+    "location_1",
+    "project_type",
+    "name_of_organization"
+  ],
+  "n4zd-qppb": [
+    "stop_lon",
+    "stop_id",
+    "location",
+    "stop_lat",
+    "stop_name"
   ],
   "9huc-qs58": [
     "region",
@@ -3560,6 +3543,56 @@
     "municipality",
     "service_district_code"
   ],
+  "sxjx-e8m6": [
+    "naics",
+    "area",
+    "new_jobs",
+    "address",
+    "state",
+    "year",
+    "location_1",
+    "apptype",
+    "reference",
+    "existing_jobs",
+    "business",
+    "city"
+  ],
+  "dvyw-74gz": [
+    "region",
+    "ttl_at_risk_m",
+    "ttl_sex_abuse_m",
+    "fisc_period",
+    "rate_at_risk_m",
+    "subs_medi_neglect_m",
+    "subs_phys_abuse_m",
+    "rate_phys_abuse_m",
+    "subs_at_risk_m",
+    "subs_high_risk_m",
+    "ttl_emot_neglect_m",
+    "rate_phys_neglect_m",
+    "children_subs",
+    "subs_educ_neglect_m",
+    "ttl_phys_abuse_m",
+    "ttl_educ_neglect_m",
+    "ttl_cps_acept_m",
+    "rate_high_risk_m",
+    "ttl_phys_neglect_m",
+    "subs_sex_abuse_m",
+    "office",
+    "rate_medi_neglect_m",
+    "ttl_medi_neglect_m",
+    "rate_emot_neglect_m",
+    "ttl_allegat_m",
+    "rate_sex_abuse_m",
+    "ttl_high_risk_m",
+    "subs_phys_neglect_m",
+    "rate_educ_neglect_m",
+    "fisc_year",
+    "subs_emot_neglect_m",
+    "town",
+    "ttl_cps_subs_m",
+    "ttl_allegat_subs_m"
+  ],
   "q7z3-ys83": [
     "shape_area",
     "committed_",
@@ -3575,20 +3608,6 @@
     "m_b_l",
     "objectid"
   ],
-  "sxjx-e8m6": [
-    "naics",
-    "area",
-    "new_jobs",
-    "address",
-    "state",
-    "year",
-    "location_1",
-    "apptype",
-    "reference",
-    "existing_jobs",
-    "business",
-    "city"
-  ],
   "nmm6-jyfp": [
     "total_amount_of_credits_claimed",
     "total_number_of_credits",
@@ -3598,16 +3617,6 @@
     "insurance_premiums_taxes",
     "type_of_credit"
   ],
-  "ftfw-fp9f": [
-
-  ],
-  "p52u-vsu8": [
-    "date_of_offense",
-    "submitting_agency",
-    "offense_city",
-    "offense",
-    "date_time_of_case_opened"
-  ],
   "wmb9-muu8": [
     "office",
     "zip_code",
@@ -3616,12 +3625,32 @@
     "type",
     "url"
   ],
-  "n4zd-qppb": [
-    "stop_lon",
-    "stop_id",
-    "location",
-    "stop_lat",
-    "stop_name"
+  "p52u-vsu8": [
+    "date_of_offense",
+    "submitting_agency",
+    "offense_city",
+    "offense",
+    "date_time_of_case_opened"
+  ],
+  "y2dd-sw9z": [
+    "region",
+    "town_num",
+    "minor_arterial_miles",
+    "major_collector_dvmt",
+    "freeway_miles",
+    "principal_arterial_miles",
+    "freeway_dvmt",
+    "local_dvmt",
+    "minor_collector_miles",
+    "interstate_miles",
+    "county",
+    "minor_arterial_dvmt",
+    "local_miles",
+    "minor_collector_dvmt",
+    "principal_arterial_dvmt",
+    "town",
+    "major_colelctormiles",
+    "interstate_dvmt"
   ],
   "mg8h-wy67": [
     "total_student_count",
@@ -3663,26 +3692,6 @@
     "type",
     "url"
   ],
-  "y2dd-sw9z": [
-    "region",
-    "town_num",
-    "minor_arterial_miles",
-    "major_collector_dvmt",
-    "freeway_miles",
-    "principal_arterial_miles",
-    "freeway_dvmt",
-    "local_dvmt",
-    "minor_collector_miles",
-    "interstate_miles",
-    "county",
-    "minor_arterial_dvmt",
-    "local_miles",
-    "minor_collector_dvmt",
-    "principal_arterial_dvmt",
-    "town",
-    "major_colelctormiles",
-    "interstate_dvmt"
-  ],
   "qre7-ek47": [
     "town_code",
     "_2006",
@@ -3700,9 +3709,6 @@
     "_2011",
     "_2002",
     "town"
-  ],
-  "g5qv-n4qd": [
-
   ],
   "nhvj-awym": [
     "region",
@@ -3725,51 +3731,6 @@
     "location_1",
     "short_name"
   ],
-  "f42j-tjbt": [
-    "therapies_phys_visits",
-    "skilled_nursing_visits",
-    "hha_hrs",
-    "agency",
-    "therapies_speech_visits",
-    "therapies_occup_visits",
-    "town"
-  ],
-  "dvyw-74gz": [
-    "region",
-    "ttl_at_risk_m",
-    "ttl_sex_abuse_m",
-    "fisc_period",
-    "rate_at_risk_m",
-    "subs_medi_neglect_m",
-    "subs_phys_abuse_m",
-    "rate_phys_abuse_m",
-    "subs_at_risk_m",
-    "subs_high_risk_m",
-    "ttl_emot_neglect_m",
-    "rate_phys_neglect_m",
-    "children_subs",
-    "subs_educ_neglect_m",
-    "ttl_phys_abuse_m",
-    "ttl_educ_neglect_m",
-    "ttl_cps_acept_m",
-    "rate_high_risk_m",
-    "ttl_phys_neglect_m",
-    "subs_sex_abuse_m",
-    "office",
-    "rate_medi_neglect_m",
-    "ttl_medi_neglect_m",
-    "rate_emot_neglect_m",
-    "ttl_allegat_m",
-    "rate_sex_abuse_m",
-    "ttl_high_risk_m",
-    "subs_phys_neglect_m",
-    "rate_educ_neglect_m",
-    "fisc_year",
-    "subs_emot_neglect_m",
-    "town",
-    "ttl_cps_subs_m",
-    "ttl_allegat_subs_m"
-  ],
   "wijm-25q8": [
     "april2014",
     "november2013",
@@ -3786,6 +3747,19 @@
     "september2013",
     "june2014"
   ],
+  "f42j-tjbt": [
+    "therapies_phys_visits",
+    "skilled_nursing_visits",
+    "hha_hrs",
+    "agency",
+    "therapies_speech_visits",
+    "therapies_occup_visits",
+    "town"
+  ],
+  "px29-bm2g": [
+    "count_agency_name",
+    "project_phase"
+  ],
   "bygz-gaef": [
     "total",
     "district_code",
@@ -3798,26 +3772,6 @@
     "two_or_more_races",
     "hispanic",
     "american_indian"
-  ],
-  "px29-bm2g": [
-    "count_agency_name",
-    "project_phase"
-  ],
-  "h6jx-wr39": [
-    "total_housing_units",
-    "occupied_housing_units",
-    "vacant_housing_units",
-    "municipality",
-    "population"
-  ],
-  "3hed-rxb7": [
-    "total_amount_of_credits_claimed",
-    "total_number_of_credits",
-    "count2",
-    "corporation_business_tax",
-    "count1",
-    "insurance_premiums_taxes",
-    "type_of_credit"
   ],
   "me6n-3yhp": [
     "vendorname",
@@ -3836,6 +3790,22 @@
     "disabled",
     "businesscity"
   ],
+  "h6jx-wr39": [
+    "total_housing_units",
+    "occupied_housing_units",
+    "vacant_housing_units",
+    "municipality",
+    "population"
+  ],
+  "3hed-rxb7": [
+    "total_amount_of_credits_claimed",
+    "total_number_of_credits",
+    "count2",
+    "corporation_business_tax",
+    "count1",
+    "insurance_premiums_taxes",
+    "type_of_credit"
+  ],
   "hips-b95a": [
     "credentialname",
     "zipcode",
@@ -3845,11 +3815,9 @@
     "credentialdefinitionid",
     "credentialtypeprefix"
   ],
-  "efa5-f6zx": [
-    "companion_svcs",
-    "home_maker_svcs",
-    "agency",
-    "town"
+  "ie23-wrng": [
+    "street_name",
+    "garbage"
   ],
   "2xqb-xbez": [
     "zip5",
@@ -3863,14 +3831,11 @@
     "store_name",
     "city"
   ],
-  "mjnm-ha2j": [
-    "liabilities",
-    "direct_written_premiums",
-    "admitted_assets",
-    "naic_groupcode",
-    "company_name",
-    "naic_company_code",
-    "capital_surplus"
+  "efa5-f6zx": [
+    "companion_svcs",
+    "home_maker_svcs",
+    "agency",
+    "town"
   ],
   "rx3f-mten": [
     "total_tax_credits_issued",
@@ -3895,16 +3860,24 @@
     "weekly",
     "fiscal_year"
   ],
+  "mjnm-ha2j": [
+    "liabilities",
+    "direct_written_premiums",
+    "admitted_assets",
+    "naic_groupcode",
+    "company_name",
+    "naic_company_code",
+    "capital_surplus"
+  ],
+  "upzd-tt3v": [
+
+  ],
   "eugj-j27t": [
     "town_name",
     "grant_number",
     "project_summary",
     "fed_grant_award",
     "tot_fed_expended"
-  ],
-  "ie23-wrng": [
-    "street_name",
-    "garbage"
   ],
   "buy2-z4cz": [
     "total_capacity",
@@ -4152,9 +4125,6 @@
     "uconn_health_ctr_pd",
     "mta_pd"
   ],
-  "x5e6-tyjt": [
-
-  ],
   "xf9b-um65": [
     "id",
     "certifyingagent",
@@ -4171,12 +4141,6 @@
     "status",
     "town",
     "location_1"
-  ],
-  "cp6t-fv4x": [
-
-  ],
-  "gvr6-7b9t": [
-
   ],
   "ubit-p3b7": [
     "activedate",
@@ -4198,6 +4162,17 @@
     "vendorname",
     "woman"
   ],
+  "cp6t-fv4x": [
+
+  ],
+  "vzsv-fg4w": [
+    "shape_area",
+    "av_legend",
+    "dep_id",
+    "property",
+    "shape",
+    "objectid"
+  ],
   "qjh2-8gef": [
     "shelter",
     "expbus",
@@ -4212,14 +4187,6 @@
     "comments",
     "hcap_spaces",
     "size"
-  ],
-  "vzsv-fg4w": [
-    "shape_area",
-    "av_legend",
-    "dep_id",
-    "property",
-    "shape",
-    "objectid"
   ],
   "eren-euca": [
     "vehicleid",
@@ -4240,9 +4207,6 @@
     "date_time_of_case_opened"
   ],
   "kca3-gbun": [
-
-  ],
-  "upzd-tt3v": [
 
   ],
   "7bf7-rsy9": [
@@ -4270,6 +4234,9 @@
     "request",
     "town",
     "activity"
+  ],
+  "wv4u-gube": [
+
   ],
   "fim6-vu8p": [
     "offense_type",
@@ -4304,9 +4271,6 @@
     "camp_gender"
   ],
   "bkqf-s4aj": [
-
-  ],
-  "wv4u-gube": [
 
   ],
   "qrnc-zkrb": [
@@ -4362,6 +4326,9 @@
     "mailingstate",
     "mailingzip"
   ],
+  "35bv-xa6i": [
+
+  ],
   "92fu-qcsw": [
     "school_name",
     "overall_spi_overall_2010",
@@ -4394,28 +4361,6 @@
     "high_needs_spi_overall_2011",
     "overall_spi_write_2012"
   ],
-  "ru4i-m74j": [
-    "connecticut_care_4_kids"
-  ],
-  "fir6-w458": [
-    "vibrio",
-    "shigella",
-    "yersinia",
-    "cyclospora",
-    "cryptosporidium",
-    "listeria",
-    "campylobacter",
-    "year",
-    "salmonella",
-    "e_coli_o157"
-  ],
-  "5m9p-astg": [
-    "award_amount",
-    "name",
-    "project_summary",
-    "fed_expenditures",
-    "pvet_grant_id"
-  ],
   "r8fi-whh5": [
     "businessname",
     "businessstate",
@@ -4431,9 +4376,20 @@
     "mailingstate",
     "businesscity"
   ],
-  "56sa-etgx": [
-    "as_of",
-    "organ_donor_licenses"
+  "ru4i-m74j": [
+    "connecticut_care_4_kids"
+  ],
+  "fir6-w458": [
+    "vibrio",
+    "shigella",
+    "yersinia",
+    "cyclospora",
+    "cryptosporidium",
+    "listeria",
+    "campylobacter",
+    "year",
+    "salmonella",
+    "e_coli_o157"
   ],
   "rybz-nyjw": [
     "residence_county",
@@ -4454,6 +4410,17 @@
     "death_county",
     "coc"
   ],
+  "56sa-etgx": [
+    "as_of",
+    "organ_donor_licenses"
+  ],
+  "5m9p-astg": [
+    "award_amount",
+    "name",
+    "project_summary",
+    "fed_expenditures",
+    "pvet_grant_id"
+  ],
   "xquq-uxfw": [
     "naics",
     "area",
@@ -4468,71 +4435,21 @@
     "business",
     "city"
   ],
-  "35bv-xa6i": [
-
-  ],
   "grdg-jrz5": [
     "state_assistance",
     "town",
     "project_description"
-  ],
-  "59q7-vx2z": [
-    "connecticut_care_4_kids",
-    "none"
   ],
   "6ney-id6t": [
     "phone",
     "vendor",
     "location_1"
   ],
+  "59q7-vx2z": [
+    "connecticut_care_4_kids",
+    "none"
+  ],
   "q5ri-4mnk": [
-    "months_of_2014",
-    "incoming_calls",
-    "year"
-  ],
-  "sg4r-4tnv": [
-
-  ],
-  "exjv-4jcm": [
-    "businessname",
-    "zip",
-    "credentialnumber",
-    "recordrefreshedon",
-    "statusreason",
-    "status",
-    "expirationdate",
-    "state",
-    "type",
-    "credentialtype",
-    "credential",
-    "city",
-    "credentialid",
-    "address",
-    "name",
-    "active",
-    "fullcredentialcode",
-    "effectivedate"
-  ],
-  "ky2m-bftb": [
-    "oaa_boarding_homes_dds_c_c",
-    "oaa_other_living_arrangements_c_c",
-    "oaa_boarding_homes_other_payments",
-    "oaa_total_boarding_homes_payments",
-    "oaa_total_maintenance_payments",
-    "oaa_overall_cost_per_case_c_c",
-    "oaa_boarding_homes_dds_payments",
-    "oaa_boarding_homes_other_c_c",
-    "oaa_other_living_arrangements_payments",
-    "oaa_total_boarding_homes_c_c"
-  ],
-  "7vb5-ijx2": [
-    "total_credits_claimed",
-    "corporation_business_tax",
-    "count1",
-    "total_count",
-    "type_of_credit"
-  ],
-  "v6s7-qsw3": [
     "months_of_2014",
     "incoming_calls",
     "year"
@@ -4741,6 +4658,50 @@
     "uconn_health_ctr_pd",
     "mta_pd"
   ],
+  "ky2m-bftb": [
+    "oaa_boarding_homes_dds_c_c",
+    "oaa_other_living_arrangements_c_c",
+    "oaa_boarding_homes_other_payments",
+    "oaa_total_boarding_homes_payments",
+    "oaa_total_maintenance_payments",
+    "oaa_overall_cost_per_case_c_c",
+    "oaa_boarding_homes_dds_payments",
+    "oaa_boarding_homes_other_c_c",
+    "oaa_other_living_arrangements_payments",
+    "oaa_total_boarding_homes_c_c"
+  ],
+  "7vb5-ijx2": [
+    "total_credits_claimed",
+    "corporation_business_tax",
+    "count1",
+    "total_count",
+    "type_of_credit"
+  ],
+  "exjv-4jcm": [
+    "businessname",
+    "zip",
+    "credentialnumber",
+    "recordrefreshedon",
+    "statusreason",
+    "status",
+    "expirationdate",
+    "state",
+    "type",
+    "credentialtype",
+    "credential",
+    "city",
+    "credentialid",
+    "address",
+    "name",
+    "active",
+    "fullcredentialcode",
+    "effectivedate"
+  ],
+  "v6s7-qsw3": [
+    "months_of_2014",
+    "incoming_calls",
+    "year"
+  ],
   "35x9-cadj": [
     "office",
     "region",
@@ -4764,6 +4725,18 @@
   ],
   "cvhy-k2ig": [
 
+  ],
+  "inbg-uu87": [
+    "zip5",
+    "location",
+    "county",
+    "address",
+    "zip4",
+    "state",
+    "longitude",
+    "latitude",
+    "store_name",
+    "city"
   ],
   "rnja-kecu": [
     "total",
@@ -4989,17 +4962,18 @@
     "capital_liabilities",
     "capital_surplus"
   ],
-  "inbg-uu87": [
-    "zip5",
-    "location",
-    "county",
-    "address",
-    "zip4",
-    "state",
-    "longitude",
-    "latitude",
-    "store_name",
-    "city"
+  "7dmn-4s5d": [
+    "research_development",
+    "job_expansion",
+    "digital_animation",
+    "urban_industrial_site_reinvestment",
+    "electronic_data_processing",
+    "research_experimentation",
+    "film_infrastructure",
+    "film_production",
+    "naics_industry_group",
+    "fixed_cap_investment",
+    "naics_code"
   ],
   "ezba-7ycx": [
     "total_amount_of_credits_claimed",
@@ -5020,6 +4994,13 @@
   ],
   "ugtp-hwh5": [
 
+  ],
+  "xiz5-fkep": [
+    "stop_lon",
+    "stop_id",
+    "location",
+    "stop_lat",
+    "stop_name"
   ],
   "ycxv-et3w": [
     "arrival_date",
@@ -5061,29 +5042,11 @@
     "shift",
     "propery_use_code_description"
   ],
-  "xiz5-fkep": [
-    "stop_lon",
-    "stop_id",
-    "location",
-    "stop_lat",
-    "stop_name"
-  ],
   "4cc9-3xg4": [
     "license_restrictions",
     "nov_2013",
     "nov_2014",
     "nov_2012"
-  ],
-  "j6mp-nsv2": [
-    "lottery",
-    "fye_6_30",
-    "grand_total"
-  ],
-  "yrt6-zvs6": [
-    "geocode_label",
-    "poi_site_id",
-    "location_1",
-    "site_name"
   ],
   "udtt-rx7n": [
     "dist_22",
@@ -5110,18 +5073,16 @@
     "dist_10",
     "dist_9"
   ],
-  "7dmn-4s5d": [
-    "research_development",
-    "job_expansion",
-    "digital_animation",
-    "urban_industrial_site_reinvestment",
-    "electronic_data_processing",
-    "research_experimentation",
-    "film_infrastructure",
-    "film_production",
-    "naics_industry_group",
-    "fixed_cap_investment",
-    "naics_code"
+  "j6mp-nsv2": [
+    "lottery",
+    "fye_6_30",
+    "grand_total"
+  ],
+  "yrt6-zvs6": [
+    "geocode_label",
+    "poi_site_id",
+    "location_1",
+    "site_name"
   ],
   "n58a-39t6": [
 
@@ -5222,8 +5183,56 @@
   "3dd4-v7yv": [
     "connecticut_care_4_kids"
   ],
-  "85dv-izg4": [
-
+  "htz8-fxbk": [
+    "businessname",
+    "zip",
+    "credentialnumber",
+    "recordrefreshedon",
+    "statusreason",
+    "status",
+    "expirationdate",
+    "dba",
+    "state",
+    "type",
+    "credentialtype",
+    "credential",
+    "city",
+    "credentialid",
+    "address",
+    "issuedate",
+    "name",
+    "active",
+    "fullcredentialcode",
+    "effectivedate"
+  ],
+  "hijk-5ch6": [
+    "category",
+    "name",
+    "town_no",
+    "geoname_no",
+    "longitude",
+    "latitude",
+    "town",
+    "location_1",
+    "short_name"
+  ],
+  "c46k-b923": [
+    "total_capacity",
+    "phone",
+    "city_lo",
+    "zip_code",
+    "location",
+    "type",
+    "legal_operator_lo",
+    "city",
+    "address_lo",
+    "zip_lo",
+    "address",
+    "name",
+    "expiration_date",
+    "ages_served",
+    "capacity_under_3",
+    "license"
   ],
   "a25y-6ney": [
     "updatetime",
@@ -5259,51 +5268,6 @@
     "y",
     "x"
   ],
-  "htz8-fxbk": [
-    "businessname",
-    "zip",
-    "credentialnumber",
-    "recordrefreshedon",
-    "statusreason",
-    "status",
-    "expirationdate",
-    "dba",
-    "state",
-    "type",
-    "credentialtype",
-    "credential",
-    "city",
-    "credentialid",
-    "address",
-    "issuedate",
-    "name",
-    "active",
-    "fullcredentialcode",
-    "effectivedate"
-  ],
-  "c46k-b923": [
-    "total_capacity",
-    "phone",
-    "city_lo",
-    "zip_code",
-    "location",
-    "type",
-    "legal_operator_lo",
-    "city",
-    "address_lo",
-    "zip_lo",
-    "address",
-    "name",
-    "expiration_date",
-    "ages_served",
-    "capacity_under_3",
-    "license"
-  ],
-  "rrcq-gqig": [
-    "permits_processed",
-    "month",
-    "year"
-  ],
   "na88-ykrd": [
     "shape_area",
     "av_legend",
@@ -5317,19 +5281,31 @@
     "infant_toddler",
     "town"
   ],
-  "hijk-5ch6": [
-    "category",
-    "name",
-    "town_no",
-    "geoname_no",
-    "longitude",
-    "latitude",
-    "town",
-    "location_1",
-    "short_name"
+  "rrcq-gqig": [
+    "permits_processed",
+    "month",
+    "year"
   ],
-  "ddda-32cf": [
-
+  "fnfg-dct4": [
+    "region",
+    "office",
+    "independent_living",
+    "dcf_solnit",
+    "dcf_highmeadows",
+    "data_as_of",
+    "residential",
+    "sfy_entry",
+    "demographic",
+    "special_study",
+    "dcf_cjts",
+    "group_home",
+    "relative_care",
+    "shelter",
+    "pdc_safe_home",
+    "foster_care",
+    "therapeutic_foster_care",
+    "hospital",
+    "total_entries"
   ],
   "vu37-8imu": [
     "sdchool_age",
@@ -5623,6 +5599,12 @@
     "bingo_general_fund_transfers",
     "sealed_tickets_retail_value"
   ],
+  "vvj9-ixk4": [
+    "phone",
+    "zip_code",
+    "location_1",
+    "city"
+  ],
   "25bh-kn7t": [
     "end_mile_pt",
     "begin_mile_pt",
@@ -5637,27 +5619,6 @@
   ],
   "chyx-qrjt": [
     "connecticut_care_4_kids"
-  ],
-  "fnfg-dct4": [
-    "region",
-    "office",
-    "independent_living",
-    "dcf_solnit",
-    "dcf_highmeadows",
-    "data_as_of",
-    "residential",
-    "sfy_entry",
-    "demographic",
-    "special_study",
-    "dcf_cjts",
-    "group_home",
-    "relative_care",
-    "shelter",
-    "pdc_safe_home",
-    "foster_care",
-    "therapeutic_foster_care",
-    "hospital",
-    "total_entries"
   ],
   "3it6-9q8n": [
     "summary",
@@ -6267,33 +6228,11 @@
     "uconn_health_ctr_pd",
     "mta_pd"
   ],
-  "vvj9-ixk4": [
-    "phone",
-    "zip_code",
-    "location_1",
-    "city"
-  ],
   "axur-9t7e": [
     "preschool_age",
     "infant_toddler",
     "town",
     "school_age"
-  ],
-  "sza4-akty": [
-    "town_code",
-    "municipality",
-    "tax_per_capita",
-    "number_of_returns",
-    "ct_income_tax"
-  ],
-  "sdpj-q7rw": [
-    "fiscal_year",
-    "transfers_to_the_general_fund",
-    "percent",
-    "agent_commissions",
-    "gross_sales",
-    "prizes",
-    "game"
   ],
   "ascp-tvpc": [
     "arrival_date",
@@ -6336,6 +6275,30 @@
     "address_on_wildland",
     "propery_use_code_description"
   ],
+  "sza4-akty": [
+    "town_code",
+    "municipality",
+    "tax_per_capita",
+    "number_of_returns",
+    "ct_income_tax"
+  ],
+  "sdpj-q7rw": [
+    "fiscal_year",
+    "transfers_to_the_general_fund",
+    "percent",
+    "agent_commissions",
+    "gross_sales",
+    "prizes",
+    "game"
+  ],
+  "ezcu-zec7": [
+    "liabilities",
+    "admitted_assets",
+    "naic_groupcode",
+    "company_name",
+    "naic_company_code",
+    "capital_surplus"
+  ],
   "wzpb-uqdj": [
     "region",
     "office",
@@ -6357,6 +6320,10 @@
     "hospital",
     "total_entries"
   ],
+  "ckjp-mix6": [
+    "connecticut_care_4_kids",
+    "none"
+  ],
   "ch2z-ck9s": [
     "tfa_regular_cases",
     "tfa_two_parent_cases",
@@ -6376,18 +6343,14 @@
     "total_medicaid_recipients",
     "state_supplement_total"
   ],
-  "ezcu-zec7": [
-    "liabilities",
-    "admitted_assets",
-    "naic_groupcode",
-    "company_name",
-    "naic_company_code",
-    "capital_surplus"
-  ],
   "b2ix-rc98": [
     "total",
     "year",
     "license_endosrements"
+  ],
+  "83mm-yvm6": [
+    "fiscal_year",
+    "sum_no_of_transactions"
   ],
   "ta44-f4t7": [
     "property_type",
@@ -6401,13 +6364,6 @@
     "objectid",
     "section"
   ],
-  "ckjp-mix6": [
-    "connecticut_care_4_kids",
-    "none"
-  ],
-  "qf49-cvnk": [
-
-  ],
   "644z-yvd8": [
     "handicap_placards",
     "month",
@@ -6415,10 +6371,6 @@
     "phone_calls",
     "special_plates",
     "driver_histories"
-  ],
-  "83mm-yvm6": [
-    "fiscal_year",
-    "sum_no_of_transactions"
   ],
   "ur8u-4mh2": [
     "station_name",
@@ -6613,6 +6565,13 @@
     "burglary_residence_day_offenses",
     "larceny_shoplifting_offenses"
   ],
+  "u2dg-j3vx": [
+
+  ],
+  "utum-cxwc": [
+    "incoming_calls",
+    "month"
+  ],
   "nf5b-y64p": [
     "total",
     "year",
@@ -6622,13 +6581,6 @@
     "permits_processed",
     "month",
     "year"
-  ],
-  "utum-cxwc": [
-    "incoming_calls",
-    "month"
-  ],
-  "n7kw-xx5z": [
-
   ],
   "4jc3-c5bs": [
     "first_name",
@@ -6651,9 +6603,6 @@
     "special_plates",
     "driver_histories"
   ],
-  "u2dg-j3vx": [
-
-  ],
   "v77e-h3gb": [
     "file",
     "days_in_process",
@@ -6661,6 +6610,14 @@
     "agency",
     "public_notice_date",
     "short_name"
+  ],
+  "iiu4-tbfp": [
+    "tax_due_at_6_35",
+    "total_tax_due_excluding_tax_at_9_35_rate",
+    "tax_due_at_7",
+    "municipality",
+    "number_of_taxpayers",
+    "total_retail_sales_of_goods"
   ],
   "75z8-jnw7": [
     "total_carryforwards",
@@ -6672,6 +6629,11 @@
     "total_count",
     "type_of_credit",
     "count3"
+  ],
+  "4z38-9q88": [
+    "year",
+    "cmv_reportable_accidents",
+    "number_of_inspections_performed"
   ],
   "q6p6-vg24": [
     "robbery_firearm_offenses",
@@ -6862,22 +6824,6 @@
     "burglary_residence_day_offenses",
     "larceny_shoplifting_offenses"
   ],
-  "j7r7-bpkr": [
-
-  ],
-  "4z38-9q88": [
-    "year",
-    "cmv_reportable_accidents",
-    "number_of_inspections_performed"
-  ],
-  "iiu4-tbfp": [
-    "tax_due_at_6_35",
-    "total_tax_due_excluding_tax_at_9_35_rate",
-    "tax_due_at_7",
-    "municipality",
-    "number_of_taxpayers",
-    "total_retail_sales_of_goods"
-  ],
   "geex-cgye": [
     "public_service_companies_hospital_net_patient_revenue_taxes",
     "total_amount_of_credits_claimed",
@@ -6895,12 +6841,6 @@
     "preschool_age",
     "infant_toddler",
     "town"
-  ],
-  "sist-ypb8": [
-
-  ],
-  "s8kf-niv9": [
-
   ],
   "aspx-imar": [
     "no_of_transactions",
@@ -6951,9 +6891,6 @@
   "6wz3-tm5n": [
     "incoming_calls",
     "month"
-  ],
-  "67x4-3awi": [
-
   ],
   "wbi8-5vhf": [
     "region",
@@ -7021,6 +6958,10 @@
     "total_medicaid_recipients",
     "state_supplement_total"
   ],
+  "bcjq-rnid": [
+    "unsentenced",
+    "date"
+  ],
   "77v9-aq5b": [
     "cases_received",
     "cases_open",
@@ -7028,11 +6969,15 @@
     "year",
     "cases_closed"
   ],
-  "dy99-nzrf": [
-
-  ],
-  "bsk8-skak": [
-
+  "59ps-catp": [
+    "total_otb",
+    "fiscal_year",
+    "total_municipal_payments_from_otb_pari_mutuel_wagering",
+    "otb_branches_telephone_betting",
+    "total_parimutuel",
+    "otb_teletheaters",
+    "pari_mutuel_jai_alai",
+    "pari_mutuel_greyhound_racing"
   ],
   "usrc-sgkg": [
     "summary",
@@ -7238,16 +7183,6 @@
     "uconn_health_ctr_pd",
     "mta_pd"
   ],
-  "59ps-catp": [
-    "total_otb",
-    "fiscal_year",
-    "total_municipal_payments_from_otb_pari_mutuel_wagering",
-    "otb_branches_telephone_betting",
-    "total_parimutuel",
-    "otb_teletheaters",
-    "pari_mutuel_jai_alai",
-    "pari_mutuel_greyhound_racing"
-  ],
   "pqd2-9uud": [
     "connecticut_care_4_kids",
     "none"
@@ -7255,13 +7190,6 @@
   "psqf-2jv4": [
     "connecticut_care_4_kids",
     "none"
-  ],
-  "dtti-4mqx": [
-    "year"
-  ],
-  "bcjq-rnid": [
-    "unsentenced",
-    "date"
   ],
   "mr89-u9tb": [
     "vendorname",
@@ -7279,6 +7207,19 @@
     "datemodified",
     "disabled",
     "businesscity"
+  ],
+  "jr68-tvgu": [
+    "therapies_phys_visits",
+    "skilled_nursing_visits",
+    "hha_hrs",
+    "agency",
+    "year",
+    "therapies_speech_visits",
+    "therapies_occup_visits",
+    "town"
+  ],
+  "dtti-4mqx": [
+    "year"
   ],
   "ecj5-r2i9": [
     "age",
@@ -7300,6 +7241,14 @@
     "residence_county",
     "sex"
   ],
+  "fu4g-cczg": [
+    "file",
+    "days_in_process",
+    "posted_date",
+    "agency",
+    "public_notice_date",
+    "short_name"
+  ],
   "etws-3qjd": [
     "number_of_eitccredits_claimed",
     "ct_agi",
@@ -7309,24 +7258,6 @@
     "percent_by_town",
     "amount_of_eitc_claimed",
     "ct_income_tax"
-  ],
-  "jr68-tvgu": [
-    "therapies_phys_visits",
-    "skilled_nursing_visits",
-    "hha_hrs",
-    "agency",
-    "year",
-    "therapies_speech_visits",
-    "therapies_occup_visits",
-    "town"
-  ],
-  "fu4g-cczg": [
-    "file",
-    "days_in_process",
-    "posted_date",
-    "agency",
-    "public_notice_date",
-    "short_name"
   ],
   "j2p6-xrhz": [
     "_2020_male_25_29",
@@ -7499,6 +7430,12 @@
     "major_colelctormiles",
     "interstate_dvmt"
   ],
+  "gyrg-ku5c": [
+    "students",
+    "schoolname",
+    "districtname",
+    "language"
+  ],
   "eijt-q8ip": [
     "tfa_regular_cases",
     "tfa_two_parent_cases",
@@ -7529,6 +7466,18 @@
     "town",
     "room_rate_private_1_bed"
   ],
+  "pb5x-kf8z": [
+    "ado",
+    "first_name",
+    "submitted_initial_datasets",
+    "acronym",
+    "email",
+    "public_data_listing_status",
+    "last_name",
+    "agency",
+    "published_initial_datasets",
+    "enterpise_data_inventory_status"
+  ],
   "92ec-ivei": [
     "year",
     "cmv_reportable_accidents",
@@ -7542,12 +7491,6 @@
     "naic_company_code",
     "capital_liabilities",
     "capital_surplus"
-  ],
-  "gyrg-ku5c": [
-    "students",
-    "schoolname",
-    "districtname",
-    "language"
   ],
   "2bm8-3tt9": [
     "tfa_regular_cases",
@@ -7569,18 +7512,6 @@
     "tfa_total_recip",
     "state_supplement_total",
     "tfa_unemployed_parent_cases"
-  ],
-  "pb5x-kf8z": [
-    "ado",
-    "first_name",
-    "submitted_initial_datasets",
-    "acronym",
-    "email",
-    "public_data_listing_status",
-    "last_name",
-    "agency",
-    "published_initial_datasets",
-    "enterpise_data_inventory_status"
   ],
   "g9s8-wdcq": [
     "tfa_regular_cases",
@@ -7643,9 +7574,6 @@
     "total_medicaid_recipients",
     "state_supplement_total"
   ],
-  "245t-pvpn": [
-
-  ],
   "ffti-3zst": [
     "tfa_regular_cases",
     "tfa_two_parent_cases",
@@ -7665,9 +7593,6 @@
     "state_supplement_blind",
     "tfa_total_recipients",
     "state_supplement_total"
-  ],
-  "724p-h6p6": [
-
   ],
   "qq2f-g5fg": [
 
@@ -7839,15 +7764,6 @@
     "total_medicaid_recipients",
     "state_supplement_total"
   ],
-  "f5wu-fvxr": [
-    "credentialname",
-    "zipcode",
-    "agencyname",
-    "credentialsubcategory",
-    "location_1",
-    "credentialdefinitionid",
-    "credentialtypeprefix"
-  ],
   "ky8r-di9r": [
     "to",
     "dvmt",
@@ -7862,6 +7778,15 @@
     "town",
     "adt",
     "end_mile"
+  ],
+  "f5wu-fvxr": [
+    "credentialname",
+    "zipcode",
+    "agencyname",
+    "credentialsubcategory",
+    "location_1",
+    "credentialdefinitionid",
+    "credentialtypeprefix"
   ],
   "sx5z-cmf2": [
     "durham",
@@ -8053,9 +7978,6 @@
     "type_of_inspections",
     "hamden"
   ],
-  "ynh4-e9kv": [
-
-  ],
   "y4mj-dt3b": [
     "status_of_ihz"
   ],
@@ -8132,7 +8054,7 @@
     "total_medicaid_recipients",
     "state_supplement_total"
   ],
-  "vmz7-tuv5": [
+  "tusz-n3pv": [
 
   ],
   "b9zb-xkhg": [
@@ -8142,7 +8064,7 @@
     "town",
     "date_designated"
   ],
-  "tusz-n3pv": [
+  "vmz7-tuv5": [
 
   ],
   "8cnp-w8ic": [
@@ -8278,24 +8200,24 @@
   ],
   "xkvv-76v8": [
     "blms_loc_street",
-    "bldt_lic_text7",
+    "ycoord",
     "blms_dba",
     "blms_parcel",
-    "bldt_lic_text3",
-    "bldt_lic_text6",
+    "xcoord",
     "blms_id",
     "blms_loc_no",
+    "geom",
     "bldt_lic_text2"
   ],
   "uhd3-de4x": [
     "blms_loc_street",
-    "bldt_lic_text7",
+    "ycoord",
     "blms_dba",
     "blms_parcel",
-    "bldt_lic_text3",
-    "bldt_lic_text6",
+    "xcoord",
     "blms_id",
     "blms_loc_no",
+    "geom",
     "bldt_lic_text2"
   ],
   "86ax-cfey": [
@@ -8337,9 +8259,7 @@
     "tow_firm_phone",
     "townum",
     "geom",
-    "vehicle_state",
     "date",
-    "vehicle_plate",
     "time",
     "color",
     "vehicle_year",
@@ -8402,6 +8322,20 @@
     "date4_response",
     "file3_response"
   ],
+  "nkm4-x3eh": [
+    "ucr_1_code",
+    "case_number",
+    "address",
+    "neighborhood",
+    "ucr_2_category",
+    "geom",
+    "ucr_1_category",
+    "ucr_2_description",
+    "time_24hr",
+    "date",
+    "ucr_2_code",
+    "ucr_1_description"
+  ],
   "p5sn-aehm": [
     "lsni_district",
     "project_name",
@@ -8427,20 +8361,6 @@
     "ds_milestones"
   ],
   "6btu-i4wu": [
-    "ucr_1_code",
-    "case_number",
-    "address",
-    "neighborhood",
-    "ucr_2_category",
-    "geom",
-    "ucr_1_category",
-    "ucr_2_description",
-    "time_24hr",
-    "date",
-    "ucr_2_code",
-    "ucr_1_description"
-  ],
-  "nkm4-x3eh": [
     "ucr_1_code",
     "case_number",
     "address",
@@ -8557,6 +8477,18 @@
     "ucr_2_code",
     "ucr_1_description"
   ],
+  "e6mb-v3vp": [
+    "ucr_1_code",
+    "case_number",
+    "address",
+    "neighborhood",
+    "geom",
+    "ucr_1_category",
+    "time_24hr",
+    "date",
+    "ucr_2_code",
+    "ucr_1_description"
+  ],
   "eyqm-v4n3": [
     "ycoord",
     "originating_dept",
@@ -8570,6 +8502,30 @@
     "location",
     "application_recieved",
     "geom"
+  ],
+  "p9cm-xwnd": [
+    "ucr_1_code",
+    "case_number",
+    "address",
+    "neighborhood",
+    "geom",
+    "ucr_1_category",
+    "time_24hr",
+    "date",
+    "ucr_2_code",
+    "ucr_1_description"
+  ],
+  "y8eb-mafb": [
+    "ucr_1_code",
+    "case_number",
+    "address",
+    "neighborhood",
+    "geom",
+    "ucr_1_category",
+    "time_24hr",
+    "date",
+    "ucr_2_code",
+    "ucr_1_description"
   ],
   "99t6-wshd": [
     "medianhouseholdincome",
@@ -8607,42 +8563,6 @@
     "homeownervacancyrateper",
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
-  ],
-  "e6mb-v3vp": [
-    "ucr_1_code",
-    "case_number",
-    "address",
-    "neighborhood",
-    "geom",
-    "ucr_1_category",
-    "time_24hr",
-    "date",
-    "ucr_2_code",
-    "ucr_1_description"
-  ],
-  "p9cm-xwnd": [
-    "ucr_1_code",
-    "case_number",
-    "address",
-    "neighborhood",
-    "geom",
-    "ucr_1_category",
-    "time_24hr",
-    "date",
-    "ucr_2_code",
-    "ucr_1_description"
-  ],
-  "y8eb-mafb": [
-    "ucr_1_code",
-    "case_number",
-    "address",
-    "neighborhood",
-    "geom",
-    "ucr_1_category",
-    "time_24hr",
-    "date",
-    "ucr_2_code",
-    "ucr_1_description"
   ],
   "n8k4-zkev": [
     "ucr_1_code",
@@ -8698,42 +8618,13 @@
     "link",
     "layername"
   ],
-  "agaq-47m3": [
-    "medianhouseholdincome",
-    "somecollegenodegreeper25plus",
-    "blackorafricanamerican",
-    "bachelorsdegreeper25plus",
-    "whitealoneper",
-    "femalepopulationper",
-    "totalhouseholds",
-    "femalepopulation",
-    "census_tract_by_year",
-    "year",
-    "census_tract",
-    "blackorafricanamericanper",
-    "rentervacancyrateper",
-    "population25andover",
-    "employedper",
-    "totalpopulation",
+  "cbzv-qf8c": [
+    "high_school_district",
     "neighborhood",
-    "femalehouseholderper",
-    "highschoolgraduateorhigherper25plus",
-    "precentbachelorsdegreeorhigherper25plus",
-    "allpeoplewhoseincomeinpast12monthsisbelowpovertylineper",
-    "unemployedper",
-    "population16yearsandoverinlaborforceper",
-    "other",
-    "malepopulation",
-    "vacanthousingunits",
-    "year_by_census_track",
-    "population18_24",
-    "highschoolgraduateorequivalencyper25plus",
-    "malepopulationper",
-    "otherper",
-    "whitealone",
-    "homeownervacancyrateper",
-    "femalehouseholder",
-    "graduateorprofessionaldegreeper25plus"
+    "gender",
+    "race",
+    "ethnicity",
+    "birth_year"
   ],
   "3ii4-an4w": [
     "ycoord",
@@ -8749,15 +8640,7 @@
     "application_recieved",
     "geom"
   ],
-  "cbzv-qf8c": [
-    "high_school_district",
-    "neighborhood",
-    "gender",
-    "race",
-    "ethnicity",
-    "birth_year"
-  ],
-  "589u-hsm3": [
+  "agaq-47m3": [
     "medianhouseholdincome",
     "somecollegenodegreeper25plus",
     "blackorafricanamerican",
@@ -8816,7 +8699,7 @@
     "owner",
     "proposed_zone"
   ],
-  "bu83-5u5s": [
+  "589u-hsm3": [
     "medianhouseholdincome",
     "somecollegenodegreeper25plus",
     "blackorafricanamerican",
@@ -8853,7 +8736,68 @@
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
   ],
+  "7p72-k6tv": [
+    "permit_type",
+    "parcel_id",
+    "xcoord",
+    "location",
+    "status",
+    "contractor",
+    "application_recieved",
+    "geom",
+    "proposed_use",
+    "location_desc",
+    "application_issue_date",
+    "fee_effective_date",
+    "ycoord",
+    "originating_dept",
+    "applicationref",
+    "project_activity_desc_line_1",
+    "project_activity_desc_line_2",
+    "estimated_cost",
+    "project_activity",
+    "owner",
+    "proposed_zone",
+    "actual_end_date"
+  ],
   "cbqv-upy8": [
+    "somecollegenodegreeper25plus",
+    "blackorafricanamerican",
+    "bachelorsdegreeper25plus",
+    "whitealoneper",
+    "femalepopulationper",
+    "totalhouseholds",
+    "femalepopulation",
+    "census_tract_by_year",
+    "year",
+    "census_tract",
+    "blackorafricanamericanper",
+    "rentervacancyrateper",
+    "population25andover",
+    "employedper",
+    "totalpopulation",
+    "neighborhood",
+    "femalehouseholderper",
+    "highschoolgraduateorhigherper25plus",
+    "precentbachelorsdegreeorhigherper25plus",
+    "allpeoplewhoseincomeinpast12monthsisbelowpovertylineper",
+    "unemployedper",
+    "population16yearsandoverinlaborforceper",
+    "other",
+    "malepopulation",
+    "vacanthousingunits",
+    "year_by_census_track",
+    "population18_24",
+    "highschoolgraduateorequivalencyper25plus",
+    "malepopulationper",
+    "otherper",
+    "whitealone",
+    "homeownervacancyrateper",
+    "femalehouseholder",
+    "graduateorprofessionaldegreeper25plus"
+  ],
+  "bu83-5u5s": [
+    "medianhouseholdincome",
     "somecollegenodegreeper25plus",
     "blackorafricanamerican",
     "bachelorsdegreeper25plus",
@@ -8892,6 +8836,23 @@
   "qxa9-dq4g": [
 
   ],
+  "nv2j-q56i": [
+    "reported",
+    "parcel_id",
+    "xcoord",
+    "location",
+    "status",
+    "department",
+    "geom",
+    "complaintviolation",
+    "location_description",
+    "holdpermits",
+    "statusclosedate",
+    "ycoord",
+    "ownername",
+    "sequence",
+    "zone"
+  ],
   "dfph-djvq": [
     "medianhouseholdincome",
     "somecollegenodegreeper25plus",
@@ -8928,6 +8889,30 @@
     "homeownervacancyrateper",
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
+  ],
+  "82je-qgaz": [
+    "permit_type",
+    "parcel_id",
+    "status_memo",
+    "xcoord",
+    "location",
+    "status",
+    "contractor",
+    "application_recieved",
+    "geom",
+    "proposed_use",
+    "location_desc",
+    "application_issue_date",
+    "fee_effective_date",
+    "ycoord",
+    "originating_dept",
+    "applicationref",
+    "project_activity_desc_line_1",
+    "project_activity_desc_line_2",
+    "estimated_cost",
+    "project_activity",
+    "owner",
+    "proposed_zone"
   ],
   "26v8-is7i": [
     "medianhouseholdincome",
@@ -9077,60 +9062,6 @@
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
   ],
-  "2jmi-e3pt": [
-    "medianhouseholdincome",
-    "somecollegenodegreeper25plus",
-    "blackorafricanamerican",
-    "bachelorsdegreeper25plus",
-    "whitealoneper",
-    "femalepopulationper",
-    "totalhouseholds",
-    "femalepopulation",
-    "census_tract_by_year",
-    "year",
-    "census_tract",
-    "blackorafricanamericanper",
-    "rentervacancyrateper",
-    "population25andover",
-    "employedper",
-    "totalpopulation",
-    "neighborhood",
-    "femalehouseholderper",
-    "highschoolgraduateorhigherper25plus",
-    "precentbachelorsdegreeorhigherper25plus",
-    "allpeoplewhoseincomeinpast12monthsisbelowpovertylineper",
-    "unemployedper",
-    "population16yearsandoverinlaborforceper",
-    "other",
-    "malepopulation",
-    "vacanthousingunits",
-    "year_by_census_track",
-    "population18_24",
-    "highschoolgraduateorequivalencyper25plus",
-    "malepopulationper",
-    "otherper",
-    "whitealone",
-    "homeownervacancyrateper",
-    "femalehouseholder",
-    "graduateorprofessionaldegreeper25plus"
-  ],
-  "nv2j-q56i": [
-    "reported",
-    "parcel_id",
-    "xcoord",
-    "location",
-    "status",
-    "department",
-    "geom",
-    "complaintviolation",
-    "location_description",
-    "holdpermits",
-    "statusclosedate",
-    "ycoord",
-    "ownername",
-    "sequence",
-    "zone"
-  ],
   "ksmr-a5nz": [
     "medianhouseholdincome",
     "somecollegenodegreeper25plus",
@@ -9168,7 +9099,94 @@
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
   ],
+  "c986-wrvr": [
+    "approved_amount",
+    "fiscal_year",
+    "fund_type",
+    "expense_type",
+    "recommended_amount",
+    "description",
+    "program",
+    "department",
+    "service",
+    "expense_category",
+    "fund"
+  ],
+  "2jmi-e3pt": [
+    "medianhouseholdincome",
+    "somecollegenodegreeper25plus",
+    "blackorafricanamerican",
+    "bachelorsdegreeper25plus",
+    "whitealoneper",
+    "femalepopulationper",
+    "totalhouseholds",
+    "femalepopulation",
+    "census_tract_by_year",
+    "year",
+    "census_tract",
+    "blackorafricanamericanper",
+    "rentervacancyrateper",
+    "population25andover",
+    "employedper",
+    "totalpopulation",
+    "neighborhood",
+    "femalehouseholderper",
+    "highschoolgraduateorhigherper25plus",
+    "precentbachelorsdegreeorhigherper25plus",
+    "allpeoplewhoseincomeinpast12monthsisbelowpovertylineper",
+    "unemployedper",
+    "population16yearsandoverinlaborforceper",
+    "other",
+    "malepopulation",
+    "vacanthousingunits",
+    "year_by_census_track",
+    "population18_24",
+    "highschoolgraduateorequivalencyper25plus",
+    "malepopulationper",
+    "otherper",
+    "whitealone",
+    "homeownervacancyrateper",
+    "femalehouseholder",
+    "graduateorprofessionaldegreeper25plus"
+  ],
   "mxrf-cpa9": [
+    "medianhouseholdincome",
+    "somecollegenodegreeper25plus",
+    "blackorafricanamerican",
+    "bachelorsdegreeper25plus",
+    "whitealoneper",
+    "femalepopulationper",
+    "totalhouseholds",
+    "femalepopulation",
+    "census_tract_by_year",
+    "year",
+    "census_tract",
+    "blackorafricanamericanper",
+    "rentervacancyrateper",
+    "population25andover",
+    "employedper",
+    "totalpopulation",
+    "neighborhood",
+    "femalehouseholderper",
+    "highschoolgraduateorhigherper25plus",
+    "precentbachelorsdegreeorhigherper25plus",
+    "allpeoplewhoseincomeinpast12monthsisbelowpovertylineper",
+    "unemployedper",
+    "population16yearsandoverinlaborforceper",
+    "other",
+    "malepopulation",
+    "vacanthousingunits",
+    "year_by_census_track",
+    "population18_24",
+    "highschoolgraduateorequivalencyper25plus",
+    "malepopulationper",
+    "otherper",
+    "whitealone",
+    "homeownervacancyrateper",
+    "femalehouseholder",
+    "graduateorprofessionaldegreeper25plus"
+  ],
+  "59wd-zr8e": [
     "medianhouseholdincome",
     "somecollegenodegreeper25plus",
     "blackorafricanamerican",
@@ -9278,103 +9296,6 @@
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
   ],
-  "gab8-48z7": [
-    "somecollegenodegreeper25plus",
-    "blackorafricanamerican",
-    "bachelorsdegreeper25plus",
-    "whitealoneper",
-    "femalepopulationper",
-    "totalhouseholds",
-    "femalepopulation",
-    "census_tract_by_year",
-    "year",
-    "census_tract",
-    "blackorafricanamericanper",
-    "rentervacancyrateper",
-    "population25andover",
-    "employedper",
-    "totalpopulation",
-    "neighborhood",
-    "femalehouseholderper",
-    "highschoolgraduateorhigherper25plus",
-    "precentbachelorsdegreeorhigherper25plus",
-    "allpeoplewhoseincomeinpast12monthsisbelowpovertylineper",
-    "unemployedper",
-    "population16yearsandoverinlaborforceper",
-    "other",
-    "malepopulation",
-    "vacanthousingunits",
-    "year_by_census_track",
-    "population18_24",
-    "highschoolgraduateorequivalencyper25plus",
-    "malepopulationper",
-    "otherper",
-    "whitealone",
-    "homeownervacancyrateper",
-    "femalehouseholder",
-    "graduateorprofessionaldegreeper25plus"
-  ],
-  "7p72-k6tv": [
-    "permit_type",
-    "parcel_id",
-    "xcoord",
-    "location",
-    "status",
-    "contractor",
-    "application_recieved",
-    "geom",
-    "proposed_use",
-    "location_desc",
-    "application_issue_date",
-    "fee_effective_date",
-    "ycoord",
-    "originating_dept",
-    "applicationref",
-    "project_activity_desc_line_1",
-    "project_activity_desc_line_2",
-    "estimated_cost",
-    "project_activity",
-    "owner",
-    "proposed_zone",
-    "actual_end_date"
-  ],
-  "krwu-auvi": [
-    "medianhouseholdincome",
-    "somecollegenodegreeper25plus",
-    "blackorafricanamerican",
-    "bachelorsdegreeper25plus",
-    "whitealoneper",
-    "femalepopulationper",
-    "totalhouseholds",
-    "femalepopulation",
-    "census_tract_by_year",
-    "year",
-    "census_tract",
-    "blackorafricanamericanper",
-    "rentervacancyrateper",
-    "population25andover",
-    "employedper",
-    "totalpopulation",
-    "neighborhood",
-    "femalehouseholderper",
-    "highschoolgraduateorhigherper25plus",
-    "precentbachelorsdegreeorhigherper25plus",
-    "allpeoplewhoseincomeinpast12monthsisbelowpovertylineper",
-    "unemployedper",
-    "population16yearsandoverinlaborforceper",
-    "other",
-    "malepopulation",
-    "vacanthousingunits",
-    "year_by_census_track",
-    "population18_24",
-    "highschoolgraduateorequivalencyper25plus",
-    "malepopulationper",
-    "otherper",
-    "whitealone",
-    "homeownervacancyrateper",
-    "femalehouseholder",
-    "graduateorprofessionaldegreeper25plus"
-  ],
   "vs53-4qgb": [
     "somecollegenodegreeper25plus",
     "blackorafricanamerican",
@@ -9411,7 +9332,43 @@
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
   ],
-  "59wd-zr8e": [
+  "gab8-48z7": [
+    "somecollegenodegreeper25plus",
+    "blackorafricanamerican",
+    "bachelorsdegreeper25plus",
+    "whitealoneper",
+    "femalepopulationper",
+    "totalhouseholds",
+    "femalepopulation",
+    "census_tract_by_year",
+    "year",
+    "census_tract",
+    "blackorafricanamericanper",
+    "rentervacancyrateper",
+    "population25andover",
+    "employedper",
+    "totalpopulation",
+    "neighborhood",
+    "femalehouseholderper",
+    "highschoolgraduateorhigherper25plus",
+    "precentbachelorsdegreeorhigherper25plus",
+    "allpeoplewhoseincomeinpast12monthsisbelowpovertylineper",
+    "unemployedper",
+    "population16yearsandoverinlaborforceper",
+    "other",
+    "malepopulation",
+    "vacanthousingunits",
+    "year_by_census_track",
+    "population18_24",
+    "highschoolgraduateorequivalencyper25plus",
+    "malepopulationper",
+    "otherper",
+    "whitealone",
+    "homeownervacancyrateper",
+    "femalehouseholder",
+    "graduateorprofessionaldegreeper25plus"
+  ],
+  "krwu-auvi": [
     "medianhouseholdincome",
     "somecollegenodegreeper25plus",
     "blackorafricanamerican",
@@ -9484,7 +9441,7 @@
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
   ],
-  "iwxw-cq5p": [
+  "r2uu-hwzj": [
     "medianhouseholdincome",
     "somecollegenodegreeper25plus",
     "blackorafricanamerican",
@@ -9521,7 +9478,27 @@
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
   ],
-  "r2uu-hwzj": [
+  "9gmx-rtdc": [
+    "ycoord",
+    "originating_dept",
+    "permit_type",
+    "parcel_id",
+    "status_memo",
+    "xcoord",
+    "applicationref",
+    "application_reviewer",
+    "status",
+    "location",
+    "application_recieved",
+    "geom"
+  ],
+  "845r-tjjh": [
+    "number_of_applications_recieved",
+    "percent_permits_issued_same_day",
+    "date_application_recieved",
+    "permits_issued_same_day"
+  ],
+  "iwxw-cq5p": [
     "medianhouseholdincome",
     "somecollegenodegreeper25plus",
     "blackorafricanamerican",
@@ -9595,49 +9572,6 @@
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
   ],
-  "qyjj-nwbe": [
-    "medianhouseholdincome",
-    "somecollegenodegreeper25plus",
-    "blackorafricanamerican",
-    "bachelorsdegreeper25plus",
-    "whitealoneper",
-    "femalepopulationper",
-    "totalhouseholds",
-    "femalepopulation",
-    "census_tract_by_year",
-    "year",
-    "census_tract",
-    "blackorafricanamericanper",
-    "rentervacancyrateper",
-    "population25andover",
-    "employedper",
-    "totalpopulation",
-    "neighborhood",
-    "femalehouseholderper",
-    "highschoolgraduateorhigherper25plus",
-    "precentbachelorsdegreeorhigherper25plus",
-    "allpeoplewhoseincomeinpast12monthsisbelowpovertylineper",
-    "unemployedper",
-    "population16yearsandoverinlaborforceper",
-    "other",
-    "malepopulation",
-    "vacanthousingunits",
-    "year_by_census_track",
-    "population18_24",
-    "highschoolgraduateorequivalencyper25plus",
-    "malepopulationper",
-    "otherper",
-    "whitealone",
-    "homeownervacancyrateper",
-    "femalehouseholder",
-    "graduateorprofessionaldegreeper25plus"
-  ],
-  "845r-tjjh": [
-    "number_of_applications_recieved",
-    "percent_permits_issued_same_day",
-    "date_application_recieved",
-    "permits_issued_same_day"
-  ],
   "bgy5-ns6v": [
     "medianhouseholdincome",
     "somecollegenodegreeper25plus",
@@ -9675,29 +9609,42 @@
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
   ],
-  "82je-qgaz": [
-    "permit_type",
-    "parcel_id",
-    "status_memo",
-    "xcoord",
-    "location",
-    "status",
-    "contractor",
-    "application_recieved",
-    "geom",
-    "proposed_use",
-    "location_desc",
-    "application_issue_date",
-    "fee_effective_date",
-    "ycoord",
-    "originating_dept",
-    "applicationref",
-    "project_activity_desc_line_1",
-    "project_activity_desc_line_2",
-    "estimated_cost",
-    "project_activity",
-    "owner",
-    "proposed_zone"
+  "qyjj-nwbe": [
+    "medianhouseholdincome",
+    "somecollegenodegreeper25plus",
+    "blackorafricanamerican",
+    "bachelorsdegreeper25plus",
+    "whitealoneper",
+    "femalepopulationper",
+    "totalhouseholds",
+    "femalepopulation",
+    "census_tract_by_year",
+    "year",
+    "census_tract",
+    "blackorafricanamericanper",
+    "rentervacancyrateper",
+    "population25andover",
+    "employedper",
+    "totalpopulation",
+    "neighborhood",
+    "femalehouseholderper",
+    "highschoolgraduateorhigherper25plus",
+    "precentbachelorsdegreeorhigherper25plus",
+    "allpeoplewhoseincomeinpast12monthsisbelowpovertylineper",
+    "unemployedper",
+    "population16yearsandoverinlaborforceper",
+    "other",
+    "malepopulation",
+    "vacanthousingunits",
+    "year_by_census_track",
+    "population18_24",
+    "highschoolgraduateorequivalencyper25plus",
+    "malepopulationper",
+    "otherper",
+    "whitealone",
+    "homeownervacancyrateper",
+    "femalehouseholder",
+    "graduateorprofessionaldegreeper25plus"
   ],
   "c6v3-pgi7": [
     "somecollegenodegreeper25plus",
@@ -9735,7 +9682,7 @@
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
   ],
-  "np73-47ec": [
+  "cp49-d5ej": [
     "somecollegenodegreeper25plus",
     "blackorafricanamerican",
     "bachelorsdegreeper25plus",
@@ -9771,7 +9718,7 @@
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
   ],
-  "xrmu-yn9k": [
+  "bgc4-xjmz": [
     "medianhouseholdincome",
     "somecollegenodegreeper25plus",
     "blackorafricanamerican",
@@ -9808,7 +9755,7 @@
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
   ],
-  "cp49-d5ej": [
+  "np73-47ec": [
     "somecollegenodegreeper25plus",
     "blackorafricanamerican",
     "bachelorsdegreeper25plus",
@@ -9881,34 +9828,7 @@
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
   ],
-  "9gmx-rtdc": [
-    "ycoord",
-    "originating_dept",
-    "permit_type",
-    "parcel_id",
-    "status_memo",
-    "xcoord",
-    "applicationref",
-    "application_reviewer",
-    "status",
-    "location",
-    "application_recieved",
-    "geom"
-  ],
-  "c986-wrvr": [
-    "approved_amount",
-    "fiscal_year",
-    "fund_type",
-    "expense_type",
-    "recommended_amount",
-    "description",
-    "program",
-    "department",
-    "service",
-    "expense_category",
-    "fund"
-  ],
-  "bgc4-xjmz": [
+  "xrmu-yn9k": [
     "medianhouseholdincome",
     "somecollegenodegreeper25plus",
     "blackorafricanamerican",
@@ -10019,18 +9939,6 @@
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
   ],
-  "iswt-5pag": [
-    "parcel",
-    "exemption",
-    "gross",
-    "owner_name",
-    "list_no",
-    "land",
-    "tot_bldg",
-    "net_assmt",
-    "tot_land",
-    "dist"
-  ],
   "vppj-3bbp": [
     "reported",
     "parcel_id",
@@ -10048,6 +9956,18 @@
     "sequence",
     "zone"
   ],
+  "iswt-5pag": [
+    "parcel",
+    "exemption",
+    "gross",
+    "owner_name",
+    "list_no",
+    "land",
+    "tot_bldg",
+    "net_assmt",
+    "tot_land",
+    "dist"
+  ],
   "iyhd-mwa7": [
     "ycoord",
     "originating_dept",
@@ -10062,17 +9982,6 @@
     "application_recieved",
     "geom"
   ],
-  "adju-6t5y": [
-    "blms_loc_street",
-    "bldt_lic_text7",
-    "blms_dba",
-    "blms_parcel",
-    "bldt_lic_text3",
-    "bldt_lic_text6",
-    "blms_id",
-    "blms_loc_no",
-    "bldt_lic_text2"
-  ],
   "izai-dug8": [
     "all_other_calls",
     "alarm_date",
@@ -10086,15 +9995,25 @@
     "tow_firm_phone",
     "townum",
     "geom",
-    "vehicle_state",
     "date",
-    "vehicle_plate",
     "time",
     "color",
     "vehicle_year",
     "tow_firm_address",
     "tow_firm",
     "make"
+  ],
+  "adju-6t5y": [
+    "blms_loc_street",
+    "ycoord",
+    "blms_dba",
+    "blms_parcel",
+    "xcoord",
+    "bldt_lic_text3",
+    "blms_id",
+    "blms_loc_no",
+    "geom",
+    "bldt_lic_text2"
   ],
   "uaka-jfbc": [
     "permit_type",
@@ -10142,20 +10061,6 @@
     "owner",
     "proposed_zone"
   ],
-  "ws4t-nqkp": [
-    "ycoord",
-    "originating_dept",
-    "permit_type",
-    "parcel_id",
-    "status_memo",
-    "xcoord",
-    "applicationref",
-    "application_reviewer",
-    "status",
-    "location",
-    "application_recieved",
-    "geom"
-  ],
   "u8ni-xv9a": [
     "ycoord",
     "originating_dept",
@@ -10170,25 +10075,19 @@
     "application_recieved",
     "geom"
   ],
-  "cz9t-hpx3": [
-    "sum_incidents",
-    "year"
-  ],
-  "pug5-du2h": [
-    "sum_incidents",
-    "year"
-  ],
-  "68h9-sbkg": [
-    "sum_incidents",
-    "year"
-  ],
-  "x6me-iiw3": [
-    "sum_incidents",
-    "year"
-  ],
-  "qbk9-gryk": [
-    "sum_incidents",
-    "year"
+  "ws4t-nqkp": [
+    "ycoord",
+    "originating_dept",
+    "permit_type",
+    "parcel_id",
+    "status_memo",
+    "xcoord",
+    "applicationref",
+    "application_reviewer",
+    "status",
+    "location",
+    "application_recieved",
+    "geom"
   ],
   "wxdp-mi5i": [
     "arv_time",
@@ -10212,55 +10111,6 @@
     "latitude",
     "shift"
   ],
-  "cwxs-2pd8": [
-    "blms_loc_street",
-    "ycoord",
-    "blms_dba",
-    "blms_parcel",
-    "xcoord",
-    "bldt_lic_text3",
-    "bldt_lic_text6",
-    "blms_id",
-    "blms_loc_no",
-    "bldt_lic_text2"
-  ],
-  "9s8k-yidq": [
-    "sum_incidents",
-    "year"
-  ],
-  "p6zw-xzv5": [
-    "sum_incidents",
-    "year"
-  ],
-  "2tvz-ccut": [
-    "sum_incidents",
-    "year"
-  ],
-  "7k97-yzir": [
-    "sum_incidents",
-    "year"
-  ],
-  "t8uv-wc72": [
-    "sum_incidents",
-    "year"
-  ],
-  "vmvf-icyf": [
-    "agency",
-    "_1997_1998",
-    "program_activity"
-  ],
-  "6tui-gvqq": [
-    "sum_incidents",
-    "year"
-  ],
-  "cpsn-kfby": [
-    "sum_incidents",
-    "year"
-  ],
-  "tgu9-b9qy": [
-    "sum_incidents",
-    "year"
-  ],
   "hb7h-mqbg": [
     "reported",
     "parcel_id",
@@ -10278,19 +10128,17 @@
     "sequence",
     "zone"
   ],
-  "gab7-hi8g": [
-    "zip",
-    "owner_name",
-    "dba",
-    "state",
-    "license_expire_date",
-    "address1",
-    "last_license_date",
-    "first_license_date",
-    "vendor_food_class",
-    "city",
-    "blms_id",
-    "license_issue_date"
+  "cz9t-hpx3": [
+    "sum_incidents",
+    "year"
+  ],
+  "pug5-du2h": [
+    "sum_incidents",
+    "year"
+  ],
+  "68h9-sbkg": [
+    "sum_incidents",
+    "year"
   ],
   "v2h8-idcq": [
     "permit_type",
@@ -10315,15 +10163,87 @@
     "owner",
     "proposed_zone"
   ],
+  "vmvf-icyf": [
+    "agency",
+    "_1997_1998",
+    "program_activity"
+  ],
+  "x6me-iiw3": [
+    "sum_incidents",
+    "year"
+  ],
+  "qbk9-gryk": [
+    "sum_incidents",
+    "year"
+  ],
+  "cwxs-2pd8": [
+    "blms_loc_street",
+    "ycoord",
+    "blms_dba",
+    "blms_parcel",
+    "xcoord",
+    "bldt_lic_text3",
+    "bldt_lic_text6",
+    "blms_id",
+    "blms_loc_no",
+    "geom",
+    "bldt_lic_text2"
+  ],
+  "9s8k-yidq": [
+    "sum_incidents",
+    "year"
+  ],
+  "gab7-hi8g": [
+    "zip",
+    "owner_name",
+    "dba",
+    "state",
+    "license_expire_date",
+    "address1",
+    "last_license_date",
+    "first_license_date",
+    "vendor_food_class",
+    "city",
+    "blms_id",
+    "license_issue_date"
+  ],
+  "7k97-yzir": [
+    "sum_incidents",
+    "year"
+  ],
+  "p6zw-xzv5": [
+    "sum_incidents",
+    "year"
+  ],
+  "2tvz-ccut": [
+    "sum_incidents",
+    "year"
+  ],
+  "cpsn-kfby": [
+    "sum_incidents",
+    "year"
+  ],
+  "t8uv-wc72": [
+    "sum_incidents",
+    "year"
+  ],
+  "6tui-gvqq": [
+    "sum_incidents",
+    "year"
+  ],
+  "tgu9-b9qy": [
+    "sum_incidents",
+    "year"
+  ],
   "86qx-quqp": [
     "sum_incidents",
     "year"
   ],
-  "acmt-hm8v": [
+  "k5zq-wue5": [
     "sum_incidents",
     "year"
   ],
-  "k5zq-wue5": [
+  "n8mx-47hv": [
     "sum_incidents",
     "year"
   ],
@@ -10332,6 +10252,10 @@
     "year"
   ],
   "xus4-uxwv": [
+    "sum_incidents",
+    "year"
+  ],
+  "acmt-hm8v": [
     "sum_incidents",
     "year"
   ],
@@ -10347,14 +10271,6 @@
     "sum_incidents",
     "year"
   ],
-  "n8mx-47hv": [
-    "sum_incidents",
-    "year"
-  ],
-  "ybd3-vykg": [
-    "sum_incidents",
-    "year"
-  ],
   "b3ks-a3tm": [
     "all_other_calls",
     "alarm_date",
@@ -10362,20 +10278,13 @@
     "total_number_of_calls",
     "fire_calls"
   ],
-  "t2ke-gq5p": [
+  "ybd3-vykg": [
     "sum_incidents",
     "year"
   ],
-  "gcmf-8b3e": [
-    "blms_loc_street",
-    "bldt_lic_text7",
-    "blms_dba",
-    "blms_parcel",
-    "bldt_lic_text3",
-    "bldt_lic_text6",
-    "blms_id",
-    "blms_loc_no",
-    "bldt_lic_text2"
+  "t2ke-gq5p": [
+    "sum_incidents",
+    "year"
   ],
   "2p74-z6sq": [
     "alm_date",
@@ -10402,6 +10311,18 @@
     "st_suffix",
     "latitude",
     "shift"
+  ],
+  "gcmf-8b3e": [
+    "blms_loc_street",
+    "ycoord",
+    "blms_dba",
+    "blms_parcel",
+    "xcoord",
+    "bldt_lic_text3",
+    "blms_id",
+    "blms_loc_no",
+    "geom",
+    "bldt_lic_text2"
   ],
   "vn4a-u63n": [
     "reported",
@@ -10458,8 +10379,10 @@
     "blms_parcel",
     "xcoord",
     "bldt_lic_text3",
+    "bldt_lic_text6",
     "blms_id",
     "blms_loc_no",
+    "geom",
     "bldt_lic_text2"
   ],
   "d5gz-4byb": [
@@ -10514,6 +10437,30 @@
     "latitude",
     "shift"
   ],
+  "xk8h-j69c": [
+    "blms_loc_street",
+    "ycoord",
+    "bldt_lic_text7",
+    "blms_dba",
+    "blms_parcel",
+    "xcoord",
+    "bldt_lic_text3",
+    "bldt_lic_text6",
+    "blms_id",
+    "blms_loc_no",
+    "geom",
+    "bldt_lic_text2"
+  ],
+  "p6gm-3y79": [
+    "tpfield00",
+    "onstreet",
+    "atstreet",
+    "geom",
+    "stopname",
+    "inservice",
+    "stopid",
+    "stopabbr"
+  ],
   "549e-yf29": [
     "parcel_id",
     "xcoord",
@@ -10535,28 +10482,6 @@
     "objectid",
     "photolink",
     "streetname"
-  ],
-  "xk8h-j69c": [
-    "blms_loc_street",
-    "ycoord",
-    "blms_dba",
-    "blms_parcel",
-    "xcoord",
-    "bldt_lic_text3",
-    "bldt_lic_text6",
-    "blms_id",
-    "blms_loc_no",
-    "bldt_lic_text2"
-  ],
-  "p6gm-3y79": [
-    "tpfield00",
-    "onstreet",
-    "atstreet",
-    "geom",
-    "stopname",
-    "inservice",
-    "stopid",
-    "stopabbr"
   ],
   "8pfz-upj7": [
     "permit_type",
@@ -10596,6 +10521,30 @@
     "objectid",
     "streetname"
   ],
+  "uxtm-zebz": [
+    "tpfield00",
+    "onstreet",
+    "atstreet",
+    "geom",
+    "stopname",
+    "inservice",
+    "stopid",
+    "stopabbr"
+  ],
+  "2hvu-whkn": [
+    "ycoord",
+    "originating_dept",
+    "permit_type",
+    "parcel_id",
+    "status_memo",
+    "xcoord",
+    "applicationref",
+    "application_reviewer",
+    "status",
+    "location",
+    "application_recieved",
+    "geom"
+  ],
   "sx79-y5gc": [
     "description",
     "link",
@@ -10625,15 +10574,12 @@
     "recorded_date",
     "first_document_type"
   ],
-  "uxtm-zebz": [
-    "tpfield00",
-    "onstreet",
-    "atstreet",
-    "geom",
-    "stopname",
-    "inservice",
-    "stopid",
-    "stopabbr"
+  "2f7t-awcn": [
+    "all_other_calls",
+    "alarm_date",
+    "ems_calls",
+    "total_number_of_calls",
+    "fire_calls"
   ],
   "ixee-zwvt": [
     "project_name",
@@ -10644,36 +10590,8 @@
     "latitude",
     "project_description"
   ],
-  "2hvu-whkn": [
-    "ycoord",
-    "originating_dept",
-    "permit_type",
-    "parcel_id",
-    "status_memo",
-    "xcoord",
-    "applicationref",
-    "application_reviewer",
-    "status",
-    "location",
-    "application_recieved",
-    "geom"
-  ],
-  "2f7t-awcn": [
-    "all_other_calls",
-    "alarm_date",
-    "ems_calls",
-    "total_number_of_calls",
-    "fire_calls"
-  ],
   "jxt6-7pd6": [
 
-  ],
-  "pcwd-qxqu": [
-    "all_other_calls",
-    "alarm_date",
-    "ems_calls",
-    "total_number_of_calls",
-    "fire_calls"
   ],
   "bqdw-2euc": [
     "household_size",
@@ -10698,6 +10616,13 @@
     "ethnicity",
     "application_receipt_date",
     "closing_date1"
+  ],
+  "pcwd-qxqu": [
+    "all_other_calls",
+    "alarm_date",
+    "ems_calls",
+    "total_number_of_calls",
+    "fire_calls"
   ],
   "h9pv-6if9": [
     "all_other_calls",
@@ -10778,13 +10703,6 @@
     "objectid",
     "streetname"
   ],
-  "anit-3we6": [
-    "all_other_calls",
-    "alarm_date",
-    "ems_calls",
-    "total_number_of_calls",
-    "fire_calls"
-  ],
   "tujn-vw5f": [
     "ycoord",
     "originating_dept",
@@ -10798,6 +10716,13 @@
     "location",
     "application_recieved",
     "geom"
+  ],
+  "anit-3we6": [
+    "all_other_calls",
+    "alarm_date",
+    "ems_calls",
+    "total_number_of_calls",
+    "fire_calls"
   ],
   "4xua-b4v9": [
     "phone_number",
@@ -10815,6 +10740,7 @@
     "bldt_lic_text3",
     "blms_id",
     "blms_loc_no",
+    "geom",
     "bldt_lic_text2"
   ],
   "i6uz-rj2n": [
@@ -10830,19 +10756,19 @@
     "total_number_of_calls",
     "fire_calls"
   ],
-  "n9tp-i3k3": [
-    "phone_number",
-    "location",
-    "description",
-    "name",
-    "geom"
-  ],
   "hg5j-9jzz": [
     "all_other_calls",
     "alarm_date",
     "ems_calls",
     "total_number_of_calls",
     "fire_calls"
+  ],
+  "n9tp-i3k3": [
+    "phone_number",
+    "location",
+    "description",
+    "name",
+    "geom"
   ],
   "5cfp-jucs": [
     "number_of_applications_recieved",
@@ -10968,7 +10894,7 @@
     "otherresponseunder4minpercent",
     "other_count"
   ],
-  "5rvd-ec6q": [
+  "vd3g-dnmn": [
     "emsresponseunder4min",
     "ems_count",
     "emsresponseunder4minpercent",
@@ -10983,7 +10909,7 @@
     "otherresponseunder4minpercent",
     "other_count"
   ],
-  "vd3g-dnmn": [
+  "5rvd-ec6q": [
     "emsresponseunder4min",
     "ems_count",
     "emsresponseunder4minpercent",
