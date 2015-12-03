@@ -108,6 +108,12 @@
   "dataDesc": "Department of Economic and Community Development listing of active direct financial assistance to businesses from Fiscal Year 1993 through 12/31/14. This list also includes out of business projects and inactive (repaid/contract no longer active) projects from the last five years."
 }, 
 {
+  "dataId": "xdcq-7svw",
+  "url": "https://data.ct.gov/Government/Nutmeg-Network/xdcq-7svw",
+  "dataType": "typeMap",
+  "dataDesc": "Fiber routes for the Nutmeg Network."
+}, 
+{
   "dataId": "t3bn-xdav",
   "url": "/view/t3bn-xdav",
   "dataType": "typeData_lens",
@@ -378,6 +384,12 @@
   "dataDesc": "This dataset contains the official listing of all public educational organizations in Connecticut.  Data elements include district name, school name, organization type, organization code, address, open date, interdistrict magnet status and grades offered.\n\nIncluded data are collected by the CT State Department of Education (CSDE) through the Directory Manager (DM) portal in accordance with Connecticut General Statute (C.G.S.) 10-4. This critical information is used by other data collection systems and for state and federal reporting. \n\nFor more information regarding DM, please visit http://www.csde.state.ct.us/public/directorymanager/default.asp"
 }, 
 {
+  "dataId": "8bzn-e4av",
+  "url": "https://data.ct.gov/Environment-and-Natural-Resources/DEP-Property/8bzn-e4av",
+  "dataType": "typeMap",
+  "dataDesc": "DEP Property includes parcels of land owned and managed by the Connecticut Department of Energy and Environmental Protection (DEEP) for the purpose of preserving open space, protecting natural habitats, managing wildlife, controlling floods, and providing the general public with outdoor recreational opportunities such as hiking, biking, swimming, fishing, boating, camping and hunting. It primarily includes the following types of DEP Property: state forest, state park, state park scenic reserve, state park trail, natural area preserve, historic preserve, wildlife area, wildlife sanctuary, DEP owned waterbody, water access, flood control, and fish hatchery. DEP Property is based on information from DEP land record information and is updated upon acquisition of new parcels of land."
+}, 
+{
   "dataId": "bimu-2gpn",
   "url": "https://data.ct.gov/Health-and-Human-Services/Asthma-Hospitalization-and-ED-Visit-Primary-Diagno/bimu-2gpn",
   "dataType": "typeBlist",
@@ -492,16 +504,16 @@
   "dataDesc": "Department of Revenue Services Tax Credits Claimed during fiscal year 2012-13 (July 1, 2012 through June 30, 2013) Corporation Business, Insurance Premiums and Public Service Companies Tax Returns"
 }, 
 {
-  "dataId": "cjb2-fkhn",
-  "url": "https://data.ct.gov/Government/Position-Status-Report/cjb2-fkhn",
-  "dataType": "typeBlist",
-  "dataDesc": "OPM compiles a monthly list of position data for executive branch agencies.  The data, by fund, includes authorized position count, and filled and vacant positions."
-}, 
-{
   "dataId": "tghy-ygnr",
   "url": "https://data.ct.gov/Public-Safety/Correctional-Facility-Daily-Population-Count/tghy-ygnr",
   "dataType": "typeGrouped",
   "dataDesc": "CT Department of Correction Facility Population Count by Date, By Status"
+}, 
+{
+  "dataId": "cjb2-fkhn",
+  "url": "https://data.ct.gov/Government/Position-Status-Report/cjb2-fkhn",
+  "dataType": "typeBlist",
+  "dataDesc": "OPM compiles a monthly list of position data for executive branch agencies.  The data, by fund, includes authorized position count, and filled and vacant positions."
 }, 
 {
   "dataId": "uh3c-4r63",
@@ -516,16 +528,16 @@
   "dataDesc": "List of Apple growers in Connecticut"
 }, 
 {
-  "dataId": "qkcc-8trv",
-  "url": "https://data.ct.gov/dataset/Farmers-Markets/qkcc-8trv",
-  "dataType": "typeBlist",
-  "dataDesc": ""
-}, 
-{
   "dataId": "fdya-crf4",
   "url": "https://data.ct.gov/Public-Safety/Correctional-Facility-Daily-Population-Count-With-/fdya-crf4",
   "dataType": "typeFilter",
   "dataDesc": "CT Department of Correction Facility Population Count by Date, By Status, Filter by Facility and/or Date"
+}, 
+{
+  "dataId": "qkcc-8trv",
+  "url": "https://data.ct.gov/dataset/Farmers-Markets/qkcc-8trv",
+  "dataType": "typeBlist",
+  "dataDesc": ""
 }, 
 {
   "dataId": "bg7p-63n2",
@@ -568,6 +580,12 @@
   "url": "https://data.ct.gov/Environment-and-Natural-Resources/Agricultural-Commoditites-Grown-By-Farmer/hma6-9xbg",
   "dataType": "typeBlist",
   "dataDesc": "Listing of individual commodities grown by licensed farmers in Connecticut"
+}, 
+{
+  "dataId": "rnv4-pp5b",
+  "url": "https://data.ct.gov/Transportation/CTFastrak-Stations/rnv4-pp5b",
+  "dataType": "typeMap",
+  "dataDesc": "CTFastrak Station Locations"
 }, 
 {
   "dataId": "d75v-c5rd",
@@ -624,6 +642,12 @@
   "dataDesc": "Hospital liquidity and solvency trend data for Connecticut individual hospitals and affiliated health systems (see attached definitions and notes document)"
 }, 
 {
+  "dataId": "c9nz-yr3i",
+  "url": "https://data.ct.gov/Environment-and-Natural-Resources/Aquifer-Protection-Areas/c9nz-yr3i",
+  "dataType": "typeMap",
+  "dataDesc": "An aquifer protection area is categorized as either a preliminary (level B) or final (level A) aquifer protection area, depending on the quality of mapping. Preliminary mapping provides a general estimate of the area contributing ground water to the well field. Final mapping is based on extensive, site-specific, detailed modeling of the ground water flow system at the well field. For a given aquifer protection area, this information includes either the preliminary or more detailed final mapping. Aquifer protection areas are represented as polygon areas and mapped for use at 1:24,000 scale (1 inch = 2,000 feet)."
+}, 
+{
   "dataId": "q8eg-b88c",
   "url": "https://data.ct.gov/Transportation/Emissions-Stations-by-Town/q8eg-b88c",
   "dataType": "typeBlist",
@@ -654,6 +678,12 @@
   "dataDesc": "This dataset contains the Connecticut's four year adjusted cohort graduation rates years 2009-2013. Data are disaggregated by subgroups including race/ethnicity, special education, free and reduced price lunch eligibility, and English language learner (ELL) status."
 }, 
 {
+  "dataId": "tga8-h5sq",
+  "url": "https://data.ct.gov/Education/District-Cohort-Graduation-Rates-2013/tga8-h5sq",
+  "dataType": "typeBlist",
+  "dataDesc": "This dataset contains the 2013 four-year cohort graduation rates by district. \nThe Connecticut State Department of Education (CSDE) introduced the four-year cohort graduation rate with the graduating class of 2009. This approach was created when Connecticut and 49 other states signed an agreement with the National Governors’ Association to develop a uniform system for tracking students.  The four-year cohort graduation rate is calculated by tracking an individual cohort, or group of students, from their initial entrance into Grade 9 through to graduation. The four-year cohort graduation rate represents the percentage of students who earn a standard high school diploma within four years. The calculation uses individual student-level data from the state's Public School Information System (PSIS) that school districts submitted and superintendents certified.\n\nNotes: \nDouble plus symbol (††) denotes not applicable; \nAsterisk symbol (*) denotes fewer than six in a cohort is suppressed;\nOut-placed students are counted only in district graduation calculation;\nRow percentages may not add to 100 percent because of rounding;\nDistrict graduation rates may not be the same as the average of the graduation rates of the number schools in that district because of out-placed students.\n\nGov. Malloy: Graduation Rate Increases for Fourth Consecutive Year: http://www.governor.ct.gov/malloy/cwp/view.asp?A=4010&Q=545016\n\nCohort Graduation Rate Documentation:\nhttp://www.sde.ct.gov/sde/lib/sde/PDF/EvalResearch/cohortgraddocumentation.pdf"
+}, 
+{
   "dataId": "pqw2-84sz",
   "url": "https://data.ct.gov/Government/Earned-Income-Tax-Credit-Statistics-by-Town-2011-E/pqw2-84sz",
   "dataType": "typeBlist",
@@ -664,12 +694,6 @@
   "url": "https://data.ct.gov/Government/Recycle-Collection/2zji-5rpa",
   "dataType": "typeBlist",
   "dataDesc": "Recycle  Collection Routes"
-}, 
-{
-  "dataId": "tga8-h5sq",
-  "url": "https://data.ct.gov/Education/District-Cohort-Graduation-Rates-2013/tga8-h5sq",
-  "dataType": "typeBlist",
-  "dataDesc": "This dataset contains the 2013 four-year cohort graduation rates by district. \nThe Connecticut State Department of Education (CSDE) introduced the four-year cohort graduation rate with the graduating class of 2009. This approach was created when Connecticut and 49 other states signed an agreement with the National Governors’ Association to develop a uniform system for tracking students.  The four-year cohort graduation rate is calculated by tracking an individual cohort, or group of students, from their initial entrance into Grade 9 through to graduation. The four-year cohort graduation rate represents the percentage of students who earn a standard high school diploma within four years. The calculation uses individual student-level data from the state's Public School Information System (PSIS) that school districts submitted and superintendents certified.\n\nNotes: \nDouble plus symbol (††) denotes not applicable; \nAsterisk symbol (*) denotes fewer than six in a cohort is suppressed;\nOut-placed students are counted only in district graduation calculation;\nRow percentages may not add to 100 percent because of rounding;\nDistrict graduation rates may not be the same as the average of the graduation rates of the number schools in that district because of out-placed students.\n\nGov. Malloy: Graduation Rate Increases for Fourth Consecutive Year: http://www.governor.ct.gov/malloy/cwp/view.asp?A=4010&Q=545016\n\nCohort Graduation Rate Documentation:\nhttp://www.sde.ct.gov/sde/lib/sde/PDF/EvalResearch/cohortgraddocumentation.pdf"
 }, 
 {
   "dataId": "b6vp-9fht",
@@ -690,6 +714,12 @@
   "dataDesc": "2012 Final ADT Counts for the Town Road Network as of 05-29-13\nAdditional Info:    Additional information is available on the Department of Transportation Website at http://www.ct.gov/dot/lib/dot/documents/dpolicy/traflog/TrafficLog12.pdf"
 }, 
 {
+  "dataId": "9y6m-fkd4",
+  "url": "https://data.ct.gov/Transportation/CT-Transit-New-Haven-Bus-Stops/9y6m-fkd4",
+  "dataType": "typeMap",
+  "dataDesc": "GIS Data for CT Tranist Bus Stops located in the City of New Haven"
+}, 
+{
   "dataId": "i2kw-ntg2",
   "url": "https://data.ct.gov/Business/2011-Retail-Sales-By-Town-All-NAICS/i2kw-ntg2",
   "dataType": "typeBlist",
@@ -706,6 +736,12 @@
   "url": "https://data.ct.gov/Government/Equalized-Net-Grand-List-by-Town-2011-2013-/8rr8-a322",
   "dataType": "typeBlist",
   "dataDesc": "The Office of Policy and Management annually develops the full-value estimate of all taxable property within the 169 towns and cities. A ratio of assessment to market value is calculated from real estate sales occurring within each town and city. A separate ratio and full-value estimate is listed for four property types: residential, apartment, commercial/industrial/public utility and vacant land"
+}, 
+{
+  "dataId": "4s7n-ckr3",
+  "url": "https://data.ct.gov/Health-and-Human-Services/Connecticut-Occupational-Health-Indicators/4s7n-ckr3",
+  "dataType": "typeBlist",
+  "dataDesc": "Indicators that describe the occupational health status of the working population in Connecticut, when available from 2000 through 2010\n\nBlank Value Cells = Not Calculated"
 }, 
 {
   "dataId": "2ar3-hwqi",
@@ -732,22 +768,16 @@
   "dataDesc": "Retail Sales by Town for all NAICS Retail Sectors\n* Please note that retailers with more than one establishment usually report all of their sales and use taxes from their primary location; therefore the amounts for various towns may not reflect actual business activity\n\n** Total Tax Due includes some tax amounts at the 6% rate from returns filed on cash basis. Sales and Use tax data at the 9.35% rate applicable to short-term rentals or leasing of motor vehicles are not included to comply with disclosure requirements."
 }, 
 {
-  "dataId": "4s7n-ckr3",
-  "url": "https://data.ct.gov/Health-and-Human-Services/Connecticut-Occupational-Health-Indicators/4s7n-ckr3",
+  "dataId": "7ikh-6uvh",
+  "url": "https://data.ct.gov/Education/Indicators-of-Educational-Need-by-School-2013-14/7ikh-6uvh",
   "dataType": "typeBlist",
-  "dataDesc": "Indicators that describe the occupational health status of the working population in Connecticut, when available from 2000 through 2010\n\nBlank Value Cells = Not Calculated"
+  "dataDesc": "This dataset contains counts and percentages of special education students, English Language Learners (ELL), and students eligible for free or reduced price meals by school for the 2013-14 school year. Small cell sizes have been suppressed, and are denoted by an asterisk."
 }, 
 {
   "dataId": "apne-w8c6",
   "url": "https://data.ct.gov/Transportation/Licensed-Automobile-Dealers-And-Repairers/apne-w8c6",
   "dataType": "typeBlist",
   "dataDesc": "Listing of licensed automobile dealers and repairers"
-}, 
-{
-  "dataId": "7ikh-6uvh",
-  "url": "https://data.ct.gov/Education/Indicators-of-Educational-Need-by-School-2013-14/7ikh-6uvh",
-  "dataType": "typeBlist",
-  "dataDesc": "This dataset contains counts and percentages of special education students, English Language Learners (ELL), and students eligible for free or reduced price meals by school for the 2013-14 school year. Small cell sizes have been suppressed, and are denoted by an asterisk."
 }, 
 {
   "dataId": "43fc-9893",
@@ -762,16 +792,16 @@
   "dataDesc": "Listing of all Department of Motor Vehicles office with links to services, hours, and wait times."
 }, 
 {
-  "dataId": "etgx-qn7r",
-  "url": "https://data.ct.gov/Government/Mohegan-Sun-Slot-Machine-Contributions/etgx-qn7r",
-  "dataType": "typeBlist",
-  "dataDesc": "Slot Machine Contributions to State of Connecticut"
-}, 
-{
   "dataId": "vr9v-n6m6",
   "url": "https://data.ct.gov/Government/Payment-in-Lieu-of-Taxes-PILOT-on-State-Property/vr9v-n6m6",
   "dataType": "typeBlist",
   "dataDesc": "The Office of Policy and Management administers the Payment in Lieu of Taxes (PILOT) on State Property program pursuant to CGS §12-19a, §12-19b, §12-19c, §4b-39, §32-666, and PA 13-277 § 58-61. This program provides payments for real property tax losses due to exemptions applicable to state-owned real property, certain real property that is the subject of a state lease or long-term financing contract, municipally-owned airports and certain land held in trust by the federal government."
+}, 
+{
+  "dataId": "etgx-qn7r",
+  "url": "https://data.ct.gov/Government/Mohegan-Sun-Slot-Machine-Contributions/etgx-qn7r",
+  "dataType": "typeBlist",
+  "dataDesc": "Slot Machine Contributions to State of Connecticut"
 }, 
 {
   "dataId": "3ws5-dy44",
@@ -1026,22 +1056,28 @@
   "dataDesc": "Information Technology projects"
 }, 
 {
-  "dataId": "35yf-wvfp",
-  "url": "https://data.ct.gov/Education/Statewide-CMT-3rd-Grade-Reading-And-Math-2007-2013/35yf-wvfp",
-  "dataType": "typeBlist",
-  "dataDesc": "This dataset contains the percentage of students achieving goal in reading and mathematics on the 3rd grade Connecticut Mastery Test (CMT) for the years 2007-2013. Data are disaggregated by various subgroups including race/ethnicity, special education, free and reduced price lunch eligibility, and English language learner (ELL) status."
-}, 
-{
   "dataId": "vnar-mt35",
   "url": "https://data.ct.gov/Government/2010-Population-By-Town/vnar-mt35",
   "dataType": "typeBlist",
   "dataDesc": "Population by town in Connecticut based on the 2010 census"
 }, 
 {
+  "dataId": "35yf-wvfp",
+  "url": "https://data.ct.gov/Education/Statewide-CMT-3rd-Grade-Reading-And-Math-2007-2013/35yf-wvfp",
+  "dataType": "typeBlist",
+  "dataDesc": "This dataset contains the percentage of students achieving goal in reading and mathematics on the 3rd grade Connecticut Mastery Test (CMT) for the years 2007-2013. Data are disaggregated by various subgroups including race/ethnicity, special education, free and reduced price lunch eligibility, and English language learner (ELL) status."
+}, 
+{
   "dataId": "gxez-g6ke",
   "url": "https://data.ct.gov/Business/Job-Expansion-Tax-Credit-Tabulated-Data/gxez-g6ke",
   "dataType": "typeFilter",
   "dataDesc": "A listing of the JET projects in the Department of Economic and Community Development - Tax Credit Portfolio dataset. This data is updated in accordance with the schedule of that dataset."
+}, 
+{
+  "dataId": "iecm-8ftj",
+  "url": "https://data.ct.gov/Public-Safety/Police-Department-Map/iecm-8ftj",
+  "dataType": "typeMap",
+  "dataDesc": "A listing of State, Municipal, Campus, and Other police departments in Connecticut. This list does not include sub-stations within various municipalities."
 }, 
 {
   "dataId": "h78t-88kx",
@@ -1054,12 +1090,6 @@
   "url": "https://data.ct.gov/Government/Information-Technology-Project-Portfolio-Project-H/3cp6-wgsk",
   "dataType": "typeChart",
   "dataDesc": "Information Technology projects"
-}, 
-{
-  "dataId": "iecm-8ftj",
-  "url": "https://data.ct.gov/Public-Safety/Police-Department-Map/iecm-8ftj",
-  "dataType": "typeMap",
-  "dataDesc": "A listing of State, Municipal, Campus, and Other police departments in Connecticut. This list does not include sub-stations within various municipalities."
 }, 
 {
   "dataId": "xqib-2aa7",
@@ -1134,6 +1164,18 @@
   "dataDesc": "This dataset contains the percentage of Kindergarten students with Pre-kindergarten experience by district for school years 2009-10 through 2012-13."
 }, 
 {
+  "dataId": "ebm6-9a96",
+  "url": "https://data.ct.gov/Government/State-Senate-Districts/ebm6-9a96",
+  "dataType": "typeMap",
+  "dataDesc": "The Reapportionment Commission adopted legislative redistricting plans on November 30, 2011. The Connecticut Supreme Court adopted the state's congressional redistricting plan in an order dated February 10, 2012"
+}, 
+{
+  "dataId": "nki6-723a",
+  "url": "https://data.ct.gov/Government/City-of-New-Haven-Aldermanic-Wards/nki6-723a",
+  "dataType": "typeMap",
+  "dataDesc": "GIS Data for the boundaries Aledermainc Wards in the City of New Haven"
+}, 
+{
   "dataId": "399t-fqcf",
   "url": "https://data.ct.gov/Education/Indicators-of-Educational-Need-by-District-2012-13/399t-fqcf",
   "dataType": "typeBlist",
@@ -1144,6 +1186,12 @@
   "url": "https://data.ct.gov/Business/Ambulatory-Surgical-Centers/6ptp-ec8m",
   "dataType": "typeFilter",
   "dataDesc": "Licenses and Credentials recorded in Connecticut's eLicensing system.\n\nUpdated daily."
+}, 
+{
+  "dataId": "w7gh-9eke",
+  "url": "https://data.ct.gov/Health-and-Human-Services/CT-DCF-Town-Boundaries/w7gh-9eke",
+  "dataType": "typeMap",
+  "dataDesc": "This file contains boundaries for each Town in the state, including the DCF Region and Area Office responsible for providing services to each Town.  This data is as of 7/1/2014, is unlikely to change frequently, and will be updated with any change to the catchment zones."
 }, 
 {
   "dataId": "rkm7-uwkb",
@@ -1218,16 +1266,16 @@
   "dataDesc": "Listing of individual commodities grown by licensed farmers in Connecticut"
 }, 
 {
-  "dataId": "qcgq-9p42",
-  "url": "https://data.ct.gov/Government/2014-Nonprofit-Grant-Program/qcgq-9p42",
-  "dataType": "typeBlist",
-  "dataDesc": "A list of grants-in-aid to private, nonprofit health and human service organizations pursuant to Sec. 13(a)(1) of Public Act 13-239"
-}, 
-{
   "dataId": "n4zd-qppb",
   "url": "https://data.ct.gov/Transportation/CT-Transit-Hartford-Area-Route-Bus-Stops/n4zd-qppb",
   "dataType": "typeBlist",
   "dataDesc": "Bus stop locations for CT Transit hartford area routes"
+}, 
+{
+  "dataId": "qcgq-9p42",
+  "url": "https://data.ct.gov/Government/2014-Nonprofit-Grant-Program/qcgq-9p42",
+  "dataType": "typeBlist",
+  "dataDesc": "A list of grants-in-aid to private, nonprofit health and human service organizations pursuant to Sec. 13(a)(1) of Public Act 13-239"
 }, 
 {
   "dataId": "9huc-qs58",
@@ -1266,6 +1314,12 @@
   "dataDesc": "Department of Revenue Services Tax Credits Claimed on 2008 Corporation Business, Insurance Premiums and Public Service Companies Tax Returns"
 }, 
 {
+  "dataId": "ftfw-fp9f",
+  "url": "https://data.ct.gov/Housing-and-Development/Incentive-Housing-Zones-by-parcel-/ftfw-fp9f",
+  "dataType": "typeMap",
+  "dataDesc": "The Statute provides incentives to municipalities for creating Incentive Housing Zones (IHZ) in eligible locations, such as, near transit facilities, an area of concentrated development or an area because of existing, planned or proposed infrastructure that is suitable for development as an IHZ."
+}, 
+{
   "dataId": "wmb9-muu8",
   "url": "https://data.ct.gov/Transportation/DMV-AAA-Service-Centers/wmb9-muu8",
   "dataType": "typeFilter",
@@ -1284,6 +1338,12 @@
   "dataDesc": "2012 VMT Data for Connecticut"
 }, 
 {
+  "dataId": "qre7-ek47",
+  "url": "https://data.ct.gov/Housing-and-Development/Deed-Restricted-Affordable-Housing-Units-by-Town-2/qre7-ek47",
+  "dataType": "typeBlist",
+  "dataDesc": "Deed-restricted properties or properties with deeds containing covenants or restrictions that require such dwelling unit(s) be sold or rented at or below prices that will preserve the unit(s) as affordable housing as defined in C.G.S. Section 8-39a for persons or families whose incomes are less than or equal to 80% of the area median income."
+}, 
+{
   "dataId": "mg8h-wy67",
   "url": "https://data.ct.gov/Education/Restraint-and-Seclusion-2012-13/mg8h-wy67",
   "dataType": "typeBlist",
@@ -1296,10 +1356,10 @@
   "dataDesc": "Listing of all Department of Motor Vehicles office with links to services, hours, and wait times."
 }, 
 {
-  "dataId": "qre7-ek47",
-  "url": "https://data.ct.gov/Housing-and-Development/Deed-Restricted-Affordable-Housing-Units-by-Town-2/qre7-ek47",
-  "dataType": "typeBlist",
-  "dataDesc": "Deed-restricted properties or properties with deeds containing covenants or restrictions that require such dwelling unit(s) be sold or rented at or below prices that will preserve the unit(s) as affordable housing as defined in C.G.S. Section 8-39a for persons or families whose incomes are less than or equal to 80% of the area median income."
+  "dataId": "g5qv-n4qd",
+  "url": "https://data.ct.gov/Government/State-House-of-Representatives-Districts/g5qv-n4qd",
+  "dataType": "typeMap",
+  "dataDesc": "The Reapportionment Commission adopted legislative redistricting plans on November 30, 2011. The Connecticut Supreme Court adopted the state's congressional redistricting plan in an order dated February 10, 2012"
 }, 
 {
   "dataId": "nhvj-awym",
@@ -1362,16 +1422,16 @@
   "dataDesc": "Administrating agencies for Licenses and Credentials in the eLicensing system."
 }, 
 {
-  "dataId": "ie23-wrng",
-  "url": "https://data.ct.gov/Government/Garbage-Collection-Routes/ie23-wrng",
-  "dataType": "typeBlist",
-  "dataDesc": "Garbage Collection Routes"
-}, 
-{
   "dataId": "2xqb-xbez",
   "url": "https://data.ct.gov/Health-and-Human-Services/SNAP-Supplemental-Nutrition-Assistance-Program-Aut/2xqb-xbez",
   "dataType": "typeBlist",
   "dataDesc": "A listing of retailers in Conneticut authorized to accept SNAP EBT benefits. The Supplemental Nutrition Assistance Program (SNAP), formerly known as Food Stamps, helps eligible individuals and families afford the cost of food at supermarkets, grocery stores and farmers’ markets."
+}, 
+{
+  "dataId": "ie23-wrng",
+  "url": "https://data.ct.gov/Government/Garbage-Collection-Routes/ie23-wrng",
+  "dataType": "typeBlist",
+  "dataDesc": "Garbage Collection Routes"
 }, 
 {
   "dataId": "efa5-f6zx",
@@ -1410,6 +1470,12 @@
   "dataDesc": "Approximately $4.3 million of federal funds was distributed to 159 police departments/municipalities with the primary purpose to assist towns with participating in the American Recovery and Reinvestment Act of 2009 (ARRA) distribution of criminal justice grant funds.  Data fields include: (1) Town Name; (2) Total Award; (3) Total Expenditures; and (4) Summary description of goods and services procured."
 }, 
 {
+  "dataId": "x5e6-tyjt",
+  "url": "https://data.ct.gov/Government/Congressional-Districts/x5e6-tyjt",
+  "dataType": "typeMap",
+  "dataDesc": "The Reapportionment Commission adopted legislative redistricting plans on November 30, 2011. The Connecticut Supreme Court adopted the state's congressional redistricting plan in an order dated February 10, 2012"
+}, 
+{
   "dataId": "buy2-z4cz",
   "url": "https://data.ct.gov/Health-and-Human-Services/Child-Day-Care-Centers-And-Group-Day-Care-Homes/buy2-z4cz",
   "dataType": "typeBlist",
@@ -1422,16 +1488,28 @@
   "dataDesc": "This dataset contains the Connecticut Mastery Test (CMT) district performance indices (DPIs) for 2009-10 (2010), 2010-11 (2011), and 2011-12 (2012). These data were published in the District Performance Reports released by the CT State Department of Education (CSDE) in December 2013 (see http://www.csde.state.ct.us/public/performancereports/20122013reports.asp)\n \nNote: Cells are left blank if there is no DPI, which happens when there are small N sizes for a particular subgroup or subject."
 }, 
 {
-  "dataId": "rphg-kgwv",
-  "url": "https://data.ct.gov/Public-Safety/Uniform-Crime-Reporting-System-Offenses-2013/rphg-kgwv",
-  "dataType": "typeBlist",
-  "dataDesc": "The Uniform Crime Reporting Program measures the extent, fluctuation and distribution of crime throughout the United States. After counting Crime Index offenses reported, minus any unfounded complaints, contributors provide the number of “actual offenses” and the number of crimes cleared. For a criminal offense to be “cleared,” either of the following situations must prevail: (1) at least one person is arrested, charged, and turned over to the court for prosecution; or (2) some element beyond police control precludes the physical arrest of the offender (e.g., death of offender, victim refuses to cooperate, confession by offender already in police custody), resulting in the offense being cleared by “exceptional means.” Contributing agencies also include data on the value of property stolen and recovered in connection with the reported offenses, plus specific information regarding homicides, officers assaulted and arson."
+  "dataId": "gvr6-7b9t",
+  "url": "https://data.ct.gov/Education/New-Haven-Schools/gvr6-7b9t",
+  "dataType": "typeMap",
+  "dataDesc": "Public and Private schools in the City of New Haven"
 }, 
 {
   "dataId": "xf9b-um65",
   "url": "https://data.ct.gov/Environment-and-Natural-Resources/Map-of-USDA-Certified-Organic-Growers/xf9b-um65",
   "dataType": "typeMap",
   "dataDesc": "The following is a list Certified Organic Farmers in Connecticut. These farms have successfully passed an inspection from a USDA National Organic Program Accredited Inspection Agency. \n\nFor more information please visit the USDA National Organic Program website:  http://www.ams.usda.gov/AMSv1.0/nop"
+}, 
+{
+  "dataId": "rphg-kgwv",
+  "url": "https://data.ct.gov/Public-Safety/Uniform-Crime-Reporting-System-Offenses-2013/rphg-kgwv",
+  "dataType": "typeBlist",
+  "dataDesc": "The Uniform Crime Reporting Program measures the extent, fluctuation and distribution of crime throughout the United States. After counting Crime Index offenses reported, minus any unfounded complaints, contributors provide the number of “actual offenses” and the number of crimes cleared. For a criminal offense to be “cleared,” either of the following situations must prevail: (1) at least one person is arrested, charged, and turned over to the court for prosecution; or (2) some element beyond police control precludes the physical arrest of the offender (e.g., death of offender, victim refuses to cooperate, confession by offender already in police custody), resulting in the offense being cleared by “exceptional means.” Contributing agencies also include data on the value of property stolen and recovered in connection with the reported offenses, plus specific information regarding homicides, officers assaulted and arson."
+}, 
+{
+  "dataId": "cp6t-fv4x",
+  "url": "https://data.ct.gov/dataset/Connecticut-Open-Data-Policy-Microsoft-Word-versio/cp6t-fv4x",
+  "dataType": "typeBlob",
+  "dataDesc": "Open Data Policy for State Agencies effective April 22, 2015"
 }, 
 {
   "dataId": "bjps-9hja",
@@ -1444,12 +1522,6 @@
   "url": "/view/ubit-p3b7",
   "dataType": "typeData_lens",
   "dataDesc": "Small, women, minority and disabled-owned businesses certified to participate in the Connecticut's Set-Aside Program."
-}, 
-{
-  "dataId": "cp6t-fv4x",
-  "url": "https://data.ct.gov/dataset/Connecticut-Open-Data-Policy-Microsoft-Word-versio/cp6t-fv4x",
-  "dataType": "typeBlob",
-  "dataDesc": "Open Data Policy for State Agencies effective April 22, 2015"
 }, 
 {
   "dataId": "vzsv-fg4w",
@@ -1548,6 +1620,12 @@
   "dataDesc": "A listing of various agritourism activities in Connecticut"
 }, 
 {
+  "dataId": "r8fi-whh5",
+  "url": "https://data.ct.gov/Business/Benefit-Corporation-Data/r8fi-whh5",
+  "dataType": "typeBlist",
+  "dataDesc": "Benefit corporations are a type of for-profit corporate entity legally obligated through their charter to provide a positive impact on society and/or the environment. Connecticut’s legislation allowing the creation of benefit corporations went into effect October 1, 2014\n\nUpdated Monthly."
+}, 
+{
   "dataId": "35bv-xa6i",
   "url": "https://data.ct.gov/dataset/Address-Points-Preliminary-File/35bv-xa6i",
   "dataType": "typeHref",
@@ -1560,10 +1638,10 @@
   "dataDesc": "This dataset contains the school performance indices (SPIs) for 2009-10 (2010), 2010-11 (2011), and 2011-12 (2012) for all schools that administered the Connecticut Academic Performance Test (CAPT). These data were published in the School Performance Reports released by the CT State Department of Education (CSDE) in December 2013 (see http://www.csde.state.ct.us/public/performancereports/20122013reports.asp)\n\nNote: Cells are left blank if there is no SPI, which happens when there are small N sizes for a particular subgroup or subject."
 }, 
 {
-  "dataId": "r8fi-whh5",
-  "url": "https://data.ct.gov/Business/Benefit-Corporation-Data/r8fi-whh5",
+  "dataId": "rybz-nyjw",
+  "url": "https://data.ct.gov/Health-and-Human-Services/Accidental-Drug-Related-Deaths-January-2012-Sept-2/rybz-nyjw",
   "dataType": "typeBlist",
-  "dataDesc": "Benefit corporations are a type of for-profit corporate entity legally obligated through their charter to provide a positive impact on society and/or the environment. Connecticut’s legislation allowing the creation of benefit corporations went into effect October 1, 2014\n\nUpdated Monthly."
+  "dataDesc": "A listing of each accidental death associated with drug overdose in Connecticut. A \"Y\" value under the different substance columns indicates that particular substance was detected."
 }, 
 {
   "dataId": "ru4i-m74j",
@@ -1576,12 +1654,6 @@
   "url": "https://data.ct.gov/Health-and-Human-Services/Connecticut-Incident-Cases-of-FoodNet-Pathogens-by/fir6-w458",
   "dataType": "typeBlist",
   "dataDesc": "Foodborne Illness Surveillance in Connecticut, 2000-2012"
-}, 
-{
-  "dataId": "rybz-nyjw",
-  "url": "https://data.ct.gov/Health-and-Human-Services/Accidental-Drug-Related-Deaths-January-2012-Sept-2/rybz-nyjw",
-  "dataType": "typeBlist",
-  "dataDesc": "A listing of each accidental death associated with drug overdose in Connecticut. A \"Y\" value under the different substance columns indicates that particular substance was detected."
 }, 
 {
   "dataId": "56sa-etgx",
@@ -1608,22 +1680,28 @@
   "dataDesc": "These are the municipalities that received state funds under the Main Street Investment Fund program (CGS Section 4-66h)"
 }, 
 {
+  "dataId": "sg4r-4tnv",
+  "url": "https://data.ct.gov/dataset/DEP-Property-Access/sg4r-4tnv",
+  "dataType": "typeMap",
+  "dataDesc": "DEP Property includes parcels of land owned and managed by the Connecticut Department of Energy and Environmental Protection (DEEP) for the purpose of preserving open space, protecting natural habitats, managing wildlife, controlling floods, and providing the general public with outdoor recreational opportunities such as hiking, biking, swimming, fishing, boating, camping and hunting. It primarily includes the following types of DEP Property: state forest, state park, state park scenic reserve, state park trail, natural area preserve, historic preserve, wildlife area, wildlife sanctuary, DEP owned waterbody, water access, flood control, and fish hatchery. DEP Property is based on information from DEP land record information and is updated upon acquisition of new parcels of land"
+}, 
+{
   "dataId": "6ney-id6t",
   "url": "https://data.ct.gov/Health-and-Human-Services/WIC-Vendor-Map/6ney-id6t",
   "dataType": "typeMap",
   "dataDesc": "A list of food stores and pharmacies that are currently authorized by the Connecticut WIC Program to accept WIC checks as of 4/1/2015."
 }, 
 {
-  "dataId": "59q7-vx2z",
-  "url": "https://data.ct.gov/Education/Care-4-Kids-Average-Families-Served-per-Month-2011/59q7-vx2z",
-  "dataType": "typeBlist",
-  "dataDesc": "Care 4 Kids helps low to moderate income families in Connecticut pay for child care costs. This program is sponsored by the State of Connecticut’s Department of Social Services."
-}, 
-{
   "dataId": "q5ri-4mnk",
   "url": "https://data.ct.gov/Transportation/CHART-Incoming-Calls-at-Call-Center/q5ri-4mnk",
   "dataType": "typeChart",
   "dataDesc": "Number of Incoming Calls at Call Center"
+}, 
+{
+  "dataId": "59q7-vx2z",
+  "url": "https://data.ct.gov/Education/Care-4-Kids-Average-Families-Served-per-Month-2011/59q7-vx2z",
+  "dataType": "typeBlist",
+  "dataDesc": "Care 4 Kids helps low to moderate income families in Connecticut pay for child care costs. This program is sponsored by the State of Connecticut’s Department of Social Services."
 }, 
 {
   "dataId": "5zs7-ncqk",
@@ -1704,6 +1782,12 @@
   "dataDesc": "LICENSED PROPERTY AND CASUALTY INSURANCE COMPANIES: ASSETS, LIABILITIES, CAPITAL AND SURPLUS, AND DIRECT WRITTEN PREMIUMS IN CONNECTICUT FOR 2012 - NON-DOMESTIC (OUT OF STATE) INSURERS"
 }, 
 {
+  "dataId": "xiz5-fkep",
+  "url": "https://data.ct.gov/Transportation/Map-of-CT-Transit-Hartford-Area-Bus-Stops/xiz5-fkep",
+  "dataType": "typeMap",
+  "dataDesc": "Bust stop locations for CT Transit hartford area routes"
+}, 
+{
   "dataId": "7dmn-4s5d",
   "url": "https://data.ct.gov/dataset/Department-of-Revenue-Services-FY-2013-14-Tax-Cred/7dmn-4s5d",
   "dataType": "typeBlist",
@@ -1728,10 +1812,10 @@
   "dataDesc": "Incidents reported by Connecticut fire departments on the full range of their activities, from fire to emergency medical services (EMS) to equipment involved in the response."
 }, 
 {
-  "dataId": "xiz5-fkep",
-  "url": "https://data.ct.gov/Transportation/Map-of-CT-Transit-Hartford-Area-Bus-Stops/xiz5-fkep",
-  "dataType": "typeMap",
-  "dataDesc": "Bust stop locations for CT Transit hartford area routes"
+  "dataId": "n58a-39t6",
+  "url": "https://data.ct.gov/Transportation/Active-Roadway-Incidents/n58a-39t6",
+  "dataType": "typeHref",
+  "dataDesc": "XML Feed of current active roadway incidents on State roads and highways."
 }, 
 {
   "dataId": "ycxv-et3w",
@@ -1746,10 +1830,22 @@
   "dataDesc": ""
 }, 
 {
+  "dataId": "85dv-izg4",
+  "url": "https://data.ct.gov/Health-and-Human-Services/CT-DCF-Region-Boundaries/85dv-izg4",
+  "dataType": "typeMap",
+  "dataDesc": "This is a boundary file showing the catchment area for which each of the 6 DCFRegions is responsible. Catchment areas are comprised of complete Towns, but not necessarily complete Zip Codes. Data is as of 7/1/2014, is unlikely to change frequently, and will be updated only as changes are made to the catchment areas."
+}, 
+{
   "dataId": "udtt-rx7n",
   "url": "https://data.ct.gov/Government/2014-ELECTION/udtt-rx7n",
   "dataType": "typeBlist",
   "dataDesc": "2014 ELECTION STAMFORD"
+}, 
+{
+  "dataId": "fffv-bh3x",
+  "url": "https://data.ct.gov/Transportation/CHART-Corrective-Lenses-Restrictions-on-License-as/fffv-bh3x",
+  "dataType": "typeChart",
+  "dataDesc": ""
 }, 
 {
   "dataId": "j6mp-nsv2",
@@ -1764,22 +1860,16 @@
   "dataDesc": "On September 13, 2010, the Bureau of Enterprise Systems and Technology (BEST) received approval of its application for federal stimulus funding to expand state broadband access and network capacity.\n \nThe application, created and submitted in partnership with the Department of Public Safety (DPS) and the Connecticut Education Network (CEN), will enable the State to enhance network connections between schools and libraries to the high speed Connecticut Education Network (CEN) and improve public safety communications capability across the state."
 }, 
 {
-  "dataId": "n58a-39t6",
-  "url": "https://data.ct.gov/Transportation/Active-Roadway-Incidents/n58a-39t6",
-  "dataType": "typeHref",
-  "dataDesc": "XML Feed of current active roadway incidents on State roads and highways."
-}, 
-{
-  "dataId": "fffv-bh3x",
-  "url": "https://data.ct.gov/Transportation/CHART-Corrective-Lenses-Restrictions-on-License-as/fffv-bh3x",
-  "dataType": "typeChart",
-  "dataDesc": ""
-}, 
-{
   "dataId": "jixj-wkjd",
   "url": "https://data.ct.gov/Business/Licensed-Alcohol-and-Drug-Counselors/jixj-wkjd",
   "dataType": "typeFilter",
   "dataDesc": "Licenses and Credentials recorded in Connecticut's eLicensing system.\n\nUpdated daily."
+}, 
+{
+  "dataId": "q79s-2vp7",
+  "url": "https://data.ct.gov/Environment-and-Natural-Resources/Agritourism/q79s-2vp7",
+  "dataType": "typeBlist",
+  "dataDesc": "A listing of various agritourism activities in Connecticut"
 }, 
 {
   "dataId": "7hah-zeuv",
@@ -1788,10 +1878,10 @@
   "dataDesc": "Location and phone numbers for all Department of Rehabilitation Services - Bureau of Rehabilitation Services field offices"
 }, 
 {
-  "dataId": "q79s-2vp7",
-  "url": "https://data.ct.gov/Environment-and-Natural-Resources/Agritourism/q79s-2vp7",
-  "dataType": "typeBlist",
-  "dataDesc": "A listing of various agritourism activities in Connecticut"
+  "dataId": "hijk-5ch6",
+  "url": "https://data.ct.gov/Government/Map-of-Populated-Places/hijk-5ch6",
+  "dataType": "typeMap",
+  "dataDesc": "A listing of named populated places within Connecticut. This listing represents a subset of place names in Connecticut from the U.S. Board on Geographic Names, and is limited to populated places."
 }, 
 {
   "dataId": "qds8-qiwb",
@@ -1818,10 +1908,10 @@
   "dataDesc": "Licenses and Credentials recorded in Connecticut's eLicensing system.\n\nUpdated daily."
 }, 
 {
-  "dataId": "hijk-5ch6",
-  "url": "https://data.ct.gov/Government/Map-of-Populated-Places/hijk-5ch6",
+  "dataId": "9zs3-za23",
+  "url": "https://data.ct.gov/Housing-and-Development/Windham-Incentive-Housing-Overlay-Zones/9zs3-za23",
   "dataType": "typeMap",
-  "dataDesc": "A listing of named populated places within Connecticut. This listing represents a subset of place names in Connecticut from the U.S. Board on Geographic Names, and is limited to populated places."
+  "dataDesc": "The Statute provides incentives to municipalities for creating Incentive Housing Zones (IHZ) in eligible locations, such as, near transit facilities, an area of concentrated development or an area because of existing, planned or proposed infrastructure that is suitable for development as an IHZ."
 }, 
 {
   "dataId": "c46k-b923",
@@ -1848,16 +1938,22 @@
   "dataDesc": "Care 4 Kids unique children served by age group by Town in Fiscal Year 2013. Care 4 Kids helps low to moderate income families in Connecticut pay for child care costs. This program is sponsored by the State of Connecticut’s Department of Social Services"
 }, 
 {
+  "dataId": "fnfg-dct4",
+  "url": "https://data.ct.gov/Health-and-Human-Services/SFY05-14-Entries-Aggregates-Age-Bands/fnfg-dct4",
+  "dataType": "typeBlist",
+  "dataDesc": "This dataset contains aggregate data concerning the number of children that entered DCF placement during a given SFY (July 1 – June 30).  These figures are broken out by the DCF Region and Office responsible for the child's care, the child's Age Group (based on age on entry date), and by the categorical Placement Type into which the child was initially placed."
+}, 
+{
   "dataId": "rrcq-gqig",
   "url": "https://data.ct.gov/Transportation/Handicap-Permits-issued-at-DMV-between-Jan-to-Aug-/rrcq-gqig",
   "dataType": "typeBlist",
   "dataDesc": "Number of Handicap Permits processed at DMV"
 }, 
 {
-  "dataId": "fnfg-dct4",
-  "url": "https://data.ct.gov/Health-and-Human-Services/SFY05-14-Entries-Aggregates-Age-Bands/fnfg-dct4",
-  "dataType": "typeBlist",
-  "dataDesc": "This dataset contains aggregate data concerning the number of children that entered DCF placement during a given SFY (July 1 – June 30).  These figures are broken out by the DCF Region and Office responsible for the child's care, the child's Age Group (based on age on entry date), and by the categorical Placement Type into which the child was initially placed."
+  "dataId": "ddda-32cf",
+  "url": "https://data.ct.gov/Health-and-Human-Services/CT-DCF-Area-Boundaries/ddda-32cf",
+  "dataType": "typeMap",
+  "dataDesc": "This is a boundary file showing the catchment area for which each of the 14 DCF Area Offices is responsible.  Catchment areas are comprised of complete Towns, but not necessarily complete Zip Codes.  Data is as of 7/1/2014, is unlikely to change frequently, and will be updated only as changes are made to the catchment areas."
 }, 
 {
   "dataId": "vu37-8imu",
@@ -2028,6 +2124,12 @@
   "dataDesc": "Locations to access Connecticut State Parks and Trails."
 }, 
 {
+  "dataId": "qf49-cvnk",
+  "url": "https://data.ct.gov/Environment-and-Natural-Resources/City-of-New-Haven-Parks/qf49-cvnk",
+  "dataType": "typeMap",
+  "dataDesc": "Locations of public parks in the City of New Haven"
+}, 
+{
   "dataId": "644z-yvd8",
   "url": "https://data.ct.gov/Transportation/CHART-Customized-Plates-Copy-Records-Activity/644z-yvd8",
   "dataType": "typeChart",
@@ -2070,6 +2172,12 @@
   "dataDesc": "Number of Handicap Permits processed at DMV"
 }, 
 {
+  "dataId": "n7kw-xx5z",
+  "url": "https://data.ct.gov/Government/Zip-CodeTabilation-Area-Boundaries/n7kw-xx5z",
+  "dataType": "typeMap",
+  "dataDesc": "2010 Census 5-Digit ZIP Code Tabulation Area (ZCTA5) State-based. ZIP Code Tabulation Areas (ZCTAs) are approximate area representations of U.S. Postal Service (USPS) ZIP Code service areas that the Census Bureau creates to present statistical data from Census."
+}, 
+{
   "dataId": "4jc3-c5bs",
   "url": "https://data.ct.gov/Health-and-Human-Services/Family-Day-Care-Homes/4jc3-c5bs",
   "dataType": "typeBlist",
@@ -2080,6 +2188,12 @@
   "url": "https://data.ct.gov/Transportation/Customized-Plates-Copy-Records-Monthly-Activity/j8aa-krtu",
   "dataType": "typeBlist",
   "dataDesc": "Activity for Jun, July, August"
+}, 
+{
+  "dataId": "j7r7-bpkr",
+  "url": "https://data.ct.gov/Transportation/Railroad-Stations/j7r7-bpkr",
+  "dataType": "typeMap",
+  "dataDesc": "Rail Road Station Locations"
 }, 
 {
   "dataId": "v77e-h3gb",
@@ -2118,6 +2232,12 @@
   "dataDesc": "Department of Revenue Services Tax Credits Claimed during fiscal year 2011-12 (July 1, 2011 through June 30, 2012) Corporation Business, Insurance Premiums and Public Service Companies Tax Returns"
 }, 
 {
+  "dataId": "sist-ypb8",
+  "url": "https://data.ct.gov/Transportation/Yearly-Average-Daily-Traffic-Count-Locations/sist-ypb8",
+  "dataType": "typeMap",
+  "dataDesc": "Yearly Average Daily Traffic Count Locations"
+}, 
+{
   "dataId": "gms2-zq5b",
   "url": "https://data.ct.gov/dataset/State-Park-Swim-Areas/gms2-zq5b",
   "dataType": "typeMap",
@@ -2128,6 +2248,12 @@
   "url": "https://data.ct.gov/Education/Care-4-Kids-Unique-Children-By-Age-Group-FY12/566n-8368",
   "dataType": "typeBlist",
   "dataDesc": "Care 4 Kids unique children served by age group by Town in Fiscal Year 2012. Care 4 Kids helps low to moderate income families in Connecticut pay for child care costs. This program is sponsored by the State of Connecticut’s Department of Social Services"
+}, 
+{
+  "dataId": "s8kf-niv9",
+  "url": "https://data.ct.gov/Public-Safety/City-of-New-Haven-Police-Stations/s8kf-niv9",
+  "dataType": "typeMap",
+  "dataDesc": "Locations of Police Stations in the City of New Haven"
 }, 
 {
   "dataId": "aspx-imar",
@@ -2148,10 +2274,22 @@
   "dataDesc": "Open Data Policy for State Agencies affective April 22, 2015"
 }, 
 {
+  "dataId": "6wz3-tm5n",
+  "url": "https://data.ct.gov/Transportation/CHART-Incoming-Calls-for-Driver-Services-Division-/6wz3-tm5n",
+  "dataType": "typeChart",
+  "dataDesc": "Number of Incoming Calls for Driver Services from Jan to Aug 2014"
+}, 
+{
   "dataId": "728g-v3yi",
   "url": "https://data.ct.gov/dataset/State-Park-Trail-Access/728g-v3yi",
   "dataType": "typeMap",
   "dataDesc": "Locations to access Connecticut State Parks and Trails."
+}, 
+{
+  "dataId": "67x4-3awi",
+  "url": "https://data.ct.gov/Transportation/CTFastrak-North-Bound-Alignment/67x4-3awi",
+  "dataType": "typeMap",
+  "dataDesc": "CTFastrak North Bound Alignment"
 }, 
 {
   "dataId": "3smp-g7gj",
@@ -2160,10 +2298,10 @@
   "dataDesc": "Contains information on structures that are owned by the State of Connecticut.  This inventory is currently maintained by the OPM and information is self-reported by those State agencies that have custody and control over State owned buildings.  For additional information about this data, please contact the agency which is listed as owning the property.  This data is updated annually (October)."
 }, 
 {
-  "dataId": "6wz3-tm5n",
-  "url": "https://data.ct.gov/Transportation/CHART-Incoming-Calls-for-Driver-Services-Division-/6wz3-tm5n",
-  "dataType": "typeChart",
-  "dataDesc": "Number of Incoming Calls for Driver Services from Jan to Aug 2014"
+  "dataId": "spx2-pgqu",
+  "url": "https://data.ct.gov/Government/Brownfield-Projects-by-State-Senate-District/spx2-pgqu",
+  "dataType": "typeMap",
+  "dataDesc": "The Reapportionment Commission adopted legislative redistricting plans on November 30, 2011. The Connecticut Supreme Court adopted the state's congressional redistricting plan in an order dated February 10, 2012"
 }, 
 {
   "dataId": "wbi8-5vhf",
@@ -2206,6 +2344,18 @@
   "url": "https://data.ct.gov/Government/Pari-mutuel-Grants-To-Municipalities/59ps-catp",
   "dataType": "typeBlist",
   "dataDesc": "In accordance with the provisions of CGS Section12-575(m), grants to municipalities are paid to towns which host Off-Track Betting and Pari-mutuel operations."
+}, 
+{
+  "dataId": "dy99-nzrf",
+  "url": "https://data.ct.gov/Transportation/CTFastrak-South-Bound-Alignment/dy99-nzrf",
+  "dataType": "typeMap",
+  "dataDesc": "CTFastrak South Bound Alignment"
+}, 
+{
+  "dataId": "bsk8-skak",
+  "url": "https://data.ct.gov/dataset/New-Haven-Utility-Poles/bsk8-skak",
+  "dataType": "typeMap",
+  "dataDesc": ""
 }, 
 {
   "dataId": "usrc-sgkg",
@@ -2340,6 +2490,18 @@
   "dataDesc": "AVERAGE MONTHLY ASSISTANCE UNITS AND RECIPIENTS BY TOWN\t\t\t\t\t\t\nSTATE FISCAL YEAR 2003 \n\n*  Counts are estimated due to AU/recipient address correction.\t\t\t\t\t\t\t\nFigures may not add due to rounding."
 }, 
 {
+  "dataId": "245t-pvpn",
+  "url": "https://data.ct.gov/Transportation/2015-Continuous-Count-Stations/245t-pvpn",
+  "dataType": "typeMap",
+  "dataDesc": "2015 Continuous Count Stations"
+}, 
+{
+  "dataId": "724p-h6p6",
+  "url": "https://data.ct.gov/Government/City-of-New-Haven-Offices/724p-h6p6",
+  "dataType": "typeMap",
+  "dataDesc": "Locations of City Offices in new Haven"
+}, 
+{
   "dataId": "ffti-3zst",
   "url": "https://data.ct.gov/Health-and-Human-Services/MONTHLY-ASSISTANCE-UNITS-AND-RECIPIENTS-BY-TOWN-FY/ffti-3zst",
   "dataType": "typeBlist",
@@ -2400,6 +2562,12 @@
   "dataDesc": "AVERAGE MONTHLY ASSISTANCE UNITS AND RECIPIENTS BY TOWN\t\t\t\t\t\t\nSTATE FISCAL YEAR 2008\t\t\t\t\t\t\t\n* Due to rounding some towns may not display a case but will display recipients.  This is due to most cases having more than one recipient and therefore when averaged, the recipient count will be .5 or higher, and be counted as 1.\t\nNote: Due to rounding, program and statewide totals may appear inaccurate."
 }, 
 {
+  "dataId": "pxbk-462y",
+  "url": "/view/pxbk-462y",
+  "dataType": "typeData_lens",
+  "dataDesc": "As of March 13, 2015, all proposed state regulations must be written in the new eRegulations System. The primary purpose of the system is to improve public accessibility and transparency in the regulations process. A secondary goal, however, is to streamline the process by automating certain steps. This tracker will demonstrate the speed at which regulations historically went through the process vs. how quickly proposed regulations are moving through the process through the eRegulations System."
+}, 
+{
   "dataId": "9r6j-9p8n",
   "url": "https://data.ct.gov/Health-and-Human-Services/MONTHLY-ASSISTANCE-UNITS-AND-RECIPIENTS-BY-TOWN-ST/9r6j-9p8n",
   "dataType": "typeBlist",
@@ -2448,6 +2616,18 @@
   "dataDesc": "Type of Lane Inspections performed at Wethersfield and Hamden inspection Lane \nDuring January through August 2014"
 }, 
 {
+  "dataId": "ynh4-e9kv",
+  "url": "https://data.ct.gov/Transportation/Scenic-Roads-as-of-Dec-31-2010/ynh4-e9kv",
+  "dataType": "typeMap",
+  "dataDesc": "Scenic Roads as of Dec 31, 2010"
+}, 
+{
+  "dataId": "xbcx-kyfm",
+  "url": "https://data.ct.gov/Environment-and-Natural-Resources/211-Albany-Turnpike-Canton-CT/xbcx-kyfm",
+  "dataType": "typeMap",
+  "dataDesc": "An aquifer protection area is categorized as either a preliminary (level B) or final (level A) aquifer protection area, depending on the quality of mapping. Preliminary mapping provides a general estimate of the area contributing ground water to the well field. Final mapping is based on extensive, site-specific, detailed modeling of the ground water flow system at the well field. For a given aquifer protection area, this information includes either the preliminary or more detailed final mapping. Aquifer protection areas are represented as polygon areas and mapped for use at 1:24,000 scale (1 inch = 2,000 feet)."
+}, 
+{
   "dataId": "y4mj-dt3b",
   "url": "https://data.ct.gov/Housing-and-Development/Incentive-Housing-Zone-Applicants-Pie-Chart/y4mj-dt3b",
   "dataType": "typeChart",
@@ -2484,10 +2664,22 @@
   "dataDesc": "This table identifies municipalities that received state funding under the Incentive Housing Zone Program (CGS Section 8-13 (m-x))."
 }, 
 {
+  "dataId": "m5p3-vpcs",
+  "url": "/view/m5p3-vpcs",
+  "dataType": "typeData_lens",
+  "dataDesc": ""
+}, 
+{
   "dataId": "tewy-5stv",
   "url": "https://data.ct.gov/Health-and-Human-Services/Monthly-Recipients-Assistance-Units-FY99/tewy-5stv",
   "dataType": "typeBlist",
   "dataDesc": "AVERAGE MONTHLY ASSISTANCE UNITS AND RECIPIENTS BY TOWN\t\t\t\t\t\t\nSTATE FISCAL YEAR 99\n\n*  Counts are estimated due to AU/recipient address correction.\t\t\t\t\t\t\t\nFigures may not add due to rounding."
+}, 
+{
+  "dataId": "8cnp-w8ic",
+  "url": "https://data.ct.gov/Business/Business-and-Company-Lookup-Tool/8cnp-w8ic",
+  "dataType": "typeHref",
+  "dataDesc": "Online tool provided by the Secretary of State to look up businesses in the State of Connecticut"
 }, 
 {
   "dataId": "tusz-n3pv",
@@ -2506,12 +2698,6 @@
   "url": "https://data.ct.gov/Government/Legislative-Document-Search-Tool/vmz7-tuv5",
   "dataType": "typeHref",
   "dataDesc": "A website that allows users to search for legislative documents including: statutes, Public Acts, proposed bills, reports, and more. This also includes a document outling the availability of legislative databases"
-}, 
-{
-  "dataId": "8cnp-w8ic",
-  "url": "https://data.ct.gov/Business/Business-and-Company-Lookup-Tool/8cnp-w8ic",
-  "dataType": "typeHref",
-  "dataDesc": "Online tool provided by the Secretary of State to look up businesses in the State of Connecticut"
 }, 
 {
   "dataId": "xw6v-i328",
@@ -2718,28 +2904,16 @@
   "dataDesc": "This dataset reflects reported incidents of crime (with the exception of sexual assaults, which are excluded by statute) that occurred in the City of Hartford from 2005 to the present, minus the most recent ten days. Data is extracted from the City of Hartford Police Department's CrimeView database on a daily basis. Should you have questions about this dataset, you may contact the Crime Analysis Division of the Hartford Police Department at 860.757.4020 or policechief@Hartford.gov. Disclaimer: These incidents are based on crimes verified by the Hartford Police Department's Crime Analysis Division. The crime classifications may be changed at a later date based upon additional investigation and there is always the possibility of mechanical or human error. Therefore, the Hartford Police Department does not guarantee (either expressed or implied) the accuracy, completeness, timeliness, or correct sequencing of the information and the information should not be used for comparison purposes over time. The Hartford Police Department will not be responsible for any error or omission, or for the use of, or the results obtained from the use of this information. All data visualizations on maps should be considered approximate. The Hartford Police Department is not responsible for the content of any off-site pages that are referenced by or that reference this web page other than an official City of Hartford or Hartford Police Department web page. The user specifically acknowledges that the Hartford Police Department is not responsible for any defamatory, offensive, misleading, or illegal conduct of other users, links, or third parties and that the risk of injury from the foregoing rests entirely with the user. The unauthorized use of the words \"Hartford Police Department\", \"Hartford Police\", \"HPD\" or any colorable imitation of these words or the unauthorized use of the Hartford Police Department logo is unlawful. This web page does not, in any way, authorize such use. The dataset contains more than 400,000 records/rows of data and cannot be viewed in full in Microsoft Excel. Therefore, when downloading the file, select CSV from the Export menu. Open the file in an ASCII text editor, such as Wordpad, to view and search. To access a list of Hartford Police Department - Uniform Crime Reporting (UCR) codes, select the about tab on the right side of this page and scroll down to the attachments and open the PDF document."
 }, 
 {
-  "dataId": "2hvc-jqby",
-  "url": "https://data.hartford.gov/Public-Safety/Structure-Fires-1-1-2014-Current/2hvc-jqby",
-  "dataType": "typeFilter",
-  "dataDesc": "Current Year Fire Incidents updated on a nightly basis"
-}, 
-{
   "dataId": "9t3u-k43z",
   "url": "https://data.hartford.gov/Community/Hartford-GIS-Data/9t3u-k43z",
   "dataType": "typeBlist",
   "dataDesc": "This data set will give the user access to our enterprise GIS Data layers through our ArcGIS Online Open Data website. Data is always current to our GIS data."
 }, 
 {
-  "dataId": "cbzv-qf8c",
-  "url": "https://data.hartford.gov/Public-Health/City-of-Hartford-Birth-Information-2002-2012/cbzv-qf8c",
-  "dataType": "typeBlist",
-  "dataDesc": "Birth information for 2002-2012 by Neighborhood/High School District provided by the Health & Human Services Department. Updated as available."
-}, 
-{
-  "dataId": "3ii4-an4w",
-  "url": "https://data.hartford.gov/Housing-Development/Map-of-Planning-Applications-01-01-2014-to-12-31-2/3ii4-an4w",
-  "dataType": "typeMap",
-  "dataDesc": "Planning Applications 1/01/2011 to Current. Updated nightly."
+  "dataId": "2hvc-jqby",
+  "url": "https://data.hartford.gov/Public-Safety/Structure-Fires-1-1-2014-Current/2hvc-jqby",
+  "dataType": "typeFilter",
+  "dataDesc": "Current Year Fire Incidents updated on a nightly basis"
 }, 
 {
   "dataId": "agaq-47m3",
@@ -2754,16 +2928,28 @@
   "dataDesc": "Building and Trades Permits 1/01/2011 to Current. Updated nightly."
 }, 
 {
-  "dataId": "589u-hsm3",
-  "url": "https://data.hartford.gov/Community/Behind-the-Rocks-Southwest-NRZ-Census-Data-Census-/589u-hsm3",
-  "dataType": "typeChart",
-  "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is Census Data for the years 1990, 2000, and 2010. The percentages shown are based on the  specific census tract."
+  "dataId": "cbzv-qf8c",
+  "url": "https://data.hartford.gov/Public-Health/City-of-Hartford-Birth-Information-2002-2012/cbzv-qf8c",
+  "dataType": "typeBlist",
+  "dataDesc": "Birth information for 2002-2012 by Neighborhood/High School District provided by the Health & Human Services Department. Updated as available."
+}, 
+{
+  "dataId": "3ii4-an4w",
+  "url": "https://data.hartford.gov/Housing-Development/Map-of-Planning-Applications-01-01-2014-to-12-31-2/3ii4-an4w",
+  "dataType": "typeMap",
+  "dataDesc": "Planning Applications 1/01/2011 to Current. Updated nightly."
 }, 
 {
   "dataId": "7p72-k6tv",
   "url": "https://data.hartford.gov/Housing-Development/Building-and-Trades-Permits-1-1-2014-to-12-31-2014/7p72-k6tv",
   "dataType": "typeFilter",
   "dataDesc": "Building and Trades Permits 1/01/2011 to Current. Updated nightly."
+}, 
+{
+  "dataId": "589u-hsm3",
+  "url": "https://data.hartford.gov/Community/Behind-the-Rocks-Southwest-NRZ-Census-Data-Census-/589u-hsm3",
+  "dataType": "typeChart",
+  "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is Census Data for the years 1990, 2000, and 2010. The percentages shown are based on the  specific census tract."
 }, 
 {
   "dataId": "cbqv-upy8",
@@ -2778,16 +2964,16 @@
   "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is Census Data for the years 1990, 2000, and 2010. The percentages shown are based on the  specific census tract."
 }, 
 {
-  "dataId": "qxa9-dq4g",
-  "url": "https://data.hartford.gov/Public-Safety/Building-Fires/qxa9-dq4g",
-  "dataType": "typeFilter",
-  "dataDesc": "Current Year Fire Incidents updated on a nightly basis"
-}, 
-{
   "dataId": "nv2j-q56i",
   "url": "https://data.hartford.gov/Housing-Development/Housing-Code-Violations-01-01-2014-to-12-31-2014/nv2j-q56i",
   "dataType": "typeMap",
   "dataDesc": "Housing Code Violations 1/1/2011 to Current. Updated Nightly"
+}, 
+{
+  "dataId": "qxa9-dq4g",
+  "url": "https://data.hartford.gov/Public-Safety/Building-Fires/qxa9-dq4g",
+  "dataType": "typeFilter",
+  "dataDesc": "Current Year Fire Incidents updated on a nightly basis"
 }, 
 {
   "dataId": "dfph-djvq",
@@ -2808,14 +2994,26 @@
   "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is Census Data for the years 1990, 2000, and 2010. The percentages shown are based on the  specific census tract."
 }, 
 {
-  "dataId": "48qr-er8j",
-  "url": "https://data.hartford.gov/Community/Behind-the-Rocks-Southwest-NRZ-Census-Data-Census-/48qr-er8j",
+  "dataId": "a2tm-gdxt",
+  "url": "https://data.hartford.gov/Community/Behind-the-Rocks-Southwest-NRZ-Census-Data-Census-/a2tm-gdxt",
   "dataType": "typeChart",
   "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is Census Data for the years 1990, 2000, and 2010. The percentages shown are based on the  specific census tract."
 }, 
 {
-  "dataId": "a2tm-gdxt",
-  "url": "https://data.hartford.gov/Community/Behind-the-Rocks-Southwest-NRZ-Census-Data-Census-/a2tm-gdxt",
+  "dataId": "25ku-hfd3",
+  "url": "https://data.hartford.gov/GIS-Mapping/Hartford-Parcels/25ku-hfd3",
+  "dataType": "typeMap",
+  "dataDesc": "City of Hartford GIS Parcels"
+}, 
+{
+  "dataId": "c986-wrvr",
+  "url": "https://data.hartford.gov/Financial/Hartford-Operating-Budget/c986-wrvr",
+  "dataType": "typeBlist",
+  "dataDesc": "This data set is used to populate the operating budget on budget.hartford.gov"
+}, 
+{
+  "dataId": "48qr-er8j",
+  "url": "https://data.hartford.gov/Community/Behind-the-Rocks-Southwest-NRZ-Census-Data-Census-/48qr-er8j",
   "dataType": "typeChart",
   "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is Census Data for the years 1990, 2000, and 2010. The percentages shown are based on the  specific census tract."
 }, 
@@ -2830,12 +3028,6 @@
   "url": "https://data.hartford.gov/Community/Behind-the-Rocks-Southwest-NRZ-Census-Data-Census-/ksmr-a5nz",
   "dataType": "typeChart",
   "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is Census Data for the years 1990, 2000, and 2010. The percentages shown are based on the  specific census tract."
-}, 
-{
-  "dataId": "c986-wrvr",
-  "url": "https://data.hartford.gov/Financial/Hartford-Operating-Budget/c986-wrvr",
-  "dataType": "typeBlist",
-  "dataDesc": "This data set is used to populate the operating budget on budget.hartford.gov"
 }, 
 {
   "dataId": "2jmi-e3pt",
@@ -2862,14 +3054,14 @@
   "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is Census Data for the years 1990, 2000, and 2010. The percentages shown are based on the  specific census tract."
 }, 
 {
-  "dataId": "fu23-zvmj",
-  "url": "https://data.hartford.gov/Community/Based-on-Behind-the-Rocks-Southwest-NRZ-Census-Dat/fu23-zvmj",
+  "dataId": "vs53-4qgb",
+  "url": "https://data.hartford.gov/Community/Behind-the-Rocks-Southwest-NRZ-Census-Data-Census-/vs53-4qgb",
   "dataType": "typeChart",
   "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is Census Data for the years 1990, 2000, and 2010. The percentages shown are based on the  specific census tract."
 }, 
 {
-  "dataId": "vs53-4qgb",
-  "url": "https://data.hartford.gov/Community/Behind-the-Rocks-Southwest-NRZ-Census-Data-Census-/vs53-4qgb",
+  "dataId": "fu23-zvmj",
+  "url": "https://data.hartford.gov/Community/Based-on-Behind-the-Rocks-Southwest-NRZ-Census-Dat/fu23-zvmj",
   "dataType": "typeChart",
   "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is Census Data for the years 1990, 2000, and 2010. The percentages shown are based on the  specific census tract."
 }, 
@@ -2886,18 +3078,6 @@
   "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is Census Data for the years 1990, 2000, and 2010. The percentages shown are based on the  specific census tract."
 }, 
 {
-  "dataId": "enmd-cshk",
-  "url": "https://data.hartford.gov/Community/Behind-the-Rocks-Southwest-NRZ-Census-Data-Census-/enmd-cshk",
-  "dataType": "typeChart",
-  "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is Census Data for the years 1990, 2000, and 2010. The percentages shown are based on the  specific census tract."
-}, 
-{
-  "dataId": "r2uu-hwzj",
-  "url": "https://data.hartford.gov/Community/Behind-the-Rocks-Southwest-NRZ-Census-Data-Census-/r2uu-hwzj",
-  "dataType": "typeChart",
-  "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is Census Data for the years 1990, 2000, and 2010. The percentages shown are based on the  specific census tract."
-}, 
-{
   "dataId": "9gmx-rtdc",
   "url": "https://data.hartford.gov/Housing-Development/Planning-Applications-01-01-2013-to-12-31-2013/9gmx-rtdc",
   "dataType": "typeFilter",
@@ -2908,6 +3088,18 @@
   "url": "https://data.hartford.gov/Housing-Development/Building-Trade-Permits-Issued-Same-Day-7-1-2012-to/845r-tjjh",
   "dataType": "typeBlist",
   "dataDesc": "This data set is being used by our HartStat website to track the number of permits issued on the same day they were recieved. Updated on a nightly basis at 5:40pm."
+}, 
+{
+  "dataId": "enmd-cshk",
+  "url": "https://data.hartford.gov/Community/Behind-the-Rocks-Southwest-NRZ-Census-Data-Census-/enmd-cshk",
+  "dataType": "typeChart",
+  "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is Census Data for the years 1990, 2000, and 2010. The percentages shown are based on the  specific census tract."
+}, 
+{
+  "dataId": "r2uu-hwzj",
+  "url": "https://data.hartford.gov/Community/Behind-the-Rocks-Southwest-NRZ-Census-Data-Census-/r2uu-hwzj",
+  "dataType": "typeChart",
+  "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is Census Data for the years 1990, 2000, and 2010. The percentages shown are based on the  specific census tract."
 }, 
 {
   "dataId": "iwxw-cq5p",
@@ -2946,12 +3138,6 @@
   "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is Census Data for the years 1990, 2000, and 2010. The percentages shown are based on the  specific census tract."
 }, 
 {
-  "dataId": "bgc4-xjmz",
-  "url": "https://data.hartford.gov/Community/Based-on-Based-on-Based-on-Based-on-Behind-the-Roc/bgc4-xjmz",
-  "dataType": "typeChart",
-  "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is Census Data for the years 1990, 2000, and 2010. The percentages shown are based on the  specific census tract."
-}, 
-{
   "dataId": "np73-47ec",
   "url": "https://data.hartford.gov/Community/Based-on-Based-on-Based-on-Based-on-Behind-the-Roc/np73-47ec",
   "dataType": "typeChart",
@@ -2966,6 +3152,12 @@
 {
   "dataId": "xrmu-yn9k",
   "url": "https://data.hartford.gov/Community/Behind-the-Rocks-Southwest-NRZ-Census-Data-Census-/xrmu-yn9k",
+  "dataType": "typeChart",
+  "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is Census Data for the years 1990, 2000, and 2010. The percentages shown are based on the  specific census tract."
+}, 
+{
+  "dataId": "bgc4-xjmz",
+  "url": "https://data.hartford.gov/Community/Based-on-Based-on-Based-on-Based-on-Behind-the-Roc/bgc4-xjmz",
   "dataType": "typeChart",
   "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is Census Data for the years 1990, 2000, and 2010. The percentages shown are based on the  specific census tract."
 }, 
@@ -3060,6 +3252,12 @@
   "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is crime data for 1985, 1990, 1995, 2000,2005,2010, and 2013."
 }, 
 {
+  "dataId": "v2h8-idcq",
+  "url": "https://data.hartford.gov/Housing-Development/Building-and-Trades-Permits-1-1-2015-to-12-31-2015/v2h8-idcq",
+  "dataType": "typeFilter",
+  "dataDesc": "Building and Trades Permits 1/01/2011 to Current. Updated nightly."
+}, 
+{
   "dataId": "pug5-du2h",
   "url": "https://data.hartford.gov/Community/Based-on-Behind-the-Rocks-and-Southwest-NRZ-Census/pug5-du2h",
   "dataType": "typeChart",
@@ -3070,12 +3268,6 @@
   "url": "https://data.hartford.gov/Community/Based-on-Behind-the-Rocks-and-Southwest-NRZ-Census/68h9-sbkg",
   "dataType": "typeChart",
   "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is crime data for 1985, 1990, 1995, 2000,2005,2010, and 2013."
-}, 
-{
-  "dataId": "v2h8-idcq",
-  "url": "https://data.hartford.gov/Housing-Development/Building-and-Trades-Permits-1-1-2015-to-12-31-2015/v2h8-idcq",
-  "dataType": "typeFilter",
-  "dataDesc": "Building and Trades Permits 1/01/2011 to Current. Updated nightly."
 }, 
 {
   "dataId": "vmvf-icyf",
@@ -3096,6 +3288,12 @@
   "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is crime data for 1985, 1990, 1995, 2000,2005,2010, and 2013."
 }, 
 {
+  "dataId": "gab7-hi8g",
+  "url": "https://data.hartford.gov/Public-Health/Mobile-Vendors-Active/gab7-hi8g",
+  "dataType": "typeBlist",
+  "dataDesc": "This dataset is a listing of the current mobile food vendors that have licenses in the City. Updated nightly"
+}, 
+{
   "dataId": "cwxs-2pd8",
   "url": "https://data.hartford.gov/Public-Health/Food-Establishments-classified-as-Restaurant/cwxs-2pd8",
   "dataType": "typeFilter",
@@ -3108,12 +3306,6 @@
   "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is crime data for 1985, 1990, 1995, 2000,2005,2010, and 2013."
 }, 
 {
-  "dataId": "gab7-hi8g",
-  "url": "https://data.hartford.gov/Public-Health/Mobile-Vendors-Active/gab7-hi8g",
-  "dataType": "typeBlist",
-  "dataDesc": "This dataset is a listing of the current mobile food vendors that have licenses in the City. Updated nightly"
-}, 
-{
   "dataId": "7k97-yzir",
   "url": "https://data.hartford.gov/Community/Based-on-Behind-the-Rocks-and-Southwest-NRZ-Census/7k97-yzir",
   "dataType": "typeChart",
@@ -3122,6 +3314,12 @@
 {
   "dataId": "p6zw-xzv5",
   "url": "https://data.hartford.gov/Community/Based-on-Behind-the-Rocks-and-Southwest-NRZ-Census/p6zw-xzv5",
+  "dataType": "typeChart",
+  "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is crime data for 1985, 1990, 1995, 2000,2005,2010, and 2013."
+}, 
+{
+  "dataId": "t8uv-wc72",
+  "url": "https://data.hartford.gov/Community/Based-on-Behind-the-Rocks-and-Southwest-NRZ-Census/t8uv-wc72",
   "dataType": "typeChart",
   "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is crime data for 1985, 1990, 1995, 2000,2005,2010, and 2013."
 }, 
@@ -3138,20 +3336,14 @@
   "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is crime data for 1985, 1990, 1995, 2000,2005,2010, and 2013."
 }, 
 {
-  "dataId": "t8uv-wc72",
-  "url": "https://data.hartford.gov/Community/Based-on-Behind-the-Rocks-and-Southwest-NRZ-Census/t8uv-wc72",
+  "dataId": "tgu9-b9qy",
+  "url": "https://data.hartford.gov/Community/Based-on-Behind-the-Rocks-and-Southwest-NRZ-Census/tgu9-b9qy",
   "dataType": "typeChart",
   "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is crime data for 1985, 1990, 1995, 2000,2005,2010, and 2013."
 }, 
 {
   "dataId": "6tui-gvqq",
   "url": "https://data.hartford.gov/Community/Based-on-Behind-the-Rocks-and-Southwest-NRZ-Census/6tui-gvqq",
-  "dataType": "typeChart",
-  "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is crime data for 1985, 1990, 1995, 2000,2005,2010, and 2013."
-}, 
-{
-  "dataId": "tgu9-b9qy",
-  "url": "https://data.hartford.gov/Community/Based-on-Behind-the-Rocks-and-Southwest-NRZ-Census/tgu9-b9qy",
   "dataType": "typeChart",
   "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is crime data for 1985, 1990, 1995, 2000,2005,2010, and 2013."
 }, 
@@ -3186,6 +3378,12 @@
   "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is crime data for 1985, 1990, 1995, 2000,2005,2010, and 2013."
 }, 
 {
+  "dataId": "e94c-nnap",
+  "url": "https://data.hartford.gov/Community/Based-on-Behind-the-Rocks-and-Southwest-NRZ-Census/e94c-nnap",
+  "dataType": "typeChart",
+  "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is crime data for 1985, 1990, 1995, 2000,2005,2010, and 2013."
+}, 
+{
   "dataId": "acmt-hm8v",
   "url": "https://data.hartford.gov/Community/Based-on-Behind-the-Rocks-and-Southwest-NRZ-Census/acmt-hm8v",
   "dataType": "typeChart",
@@ -3198,14 +3396,14 @@
   "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is crime data for 1985, 1990, 1995, 2000,2005,2010, and 2013."
 }, 
 {
-  "dataId": "e94c-nnap",
-  "url": "https://data.hartford.gov/Community/Based-on-Behind-the-Rocks-and-Southwest-NRZ-Census/e94c-nnap",
+  "dataId": "gdy8-h28k",
+  "url": "https://data.hartford.gov/Community/Based-on-Behind-the-Rocks-and-Southwest-NRZ-Census/gdy8-h28k",
   "dataType": "typeChart",
   "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is crime data for 1985, 1990, 1995, 2000,2005,2010, and 2013."
 }, 
 {
-  "dataId": "gdy8-h28k",
-  "url": "https://data.hartford.gov/Community/Based-on-Behind-the-Rocks-and-Southwest-NRZ-Census/gdy8-h28k",
+  "dataId": "ybd3-vykg",
+  "url": "https://data.hartford.gov/Community/Based-on-Behind-the-Rocks-and-Southwest-NRZ-Census/ybd3-vykg",
   "dataType": "typeChart",
   "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is crime data for 1985, 1990, 1995, 2000,2005,2010, and 2013."
 }, 
@@ -3214,12 +3412,6 @@
   "url": "https://data.hartford.gov/Public-Safety/Total-Incidents-7-1-2015-6-30-2016/b3ks-a3tm",
   "dataType": "typeChart",
   "dataDesc": "This data set is being used by our HartStat website to display the number of incidents per day. Updated nightly."
-}, 
-{
-  "dataId": "ybd3-vykg",
-  "url": "https://data.hartford.gov/Community/Based-on-Behind-the-Rocks-and-Southwest-NRZ-Census/ybd3-vykg",
-  "dataType": "typeChart",
-  "dataDesc": "This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is crime data for 1985, 1990, 1995, 2000,2005,2010, and 2013."
 }, 
 {
   "dataId": "t2ke-gq5p",
@@ -3258,12 +3450,6 @@
   "dataDesc": "Building and Trades Permits 1/01/2011 to Current. Updated nightly."
 }, 
 {
-  "dataId": "paje-zkt3",
-  "url": "https://data.hartford.gov/Public-Health/Food-Establishments-classified-as-Bakery/paje-zkt3",
-  "dataType": "typeFilter",
-  "dataDesc": "Class 1 - Class 4 Food Establishments. Updated nightly. For more information on the Food Establishment Class codes select the about tab and scroll down to the attachments and open the PDF document"
-}, 
-{
   "dataId": "d5gz-4byb",
   "url": "https://data.hartford.gov/Public-Safety/Fire-Incidents-January-1-2013-to-December-31-2013/d5gz-4byb",
   "dataType": "typeFilter",
@@ -3274,6 +3460,12 @@
   "url": "https://data.hartford.gov/Public-Safety/Fire-Incidents-01012012-to-12312012/9xvv-3pp2",
   "dataType": "typeFilter",
   "dataDesc": "All Fire Incidents January 1, 2012 to December 31,2013"
+}, 
+{
+  "dataId": "paje-zkt3",
+  "url": "https://data.hartford.gov/Public-Health/Food-Establishments-classified-as-Bakery/paje-zkt3",
+  "dataType": "typeFilter",
+  "dataDesc": "Class 1 - Class 4 Food Establishments. Updated nightly. For more information on the Food Establishment Class codes select the about tab and scroll down to the attachments and open the PDF document"
 }, 
 {
   "dataId": "xk8h-j69c",
@@ -3294,16 +3486,16 @@
   "dataDesc": "This data set is based on a site visits by the LSNI staff performed in the fall 2012 and the fall of 2013"
 }, 
 {
-  "dataId": "8pfz-upj7",
-  "url": "https://data.hartford.gov/Housing-Development/RESIDENTIAL-SOLAR-PANELS/8pfz-upj7",
-  "dataType": "typeFilter",
-  "dataDesc": "Building and Trades Permits 1/01/2011 to Current. Updated nightly."
-}, 
-{
   "dataId": "iiyf-436i",
   "url": "https://data.hartford.gov/Housing-Development/LSNI-Vacant-Residential-Buildings-2012-2013/iiyf-436i",
   "dataType": "typeBlist",
   "dataDesc": "This data set is based on a site visits by the LSNI staff performed in the fall 2012 and the fall of 2013"
+}, 
+{
+  "dataId": "8pfz-upj7",
+  "url": "https://data.hartford.gov/Housing-Development/RESIDENTIAL-SOLAR-PANELS/8pfz-upj7",
+  "dataType": "typeFilter",
+  "dataDesc": "Building and Trades Permits 1/01/2011 to Current. Updated nightly."
 }, 
 {
   "dataId": "uxtm-zebz",
@@ -3318,16 +3510,16 @@
   "dataDesc": "Planning Applications 1/01/2011 to Current. Updated nightly."
 }, 
 {
-  "dataId": "sx79-y5gc",
-  "url": "https://data.hartford.gov/dataset/Socrata-Help/sx79-y5gc",
-  "dataType": "typeBlist",
-  "dataDesc": "Help with visualizing and using data on data.hartford.gov"
-}, 
-{
   "dataId": "j7cd-7ugv",
   "url": "https://data.hartford.gov/Community/Election-Information/j7cd-7ugv",
   "dataType": "typeBlist",
   "dataDesc": "Election Information for years 2005 - 2015"
+}, 
+{
+  "dataId": "sx79-y5gc",
+  "url": "https://data.hartford.gov/dataset/Socrata-Help/sx79-y5gc",
+  "dataType": "typeBlist",
+  "dataDesc": "Help with visualizing and using data on data.hartford.gov"
 }, 
 {
   "dataId": "j85m-u9dm",
@@ -3378,16 +3570,16 @@
   "dataDesc": "This data set is being used by our HartStat website to display the number of incidents per day. Updated nightly."
 }, 
 {
-  "dataId": "4yft-euy9",
-  "url": "https://data.hartford.gov/Education-Youth-Family/Student-Gender-Grade-Ethnicity-By-Neighborhood-200/4yft-euy9",
-  "dataType": "typeBlist",
-  "dataDesc": "Hartford Public Schools student data by neighborhood school years 2007 - 2010"
-}, 
-{
   "dataId": "62ub-3292",
   "url": "https://data.hartford.gov/Housing-Development/HouseHartford-Comittment-2005-to-June-1-2014/62ub-3292",
   "dataType": "typeBlist",
   "dataDesc": "HouseHartford is a HUD funded program that offers down payment assistance for low/moderate income families purchasing 1-4 family homes and condominiums in Hartford. Updated Monthly."
+}, 
+{
+  "dataId": "4yft-euy9",
+  "url": "https://data.hartford.gov/Education-Youth-Family/Student-Gender-Grade-Ethnicity-By-Neighborhood-200/4yft-euy9",
+  "dataType": "typeBlist",
+  "dataDesc": "Hartford Public Schools student data by neighborhood school years 2007 - 2010"
 }, 
 {
   "dataId": "f86d-qm39",
@@ -3456,20 +3648,14 @@
   "dataDesc": "This data set is being used by our HartStat website to track the number of permits issued on the same day they were recieved. Updated on a nightly basis at 5:40pm."
 }, 
 {
-  "dataId": "e59p-pjht",
-  "url": "https://data.hartford.gov/Housing-Development/Number-of-Building-Applications-Recieved-7-1-2014-/e59p-pjht",
-  "dataType": "typeChart",
-  "dataDesc": "This data set is being used by our HartStat website to track the number of permits issued on the same day they were recieved. Updated on a nightly basis at 5:40pm."
-}, 
-{
   "dataId": "7c47-jsis",
   "url": "https://data.hartford.gov/Housing-Development/Number-of-Building-Applications-Recieved-and-Issue/7c47-jsis",
   "dataType": "typeChart",
   "dataDesc": "This data set is being used by our HartStat website to track the number of permits issued on the same day they were recieved. Updated on a nightly basis at 5:40pm."
 }, 
 {
-  "dataId": "6kwa-2ugk",
-  "url": "https://data.hartford.gov/Housing-Development/Number-of-Building-Applications-Recieved-7-1-2013-/6kwa-2ugk",
+  "dataId": "e59p-pjht",
+  "url": "https://data.hartford.gov/Housing-Development/Number-of-Building-Applications-Recieved-7-1-2014-/e59p-pjht",
   "dataType": "typeChart",
   "dataDesc": "This data set is being used by our HartStat website to track the number of permits issued on the same day they were recieved. Updated on a nightly basis at 5:40pm."
 }, 
@@ -3478,6 +3664,12 @@
   "url": "https://data.hartford.gov/Financial/City-of-Hartford-Business-Listing/4akt-7p7i",
   "dataType": "typeBlist",
   "dataDesc": "The source of this data set is the working file Personal Property Database that is maintained in the Assessor's Office.  This is a listing of all of the active businesses registered in the City. If the business was added to the assessment role after October 1st of the previous year, the Assessment value may be $0.  If you observe any errors or omissions please contact the City Assessor's office at (860) 757-9630. Updated nightly."
+}, 
+{
+  "dataId": "6kwa-2ugk",
+  "url": "https://data.hartford.gov/Housing-Development/Number-of-Building-Applications-Recieved-7-1-2013-/6kwa-2ugk",
+  "dataType": "typeChart",
+  "dataDesc": "This data set is being used by our HartStat website to track the number of permits issued on the same day they were recieved. Updated on a nightly basis at 5:40pm."
 }, 
 {
   "dataId": "th6x-f9s4",
@@ -3592,6 +3784,12 @@
   "url": "https://data.hartford.gov/Financial/Hartford-Glossary/r2m7-fy6r",
   "dataType": "typeBlist",
   "dataDesc": "The glossary is being used for our checkbook Hartford website"
+}, 
+{
+  "dataId": "fgyz-qijk",
+  "url": "https://data.hartford.gov/GIS-Mapping/map/fgyz-qijk",
+  "dataType": "typeMap",
+  "dataDesc": "City of Hartford GIS Parcels"
 }, 
 {
   "dataId": "rwu6-8j9d",

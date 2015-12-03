@@ -299,6 +299,9 @@
     "total_project_cost",
     "zip_code"
   ],
+  "xdcq-7svw": [
+
+  ],
   "t3bn-xdav": [
     "closed",
     "company",
@@ -1054,6 +1057,9 @@
     "name",
     "location_1"
   ],
+  "8bzn-e4av": [
+
+  ],
   "bimu-2gpn": [
     "hospitalization_crude_rate_per_10_000",
     "ed_visit_crude_rate_per_10_000",
@@ -1317,6 +1323,12 @@
     "total_count",
     "type_of_credit"
   ],
+  "tghy-ygnr": [
+    "sum_sentenced_status_count",
+    "sum_total_facility_population_count",
+    "sum_accused_other_status_count",
+    "date"
+  ],
   "cjb2-fkhn": [
     "transportation_fund",
     "other_apropriated_funds",
@@ -1326,12 +1338,6 @@
     "agency_title",
     "federal_funds",
     "nonapropriated_funds"
-  ],
-  "tghy-ygnr": [
-    "sum_sentenced_status_count",
-    "sum_total_facility_population_count",
-    "sum_accused_other_status_count",
-    "date"
   ],
   "uh3c-4r63": [
     "countyfp10",
@@ -1372,6 +1378,13 @@
     "location_1",
     "bushels"
   ],
+  "fdya-crf4": [
+    "sentenced_status_count",
+    "accused_other_status_count",
+    "total_facility_population_count",
+    "facility_name",
+    "date"
+  ],
   "qkcc-8trv": [
     "updatetime",
     "poultry",
@@ -1405,13 +1418,6 @@
     "prepared",
     "y",
     "x"
-  ],
-  "fdya-crf4": [
-    "sentenced_status_count",
-    "accused_other_status_count",
-    "total_facility_population_count",
-    "facility_name",
-    "date"
   ],
   "bg7p-63n2": [
     "project_health",
@@ -1513,6 +1519,9 @@
     "location_1",
     "phone1",
     "business"
+  ],
+  "rnv4-pp5b": [
+
   ],
   "d75v-c5rd": [
     "office",
@@ -1685,6 +1694,9 @@
     "affiliated_health_system_hospital_or_non_affiliated",
     "cash_flow_to_total_debt_ratio"
   ],
+  "c9nz-yr3i": [
+
+  ],
   "q8eg-b88c": [
     "station_name",
     "phone",
@@ -1734,6 +1746,13 @@
     "group",
     "_2009"
   ],
+  "tga8-h5sq": [
+    "category",
+    "other",
+    "districtname",
+    "still_enrolled",
+    "_4_year_graduation_rate"
+  ],
   "pqw2-84sz": [
     "ct_agi",
     "fed_agi_sum",
@@ -1748,13 +1767,6 @@
     "id",
     "recycling",
     "street_name"
-  ],
-  "tga8-h5sq": [
-    "category",
-    "other",
-    "districtname",
-    "still_enrolled",
-    "_4_year_graduation_rate"
   ],
   "b6vp-9fht": [
 
@@ -1776,6 +1788,9 @@
     "town",
     "beginning_mile_point",
     "adt"
+  ],
+  "9y6m-fkd4": [
+
   ],
   "i2kw-ntg2": [
     "tax_due_at_6_35",
@@ -1821,6 +1836,12 @@
     "total_real_property",
     "land_use_ratio",
     "cip_net"
+  ],
+  "4s7n-ckr3": [
+    "indicator",
+    "measure",
+    "value",
+    "year"
   ],
   "2ar3-hwqi": [
     "businessname",
@@ -1875,19 +1896,6 @@
     "number_of_taxpayers",
     "total_retail_sales_of_goods"
   ],
-  "4s7n-ckr3": [
-    "indicator",
-    "measure",
-    "value",
-    "year"
-  ],
-  "apne-w8c6": [
-    "business_name",
-    "license_type",
-    "zip_code",
-    "location_1",
-    "business_address"
-  ],
   "7ikh-6uvh": [
     "total",
     "special_education_2",
@@ -1898,6 +1906,13 @@
     "eligible_for_free_or_reduced_price_lunch_2",
     "eligible_for_free_or_reduced_price_lunch_1",
     "dist"
+  ],
+  "apne-w8c6": [
+    "business_name",
+    "license_type",
+    "zip_code",
+    "location_1",
+    "business_address"
   ],
   "43fc-9893": [
     "fiscal_year",
@@ -1918,18 +1933,6 @@
     "type",
     "url"
   ],
-  "etgx-qn7r": [
-    "weighted_average_of_machines",
-    "handle",
-    "ebonus_credits_redeemed_at_slot_machines_2",
-    "slot_machine_contributions_to_state_of_connecticut_1_6",
-    "ebonus_contribution_3",
-    "hold",
-    "total_contributions_1",
-    "win",
-    "fiscal_year_month",
-    "payout"
-  ],
   "vr9v-n6m6": [
     "amount_fy2011",
     "amount_fy2012",
@@ -1944,6 +1947,18 @@
     "amount_fy2008",
     "amount_fy2010",
     "vendor_name_1"
+  ],
+  "etgx-qn7r": [
+    "weighted_average_of_machines",
+    "handle",
+    "ebonus_credits_redeemed_at_slot_machines_2",
+    "slot_machine_contributions_to_state_of_connecticut_1_6",
+    "ebonus_contribution_3",
+    "hold",
+    "total_contributions_1",
+    "win",
+    "fiscal_year_month",
+    "payout"
   ],
   "3ws5-dy44": [
     "zip",
@@ -2828,16 +2843,16 @@
     "agency_name",
     "count_project_name"
   ],
+  "vnar-mt35": [
+    "_2010_population",
+    "town_num",
+    "town"
+  ],
   "35yf-wvfp": [
     "total_reading_goal_range",
     "total_mathematics_goal_range",
     "year",
     "group"
-  ],
-  "vnar-mt35": [
-    "_2010_population",
-    "town_num",
-    "town"
   ],
   "gxez-g6ke": [
     "total_tax_credits_issued",
@@ -2857,6 +2872,17 @@
     "total_military_jobs_created",
     "tax_credits_issued_2012"
   ],
+  "iecm-8ftj": [
+    "zip",
+    "address",
+    "location",
+    "description",
+    "name",
+    "state",
+    "zipp4",
+    "telephone",
+    "city"
+  ],
   "h78t-88kx": [
     "fax",
     "last",
@@ -2871,17 +2897,6 @@
   "3cp6-wgsk": [
     "project_health",
     "count_agency_name"
-  ],
-  "iecm-8ftj": [
-    "zip",
-    "address",
-    "location",
-    "description",
-    "name",
-    "state",
-    "zipp4",
-    "telephone",
-    "city"
   ],
   "xqib-2aa7": [
     "_2020_male_25_29",
@@ -3321,6 +3336,12 @@
     "percentage_of_kindergarten_students_with_pre_kindergarten_experience_2009_10",
     "district_number"
   ],
+  "ebm6-9a96": [
+
+  ],
+  "nki6-723a": [
+
+  ],
   "399t-fqcf": [
     "total",
     "special_education_2",
@@ -3350,6 +3371,9 @@
     "active",
     "fullcredentialcode",
     "effectivedate"
+  ],
+  "w7gh-9eke": [
+
   ],
   "rkm7-uwkb": [
     "naics_industry_code",
@@ -3500,6 +3524,13 @@
     "phone1",
     "business"
   ],
+  "n4zd-qppb": [
+    "stop_lon",
+    "stop_id",
+    "location",
+    "stop_lat",
+    "stop_name"
+  ],
   "qcgq-9p42": [
     "zip_code",
     "contract",
@@ -3509,13 +3540,6 @@
     "location_1",
     "project_type",
     "name_of_organization"
-  ],
-  "n4zd-qppb": [
-    "stop_lon",
-    "stop_id",
-    "location",
-    "stop_lat",
-    "stop_name"
   ],
   "9huc-qs58": [
     "region",
@@ -3617,6 +3641,9 @@
     "insurance_premiums_taxes",
     "type_of_credit"
   ],
+  "ftfw-fp9f": [
+
+  ],
   "wmb9-muu8": [
     "office",
     "zip_code",
@@ -3651,6 +3678,24 @@
     "town",
     "major_colelctormiles",
     "interstate_dvmt"
+  ],
+  "qre7-ek47": [
+    "town_code",
+    "_2006",
+    "_2005",
+    "_2004",
+    "_2003",
+    "_2009",
+    "_2008",
+    "_2007",
+    "_2012",
+    "_2013",
+    "_2000",
+    "_2010",
+    "_2001",
+    "_2011",
+    "_2002",
+    "town"
   ],
   "mg8h-wy67": [
     "total_student_count",
@@ -3692,23 +3737,8 @@
     "type",
     "url"
   ],
-  "qre7-ek47": [
-    "town_code",
-    "_2006",
-    "_2005",
-    "_2004",
-    "_2003",
-    "_2009",
-    "_2008",
-    "_2007",
-    "_2012",
-    "_2013",
-    "_2000",
-    "_2010",
-    "_2001",
-    "_2011",
-    "_2002",
-    "town"
+  "g5qv-n4qd": [
+
   ],
   "nhvj-awym": [
     "region",
@@ -3815,10 +3845,6 @@
     "credentialdefinitionid",
     "credentialtypeprefix"
   ],
-  "ie23-wrng": [
-    "street_name",
-    "garbage"
-  ],
   "2xqb-xbez": [
     "zip5",
     "location",
@@ -3830,6 +3856,10 @@
     "latitude",
     "store_name",
     "city"
+  ],
+  "ie23-wrng": [
+    "street_name",
+    "garbage"
   ],
   "efa5-f6zx": [
     "companion_svcs",
@@ -3879,6 +3909,9 @@
     "fed_grant_award",
     "tot_fed_expended"
   ],
+  "x5e6-tyjt": [
+
+  ],
   "buy2-z4cz": [
     "total_capacity",
     "phone",
@@ -3920,6 +3953,21 @@
     "overall_dpi_read_2010",
     "overall_dpi_read_2011",
     "overall_dpi_read_2012"
+  ],
+  "gvr6-7b9t": [
+
+  ],
+  "xf9b-um65": [
+    "id",
+    "certifyingagent",
+    "physicaladdress",
+    "operationname",
+    "productsproduced",
+    "county",
+    "zipcode",
+    "location_1",
+    "primaryscope",
+    "certno"
   ],
   "rphg-kgwv": [
     "summary",
@@ -4125,17 +4173,8 @@
     "uconn_health_ctr_pd",
     "mta_pd"
   ],
-  "xf9b-um65": [
-    "id",
-    "certifyingagent",
-    "physicaladdress",
-    "operationname",
-    "productsproduced",
-    "county",
-    "zipcode",
-    "location_1",
-    "primaryscope",
-    "certno"
+  "cp6t-fv4x": [
+
   ],
   "bjps-9hja": [
     "status",
@@ -4161,9 +4200,6 @@
     "vendorid",
     "vendorname",
     "woman"
-  ],
-  "cp6t-fv4x": [
-
   ],
   "vzsv-fg4w": [
     "shape_area",
@@ -4326,6 +4362,21 @@
     "mailingstate",
     "mailingzip"
   ],
+  "r8fi-whh5": [
+    "businessname",
+    "businessstate",
+    "location",
+    "businesszip5",
+    "businessaddress1",
+    "emailid",
+    "businessid",
+    "mailingzip5",
+    "dateincorporated",
+    "mailingaddress1",
+    "mailingcity",
+    "mailingstate",
+    "businesscity"
+  ],
   "35bv-xa6i": [
 
   ],
@@ -4361,36 +4412,6 @@
     "high_needs_spi_overall_2011",
     "overall_spi_write_2012"
   ],
-  "r8fi-whh5": [
-    "businessname",
-    "businessstate",
-    "location",
-    "businesszip5",
-    "businessaddress1",
-    "emailid",
-    "businessid",
-    "mailingzip5",
-    "dateincorporated",
-    "mailingaddress1",
-    "mailingcity",
-    "mailingstate",
-    "businesscity"
-  ],
-  "ru4i-m74j": [
-    "connecticut_care_4_kids"
-  ],
-  "fir6-w458": [
-    "vibrio",
-    "shigella",
-    "yersinia",
-    "cyclospora",
-    "cryptosporidium",
-    "listeria",
-    "campylobacter",
-    "year",
-    "salmonella",
-    "e_coli_o157"
-  ],
   "rybz-nyjw": [
     "residence_county",
     "residence_state",
@@ -4409,6 +4430,21 @@
     "residence_city",
     "death_county",
     "coc"
+  ],
+  "ru4i-m74j": [
+    "connecticut_care_4_kids"
+  ],
+  "fir6-w458": [
+    "vibrio",
+    "shigella",
+    "yersinia",
+    "cyclospora",
+    "cryptosporidium",
+    "listeria",
+    "campylobacter",
+    "year",
+    "salmonella",
+    "e_coli_o157"
   ],
   "56sa-etgx": [
     "as_of",
@@ -4440,19 +4476,22 @@
     "town",
     "project_description"
   ],
+  "sg4r-4tnv": [
+
+  ],
   "6ney-id6t": [
     "phone",
     "vendor",
     "location_1"
   ],
-  "59q7-vx2z": [
-    "connecticut_care_4_kids",
-    "none"
-  ],
   "q5ri-4mnk": [
     "months_of_2014",
     "incoming_calls",
     "year"
+  ],
+  "59q7-vx2z": [
+    "connecticut_care_4_kids",
+    "none"
   ],
   "5zs7-ncqk": [
     "summary",
@@ -4962,6 +5001,13 @@
     "capital_liabilities",
     "capital_surplus"
   ],
+  "xiz5-fkep": [
+    "stop_lon",
+    "stop_id",
+    "location",
+    "stop_lat",
+    "stop_name"
+  ],
   "7dmn-4s5d": [
     "research_development",
     "job_expansion",
@@ -4995,12 +5041,8 @@
   "ugtp-hwh5": [
 
   ],
-  "xiz5-fkep": [
-    "stop_lon",
-    "stop_id",
-    "location",
-    "stop_lat",
-    "stop_name"
+  "n58a-39t6": [
+
   ],
   "ycxv-et3w": [
     "arrival_date",
@@ -5048,6 +5090,9 @@
     "nov_2014",
     "nov_2012"
   ],
+  "85dv-izg4": [
+
+  ],
   "udtt-rx7n": [
     "dist_22",
     "dist_21",
@@ -5073,6 +5118,12 @@
     "dist_10",
     "dist_9"
   ],
+  "fffv-bh3x": [
+    "license_restrictions",
+    "nov_2013",
+    "nov_2014",
+    "nov_2012"
+  ],
   "j6mp-nsv2": [
     "lottery",
     "fye_6_30",
@@ -5083,15 +5134,6 @@
     "poi_site_id",
     "location_1",
     "site_name"
-  ],
-  "n58a-39t6": [
-
-  ],
-  "fffv-bh3x": [
-    "license_restrictions",
-    "nov_2013",
-    "nov_2014",
-    "nov_2012"
   ],
   "jixj-wkjd": [
     "zip",
@@ -5111,12 +5153,6 @@
     "active",
     "fullcredentialcode",
     "effectivedate"
-  ],
-  "7hah-zeuv": [
-    "phone",
-    "zip_code",
-    "location_1",
-    "city"
   ],
   "q79s-2vp7": [
     "phone",
@@ -5141,6 +5177,23 @@
     "location_1",
     "mailingstate",
     "mailingzip"
+  ],
+  "7hah-zeuv": [
+    "phone",
+    "zip_code",
+    "location_1",
+    "city"
+  ],
+  "hijk-5ch6": [
+    "category",
+    "name",
+    "town_no",
+    "geoname_no",
+    "longitude",
+    "latitude",
+    "town",
+    "location_1",
+    "short_name"
   ],
   "qds8-qiwb": [
     "updatetime",
@@ -5205,16 +5258,8 @@
     "fullcredentialcode",
     "effectivedate"
   ],
-  "hijk-5ch6": [
-    "category",
-    "name",
-    "town_no",
-    "geoname_no",
-    "longitude",
-    "latitude",
-    "town",
-    "location_1",
-    "short_name"
+  "9zs3-za23": [
+
   ],
   "c46k-b923": [
     "total_capacity",
@@ -5281,11 +5326,6 @@
     "infant_toddler",
     "town"
   ],
-  "rrcq-gqig": [
-    "permits_processed",
-    "month",
-    "year"
-  ],
   "fnfg-dct4": [
     "region",
     "office",
@@ -5306,6 +5346,14 @@
     "therapeutic_foster_care",
     "hospital",
     "total_entries"
+  ],
+  "rrcq-gqig": [
+    "permits_processed",
+    "month",
+    "year"
+  ],
+  "ddda-32cf": [
+
   ],
   "vu37-8imu": [
     "sdchool_age",
@@ -6364,6 +6412,9 @@
     "objectid",
     "section"
   ],
+  "qf49-cvnk": [
+
+  ],
   "644z-yvd8": [
     "handicap_placards",
     "month",
@@ -6582,6 +6633,9 @@
     "month",
     "year"
   ],
+  "n7kw-xx5z": [
+
+  ],
   "4jc3-c5bs": [
     "first_name",
     "phone",
@@ -6602,6 +6656,9 @@
     "phone_calls",
     "special_plates",
     "driver_histories"
+  ],
+  "j7r7-bpkr": [
+
   ],
   "v77e-h3gb": [
     "file",
@@ -6834,6 +6891,9 @@
     "insurance_premiums_taxes",
     "type_of_credit"
   ],
+  "sist-ypb8": [
+
+  ],
   "gms2-zq5b": [
 
   ],
@@ -6841,6 +6901,9 @@
     "preschool_age",
     "infant_toddler",
     "town"
+  ],
+  "s8kf-niv9": [
+
   ],
   "aspx-imar": [
     "no_of_transactions",
@@ -6855,6 +6918,10 @@
   "mnaa-kin3": [
 
   ],
+  "6wz3-tm5n": [
+    "incoming_calls",
+    "month"
+  ],
   "728g-v3yi": [
     "property_type",
     "access_id",
@@ -6866,6 +6933,9 @@
     "access",
     "objectid",
     "section"
+  ],
+  "67x4-3awi": [
+
   ],
   "3smp-g7gj": [
     "part_of_which_facility",
@@ -6888,9 +6958,8 @@
     "location_1",
     "gross_square_feet"
   ],
-  "6wz3-tm5n": [
-    "incoming_calls",
-    "month"
+  "spx2-pgqu": [
+
   ],
   "wbi8-5vhf": [
     "region",
@@ -6978,6 +7047,12 @@
     "otb_teletheaters",
     "pari_mutuel_jai_alai",
     "pari_mutuel_greyhound_racing"
+  ],
+  "dy99-nzrf": [
+
+  ],
+  "bsk8-skak": [
+
   ],
   "usrc-sgkg": [
     "summary",
@@ -7574,6 +7649,12 @@
     "total_medicaid_recipients",
     "state_supplement_total"
   ],
+  "245t-pvpn": [
+
+  ],
+  "724p-h6p6": [
+
+  ],
   "ffti-3zst": [
     "tfa_regular_cases",
     "tfa_two_parent_cases",
@@ -7721,6 +7802,14 @@
     "tfa_total_recipients",
     "total_medicaid_recipients",
     "state_supplement_total"
+  ],
+  "pxbk-462y": [
+    "agency",
+    "days_in_process",
+    "file",
+    "posted_date",
+    "public_notice_date",
+    "short_name"
   ],
   "9r6j-9p8n": [
     "town_code",
@@ -7978,6 +8067,12 @@
     "type_of_inspections",
     "hamden"
   ],
+  "ynh4-e9kv": [
+
+  ],
+  "xbcx-kyfm": [
+
+  ],
   "y4mj-dt3b": [
     "status_of_ihz"
   ],
@@ -8036,6 +8131,14 @@
   "f7xn-cnsq": [
     "status_of_ihz"
   ],
+  "m5p3-vpcs": [
+    "agency",
+    "days_in_process",
+    "file",
+    "posted_date",
+    "public_notice_date",
+    "short_name"
+  ],
   "tewy-5stv": [
     "tfa_regular_cases",
     "tfa_two_parent_cases",
@@ -8054,6 +8157,9 @@
     "total_medicaid_recipients",
     "state_supplement_total"
   ],
+  "8cnp-w8ic": [
+
+  ],
   "tusz-n3pv": [
 
   ],
@@ -8065,9 +8171,6 @@
     "date_designated"
   ],
   "vmz7-tuv5": [
-
-  ],
-  "8cnp-w8ic": [
 
   ],
   "xw6v-i328": [
@@ -8110,9 +8213,6 @@
     "alm_time",
     "alm_date",
     "street",
-    "descript",
-    "st_type",
-    "number",
     "shift"
   ],
   "uepu-9ktm": [
@@ -8259,7 +8359,9 @@
     "tow_firm_phone",
     "townum",
     "geom",
+    "vehicle_state",
     "date",
+    "vehicle_plate",
     "time",
     "color",
     "vehicle_year",
@@ -8592,6 +8694,11 @@
     "ucr_2_code",
     "ucr_1_description"
   ],
+  "9t3u-k43z": [
+    "search",
+    "link",
+    "layername"
+  ],
   "2hvc-jqby": [
     "alm_date",
     "street",
@@ -8612,33 +8719,6 @@
     "alarms",
     "latitude",
     "shift"
-  ],
-  "9t3u-k43z": [
-    "search",
-    "link",
-    "layername"
-  ],
-  "cbzv-qf8c": [
-    "high_school_district",
-    "neighborhood",
-    "gender",
-    "race",
-    "ethnicity",
-    "birth_year"
-  ],
-  "3ii4-an4w": [
-    "ycoord",
-    "originating_dept",
-    "permit_type",
-    "parcel_id",
-    "status_memo",
-    "xcoord",
-    "applicationref",
-    "application_reviewer",
-    "status",
-    "location",
-    "application_recieved",
-    "geom"
   ],
   "agaq-47m3": [
     "medianhouseholdincome",
@@ -8699,6 +8779,52 @@
     "owner",
     "proposed_zone"
   ],
+  "cbzv-qf8c": [
+    "high_school_district",
+    "neighborhood",
+    "gender",
+    "race",
+    "ethnicity",
+    "birth_year"
+  ],
+  "3ii4-an4w": [
+    "ycoord",
+    "originating_dept",
+    "permit_type",
+    "parcel_id",
+    "status_memo",
+    "xcoord",
+    "applicationref",
+    "application_reviewer",
+    "status",
+    "location",
+    "application_recieved",
+    "geom"
+  ],
+  "7p72-k6tv": [
+    "permit_type",
+    "parcel_id",
+    "xcoord",
+    "location",
+    "status",
+    "contractor",
+    "application_recieved",
+    "geom",
+    "proposed_use",
+    "location_desc",
+    "application_issue_date",
+    "fee_effective_date",
+    "ycoord",
+    "originating_dept",
+    "applicationref",
+    "project_activity_desc_line_1",
+    "project_activity_desc_line_2",
+    "estimated_cost",
+    "project_activity",
+    "owner",
+    "proposed_zone",
+    "actual_end_date"
+  ],
   "589u-hsm3": [
     "medianhouseholdincome",
     "somecollegenodegreeper25plus",
@@ -8735,30 +8861,6 @@
     "homeownervacancyrateper",
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
-  ],
-  "7p72-k6tv": [
-    "permit_type",
-    "parcel_id",
-    "xcoord",
-    "location",
-    "status",
-    "contractor",
-    "application_recieved",
-    "geom",
-    "proposed_use",
-    "location_desc",
-    "application_issue_date",
-    "fee_effective_date",
-    "ycoord",
-    "originating_dept",
-    "applicationref",
-    "project_activity_desc_line_1",
-    "project_activity_desc_line_2",
-    "estimated_cost",
-    "project_activity",
-    "owner",
-    "proposed_zone",
-    "actual_end_date"
   ],
   "cbqv-upy8": [
     "somecollegenodegreeper25plus",
@@ -8833,9 +8935,6 @@
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
   ],
-  "qxa9-dq4g": [
-
-  ],
   "nv2j-q56i": [
     "reported",
     "parcel_id",
@@ -8852,6 +8951,9 @@
     "ownername",
     "sequence",
     "zone"
+  ],
+  "qxa9-dq4g": [
+
   ],
   "dfph-djvq": [
     "medianhouseholdincome",
@@ -8951,7 +9053,7 @@
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
   ],
-  "48qr-er8j": [
+  "a2tm-gdxt": [
     "medianhouseholdincome",
     "somecollegenodegreeper25plus",
     "blackorafricanamerican",
@@ -8988,7 +9090,23 @@
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
   ],
-  "a2tm-gdxt": [
+  "25ku-hfd3": [
+
+  ],
+  "c986-wrvr": [
+    "approved_amount",
+    "fiscal_year",
+    "fund_type",
+    "expense_type",
+    "recommended_amount",
+    "description",
+    "program",
+    "department",
+    "service",
+    "expense_category",
+    "fund"
+  ],
+  "48qr-er8j": [
     "medianhouseholdincome",
     "somecollegenodegreeper25plus",
     "blackorafricanamerican",
@@ -9098,19 +9216,6 @@
     "homeownervacancyrateper",
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
-  ],
-  "c986-wrvr": [
-    "approved_amount",
-    "fiscal_year",
-    "fund_type",
-    "expense_type",
-    "recommended_amount",
-    "description",
-    "program",
-    "department",
-    "service",
-    "expense_category",
-    "fund"
   ],
   "2jmi-e3pt": [
     "medianhouseholdincome",
@@ -9260,7 +9365,7 @@
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
   ],
-  "fu23-zvmj": [
+  "vs53-4qgb": [
     "somecollegenodegreeper25plus",
     "blackorafricanamerican",
     "bachelorsdegreeper25plus",
@@ -9296,7 +9401,7 @@
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
   ],
-  "vs53-4qgb": [
+  "fu23-zvmj": [
     "somecollegenodegreeper25plus",
     "blackorafricanamerican",
     "bachelorsdegreeper25plus",
@@ -9405,6 +9510,26 @@
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
   ],
+  "9gmx-rtdc": [
+    "ycoord",
+    "originating_dept",
+    "permit_type",
+    "parcel_id",
+    "status_memo",
+    "xcoord",
+    "applicationref",
+    "application_reviewer",
+    "status",
+    "location",
+    "application_recieved",
+    "geom"
+  ],
+  "845r-tjjh": [
+    "number_of_applications_recieved",
+    "percent_permits_issued_same_day",
+    "date_application_recieved",
+    "permits_issued_same_day"
+  ],
   "enmd-cshk": [
     "somecollegenodegreeper25plus",
     "blackorafricanamerican",
@@ -9477,26 +9602,6 @@
     "homeownervacancyrateper",
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
-  ],
-  "9gmx-rtdc": [
-    "ycoord",
-    "originating_dept",
-    "permit_type",
-    "parcel_id",
-    "status_memo",
-    "xcoord",
-    "applicationref",
-    "application_reviewer",
-    "status",
-    "location",
-    "application_recieved",
-    "geom"
-  ],
-  "845r-tjjh": [
-    "number_of_applications_recieved",
-    "percent_permits_issued_same_day",
-    "date_application_recieved",
-    "permits_issued_same_day"
   ],
   "iwxw-cq5p": [
     "medianhouseholdincome",
@@ -9718,43 +9823,6 @@
     "femalehouseholder",
     "graduateorprofessionaldegreeper25plus"
   ],
-  "bgc4-xjmz": [
-    "medianhouseholdincome",
-    "somecollegenodegreeper25plus",
-    "blackorafricanamerican",
-    "bachelorsdegreeper25plus",
-    "whitealoneper",
-    "femalepopulationper",
-    "totalhouseholds",
-    "femalepopulation",
-    "census_tract_by_year",
-    "year",
-    "census_tract",
-    "blackorafricanamericanper",
-    "rentervacancyrateper",
-    "population25andover",
-    "employedper",
-    "totalpopulation",
-    "neighborhood",
-    "femalehouseholderper",
-    "highschoolgraduateorhigherper25plus",
-    "precentbachelorsdegreeorhigherper25plus",
-    "allpeoplewhoseincomeinpast12monthsisbelowpovertylineper",
-    "unemployedper",
-    "population16yearsandoverinlaborforceper",
-    "other",
-    "malepopulation",
-    "vacanthousingunits",
-    "year_by_census_track",
-    "population18_24",
-    "highschoolgraduateorequivalencyper25plus",
-    "malepopulationper",
-    "otherper",
-    "whitealone",
-    "homeownervacancyrateper",
-    "femalehouseholder",
-    "graduateorprofessionaldegreeper25plus"
-  ],
   "np73-47ec": [
     "somecollegenodegreeper25plus",
     "blackorafricanamerican",
@@ -9829,6 +9897,43 @@
     "graduateorprofessionaldegreeper25plus"
   ],
   "xrmu-yn9k": [
+    "medianhouseholdincome",
+    "somecollegenodegreeper25plus",
+    "blackorafricanamerican",
+    "bachelorsdegreeper25plus",
+    "whitealoneper",
+    "femalepopulationper",
+    "totalhouseholds",
+    "femalepopulation",
+    "census_tract_by_year",
+    "year",
+    "census_tract",
+    "blackorafricanamericanper",
+    "rentervacancyrateper",
+    "population25andover",
+    "employedper",
+    "totalpopulation",
+    "neighborhood",
+    "femalehouseholderper",
+    "highschoolgraduateorhigherper25plus",
+    "precentbachelorsdegreeorhigherper25plus",
+    "allpeoplewhoseincomeinpast12monthsisbelowpovertylineper",
+    "unemployedper",
+    "population16yearsandoverinlaborforceper",
+    "other",
+    "malepopulation",
+    "vacanthousingunits",
+    "year_by_census_track",
+    "population18_24",
+    "highschoolgraduateorequivalencyper25plus",
+    "malepopulationper",
+    "otherper",
+    "whitealone",
+    "homeownervacancyrateper",
+    "femalehouseholder",
+    "graduateorprofessionaldegreeper25plus"
+  ],
+  "bgc4-xjmz": [
     "medianhouseholdincome",
     "somecollegenodegreeper25plus",
     "blackorafricanamerican",
@@ -9995,7 +10100,9 @@
     "tow_firm_phone",
     "townum",
     "geom",
+    "vehicle_state",
     "date",
+    "vehicle_plate",
     "time",
     "color",
     "vehicle_year",
@@ -10132,14 +10239,6 @@
     "sum_incidents",
     "year"
   ],
-  "pug5-du2h": [
-    "sum_incidents",
-    "year"
-  ],
-  "68h9-sbkg": [
-    "sum_incidents",
-    "year"
-  ],
   "v2h8-idcq": [
     "permit_type",
     "parcel_id",
@@ -10163,6 +10262,14 @@
     "owner",
     "proposed_zone"
   ],
+  "pug5-du2h": [
+    "sum_incidents",
+    "year"
+  ],
+  "68h9-sbkg": [
+    "sum_incidents",
+    "year"
+  ],
   "vmvf-icyf": [
     "agency",
     "_1997_1998",
@@ -10175,6 +10282,20 @@
   "qbk9-gryk": [
     "sum_incidents",
     "year"
+  ],
+  "gab7-hi8g": [
+    "zip",
+    "owner_name",
+    "dba",
+    "state",
+    "license_expire_date",
+    "address1",
+    "last_license_date",
+    "first_license_date",
+    "vendor_food_class",
+    "city",
+    "blms_id",
+    "license_issue_date"
   ],
   "cwxs-2pd8": [
     "blms_loc_street",
@@ -10193,25 +10314,15 @@
     "sum_incidents",
     "year"
   ],
-  "gab7-hi8g": [
-    "zip",
-    "owner_name",
-    "dba",
-    "state",
-    "license_expire_date",
-    "address1",
-    "last_license_date",
-    "first_license_date",
-    "vendor_food_class",
-    "city",
-    "blms_id",
-    "license_issue_date"
-  ],
   "7k97-yzir": [
     "sum_incidents",
     "year"
   ],
   "p6zw-xzv5": [
+    "sum_incidents",
+    "year"
+  ],
+  "t8uv-wc72": [
     "sum_incidents",
     "year"
   ],
@@ -10223,15 +10334,11 @@
     "sum_incidents",
     "year"
   ],
-  "t8uv-wc72": [
+  "tgu9-b9qy": [
     "sum_incidents",
     "year"
   ],
   "6tui-gvqq": [
-    "sum_incidents",
-    "year"
-  ],
-  "tgu9-b9qy": [
     "sum_incidents",
     "year"
   ],
@@ -10255,6 +10362,10 @@
     "sum_incidents",
     "year"
   ],
+  "e94c-nnap": [
+    "sum_incidents",
+    "year"
+  ],
   "acmt-hm8v": [
     "sum_incidents",
     "year"
@@ -10263,11 +10374,11 @@
     "sum_incidents",
     "year"
   ],
-  "e94c-nnap": [
+  "gdy8-h28k": [
     "sum_incidents",
     "year"
   ],
-  "gdy8-h28k": [
+  "ybd3-vykg": [
     "sum_incidents",
     "year"
   ],
@@ -10277,10 +10388,6 @@
     "ems_calls",
     "total_number_of_calls",
     "fire_calls"
-  ],
-  "ybd3-vykg": [
-    "sum_incidents",
-    "year"
   ],
   "t2ke-gq5p": [
     "sum_incidents",
@@ -10372,19 +10479,6 @@
     "proposed_zone",
     "actual_end_date"
   ],
-  "paje-zkt3": [
-    "blms_loc_street",
-    "ycoord",
-    "blms_dba",
-    "blms_parcel",
-    "xcoord",
-    "bldt_lic_text3",
-    "bldt_lic_text6",
-    "blms_id",
-    "blms_loc_no",
-    "geom",
-    "bldt_lic_text2"
-  ],
   "d5gz-4byb": [
     "alm_date",
     "street",
@@ -10437,6 +10531,19 @@
     "latitude",
     "shift"
   ],
+  "paje-zkt3": [
+    "blms_loc_street",
+    "ycoord",
+    "blms_dba",
+    "blms_parcel",
+    "xcoord",
+    "bldt_lic_text3",
+    "bldt_lic_text6",
+    "blms_id",
+    "blms_loc_no",
+    "geom",
+    "bldt_lic_text2"
+  ],
   "xk8h-j69c": [
     "blms_loc_street",
     "ycoord",
@@ -10483,6 +10590,23 @@
     "photolink",
     "streetname"
   ],
+  "iiyf-436i": [
+    "parcel_id",
+    "xcoord",
+    "streetnum",
+    "location",
+    "zipcode",
+    "state",
+    "geom",
+    "city",
+    "ycoord",
+    "unitcount",
+    "luc",
+    "year",
+    "mailingaddress1",
+    "objectid",
+    "streetname"
+  ],
   "8pfz-upj7": [
     "permit_type",
     "parcel_id",
@@ -10503,23 +10627,6 @@
     "project_activity",
     "owner",
     "proposed_zone"
-  ],
-  "iiyf-436i": [
-    "parcel_id",
-    "xcoord",
-    "streetnum",
-    "location",
-    "zipcode",
-    "state",
-    "geom",
-    "city",
-    "ycoord",
-    "unitcount",
-    "luc",
-    "year",
-    "mailingaddress1",
-    "objectid",
-    "streetname"
   ],
   "uxtm-zebz": [
     "tpfield00",
@@ -10545,16 +10652,16 @@
     "application_recieved",
     "geom"
   ],
-  "sx79-y5gc": [
-    "description",
-    "link",
-    "name"
-  ],
   "j7cd-7ugv": [
     "sortorder",
     "description",
     "web_link",
     "year"
+  ],
+  "sx79-y5gc": [
+    "description",
+    "link",
+    "name"
   ],
   "j85m-u9dm": [
     "all_other_calls",
@@ -10631,6 +10738,30 @@
     "total_number_of_calls",
     "fire_calls"
   ],
+  "62ub-3292": [
+    "household_size",
+    "zip_code",
+    "location",
+    "firsttimehomebuyer",
+    "house_hold_income_61_80_percent",
+    "volume1",
+    "geom",
+    "location_of_property",
+    "numofunits",
+    "closing_cost_amount",
+    "xcoord",
+    "page1",
+    "neighborhood",
+    "fiscal_year",
+    "ycoord",
+    "down_payment_amount",
+    "applicant_htfd_res",
+    "purchase_price_total_dev_cost",
+    "total_amount_of_home_funds_comm",
+    "ethnicity",
+    "application_receipt_date",
+    "closing_date1"
+  ],
   "4yft-euy9": [
     "gender_female",
     "race_asian",
@@ -10655,30 +10786,6 @@
     "grade_10",
     "race_american_indian",
     "grade_kf"
-  ],
-  "62ub-3292": [
-    "household_size",
-    "zip_code",
-    "location",
-    "firsttimehomebuyer",
-    "house_hold_income_61_80_percent",
-    "volume1",
-    "geom",
-    "location_of_property",
-    "numofunits",
-    "closing_cost_amount",
-    "xcoord",
-    "page1",
-    "neighborhood",
-    "fiscal_year",
-    "ycoord",
-    "down_payment_amount",
-    "applicant_htfd_res",
-    "purchase_price_total_dev_cost",
-    "total_amount_of_home_funds_comm",
-    "ethnicity",
-    "application_receipt_date",
-    "closing_date1"
   ],
   "f86d-qm39": [
     "number_of_applications_recieved",
@@ -10776,19 +10883,13 @@
     "date_application_recieved",
     "permits_issued_same_day"
   ],
-  "e59p-pjht": [
-    "number_of_applications_recieved",
-    "percent_permits_issued_same_day",
-    "date_application_recieved",
-    "permits_issued_same_day"
-  ],
   "7c47-jsis": [
     "number_of_applications_recieved",
     "percent_permits_issued_same_day",
     "date_application_recieved",
     "permits_issued_same_day"
   ],
-  "6kwa-2ugk": [
+  "e59p-pjht": [
     "number_of_applications_recieved",
     "percent_permits_issued_same_day",
     "date_application_recieved",
@@ -10809,6 +10910,12 @@
     "owner",
     "account",
     "assessment"
+  ],
+  "6kwa-2ugk": [
+    "number_of_applications_recieved",
+    "percent_permits_issued_same_day",
+    "date_application_recieved",
+    "permits_issued_same_day"
   ],
   "th6x-f9s4": [
     "_2005_2006",
@@ -10995,7 +11102,6 @@
   "drp5-trin": [
     "alm_date",
     "street",
-    "occup_id",
     "state",
     "city",
     "alm_type",
@@ -11020,25 +11126,7 @@
     "date"
   ],
   "m8p5-vq8r": [
-    "alm_date",
-    "street",
-    "occup_id",
-    "state",
-    "city",
-    "alm_type",
-    "st_type",
-    "longitude",
-    "inci_no",
-    "zip",
-    "alm_time",
-    "mutl_aid",
-    "station",
-    "descript",
-    "inci_type",
-    "number",
-    "alarms",
-    "latitude",
-    "shift"
+
   ],
   "b72z-2g8a": [
     "numberofsessions",
@@ -11072,6 +11160,9 @@
     "term",
     "description",
     "term_type"
+  ],
+  "fgyz-qijk": [
+
   ],
   "rwu6-8j9d": [
     "alm_date",
